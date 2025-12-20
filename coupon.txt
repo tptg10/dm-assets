@@ -1,0 +1,1859 @@
+{
+  "version": "20250711",
+  "TA_NATIVE": "false",
+  "AD2_NATIVE": "true",
+  "ADBERT_NATIVE": "true",
+  "title": "2024 會員護照",
+  "prefix": "https://tptg.neocities.org",
+  "extra": [
+    {
+    
+      "title": "賣場商品精選優惠 20251215~20251221",
+      "subtitle": "20251215~20251221",
+      "type": "sub",
+      "thumbnail": "/limited/20251215_1_tb.jpg",
+      "extra": {
+        "display": "passport",
+        "extra": [
+          {
+            "title": "20251215~20251221",
+            "subtitle": "20251215~20251221",
+            "type": "sub|textonly",
+            "thumbnail": "/limited/wallet2025_1.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "飛利浦 65吋QLED顯示器",
+                  "id": "",
+                  "price": [
+                    "23999"
+                  ],
+                  "discount": [
+                    "4800"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_101.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "伊萊克斯空氣清淨機",
+                  "id": "",
+                  "price": [
+                    "9169"
+                  ],
+                  "discount": [
+                    "1870"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_102.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "艾美特 對流式電暖器",
+                  "id": "",
+                  "price": [
+                    "5899"
+                  ],
+                  "discount": [
+                    "1200"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_103.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "ORAL-B 舒適深潔牙線",
+                  "id": "",
+                  "price": [
+                    "439"
+                  ],
+                  "discount": [
+                    "110"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_104.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "FARBERWARE 沙拉蔬果脱水器",
+                  "id": "",
+                  "price": [
+                    "499"
+                  ],
+                  "discount": [
+                    "100"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_105.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "蘭諾 衣物芳香豆 晨曦玫瑰",
+                  "id": "",
+                  "price": [
+                    "799"
+                  ],
+                  "discount": [
+                    "160"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_106.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "哈瑞寶v酸甜蟲蟲Q軟糖",
+                  "id": "",
+                  "price": [
+                    "399"
+                  ],
+                  "discount": [
+                    "80"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_107.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "樂天千層派濃厚巧克力風味",
+                  "id": "",
+                  "price": [
+                    "299"
+                  ],
+                  "discount": [
+                    "60"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_108.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "卜蜂冷藏義式雞胸",
+                  "id": "",
+                  "price": [
+                    "309"
+                  ],
+                  "discount": [
+                    "64"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_109.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "金賓 波本威士忌蘋果風味利口酒",
+                  "id": "",
+                  "price": [
+                    "599"
+                  ],
+                  "discount": [
+                    "120"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_110.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "原萃白毫烏龍茶",
+                  "id": "",
+                  "price": [
+                    "429"
+                  ],
+                  "discount": [
+                    "90"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_111.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "優鮮沛蔓越莓 100% 綜合果汁",
+                  "id": "",
+                  "price": [
+                    "349"
+                  ],
+                  "discount": [
+                    "70"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_112.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "老協珍冷凍黃金蟲草蕈菇雞湯",
+                  "id": "",
+                  "price": [
+                    "699"
+                  ],
+                  "discount": [
+                    "140"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_113.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "科克蘭新鮮藍莓可麗餅",
+                  "id": "",
+                  "price": [
+                    "399"
+                  ],
+                  "discount": [
+                    "80"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_114.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "顧可飛檸檬酸鈣錠",
+                  "id": "",
+                  "price": [799],
+                  "discount": [140],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_115.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "瑪卡750毫克膠囊",
+                  "id": "",
+                  "price": [
+                    "679"
+                  ],
+                  "discount": [
+                    "140"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_116.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "明治明倍適營養補充杯",
+                  "id": "",
+                  "price": [
+                    "1549"
+                  ],
+                  "discount": [
+                    "310"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_117.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                }
+                
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "title": "會員皮夾 20251027~20251221",
+      "subtitle": "20251027~20251221",
+      "type": "sub",
+      "thumbnail": "/dm/wallet2025/wallet2025.jpg",
+      "extra": {
+        "display": "passport",
+        "extra": [
+          {
+            "title": "20251027~20251109",
+            "subtitle": "20251027~20251109",
+            "type": "sub|textonly",
+            "thumbnail": "/dm/wallet2025/wallet2025_1.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "一次購買及安裝四條相同規格米其林輪胎，即可享有優惠",
+                  "id": "",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_1.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "LOOPLOOP磁吸式傳輸充電線",
+                  "id": "",
+                  "price": [
+                    "699"
+                  ],
+                  "discount": [
+                    "160"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_2.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "TCL 55吋 MINI LED顯示器",
+                  "id": "",
+                  "price": [
+                    "21999"
+                  ],
+                  "discount": [
+                    "4400"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_3.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "SAMSUNG 351公升雙門冰箱",
+                  "id": "",
+                  "price": [
+                    "19999"
+                  ],
+                  "discount": [
+                    "4001"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_4.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "飛利浦SONICARE 充電式智能音波牙刷 2入",
+                  "id": "",
+                  "price": [
+                    "5999"
+                  ],
+                  "discount": [
+                    "1220"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_5.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "ERGOKING 全功能網布人體工學椅",
+                  "id": "",
+                  "price": [
+                    "8799"
+                  ],
+                  "discount": [
+                    "1800"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_6.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "舒特膚長效潤膚乳",
+                  "id": "",
+                  "price": [
+                    "615"
+                  ],
+                  "discount": [
+                    "150"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_7.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "蘭諾衣物芳香豆 晨曦玫瑰",
+                  "id": "",
+                  "price": [
+                    "799"
+                  ],
+                  "discount": [
+                    "160"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_8.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "滿意寶寶瞬潔乾爽紙尿褲",
+                  "id": "",
+                  "price": [
+                    "1245"
+                  ],
+                  "discount": [
+                    "250"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_9.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "滿意寶寶 哆啦A夢輕巧褲",
+                  "id": "",
+                  "price": [
+                    "1049"
+                  ],
+                  "discount": [
+                    "210"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_10.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "歐司朗 20W LED燈泡 4入 白光",
+                  "id": "",
+                  "price": [
+                    "749"
+                  ],
+                  "discount": [
+                    "150"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_11.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "歐司朗 20W LED燈泡 4入 自然光",
+                  "id": "",
+                  "price": [
+                    "749"
+                  ],
+                  "discount": [
+                    "150"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_12.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "KOLOKO & CADINA MINI 經典美味雙享組",
+                  "id": "",
+                  "price": [
+                    "299"
+                  ],
+                  "discount": [
+                    "60"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_13.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "高端食品藜麥椒鹽蘇打餅",
+                  "id": "",
+                  "price": [
+                    "369"
+                  ],
+                  "discount": [
+                    "80"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_14.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "義美QQ糖巧克球",
+                  "id": "",
+                  "price": [
+                    "399"
+                  ],
+                  "discount": [
+                    "80"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_15.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "西雅圖即品拿鐵",
+                  "id": "",
+                  "price": [
+                    "689"
+                  ],
+                  "discount": [
+                    "140"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_16.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "康寶港式酸辣濃湯",
+                  "id": "",
+                  "price": [
+                    "319"
+                  ],
+                  "discount": [
+                    "70"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_17.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "康寶金黃玉米濃湯",
+                  "id": "",
+                  "price": [
+                    "319"
+                  ],
+                  "discount": [
+                    "70"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_18.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "特樂口元氣咖哩塊（辛/甘）",
+                  "id": "",
+                  "price": [
+                    "229"
+                  ],
+                  "discount": [
+                    "50"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_19.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "WEBBER NATURALS蔓越莓濃縮精華膠囊",
+                  "id": "",
+                  "price": [
+                    "635"
+                  ],
+                  "discount": [
+                    "130"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_20.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "星巴克中度烘焙即溶咖啡",
+                  "id": "",
+                  "price": [
+                    "499"
+                  ],
+                  "discount": [
+                    "100"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_21.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "大成冷凍椒鹽薄皮炸雞",
+                  "id": "",
+                  "price": [
+                    "399"
+                  ],
+                  "discount": [
+                    "80"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_22.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "傑克丹尼美國田納西威士忌",
+                  "id": "",
+                  "price": [
+                    "1259"
+                  ],
+                  "discount": [
+                    "260"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_23.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "享點子泰式綠咖哩雞",
+                  "id": "",
+                  "price": [
+                    "369"
+                  ],
+                  "discount": [
+                    "80"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_24.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "GALILEO 冷凍迷你瑪格麗特披薩",
+                  "id": "",
+                  "price": [
+                    "249"
+                  ],
+                  "discount": [
+                    "50"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_25.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "正官庄高麗蔘精 EVERYTIME",
+                  "id": "",
+                  "price": [
+                    "1199"
+                  ],
+                  "discount": [
+                    "240"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_26.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "台灣豬腹脅排切塊",
+                  "id": "",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_27.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "挺立關鍵迷你錠",
+                  "id": "",
+                  "price": [
+                    "1799"
+                  ],
+                  "discount": [
+                    "360"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_28.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "老食粹有機枸杞",
+                  "id": "",
+                  "price": [
+                    "499"
+                  ],
+                  "discount": [
+                    "100"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_29.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "老食粹有機紅棗",
+                  "id": "",
+                  "price": [
+                    "299"
+                  ],
+                  "discount": [
+                    "60"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_30.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "MIVUE MP05前後雙2K鏡頭 1440P 機車行車記錄器附 32G 記憶卡",
+                  "id": "",
+                  "price": [
+                    "3489"
+                  ],
+                  "discount": [
+                    "700"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_31.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "美康雅二合一掛燙刷熨斗",
+                  "id": "",
+                  "price": [
+                    "2059"
+                  ],
+                  "discount": [
+                    "431"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_32.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "威德 一日補給50+",
+                  "id": "",
+                  "price": [
+                    "1299"
+                  ],
+                  "discount": [
+                    "260"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_33.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                },
+                {
+                  "title": "樂亦康 APF 益生菌膠囊",
+                  "id": "",
+                  "price": [
+                    "2359"
+                  ],
+                  "discount": [
+                    "480"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251027_34.jpg",
+                  "subtitle": "20251027~20251109",
+                  "extra": ""
+                }
+              ]
+            }
+          },
+          {
+            "title": "20251110~20251123",
+            "subtitle": "20251110~20251123",
+            "type": "sub|textonly",
+            "thumbnail": "/dm/wallet2025/wallet2025_1.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "一次購買及安裝四條相同規格米其林輪胎，即可享有優惠",
+                  "id": "",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_1.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "SAMSUNG 65吋 QLED 顯示器",
+                  "id": "",
+                  "price": [
+                    "32999"
+                  ],
+                  "discount": [
+                    "6600"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_2.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "伊萊克斯無線吸塵器",
+                  "id": "",
+                  "price": [
+                    "6899"
+                  ],
+                  "discount": [
+                    "1400"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_3.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "CALIPHIL紐西蘭羊毛被 雙人",
+                  "id": "",
+                  "price": [
+                    "2399"
+                  ],
+                  "discount": [
+                    "500"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_4.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "CALIPHIL紐西蘭羊毛被 雙人加大",
+                  "id": "",
+                  "price": [
+                    "2999"
+                  ],
+                  "discount": [
+                    "600"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_5.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "TRESANTI電動升降桌",
+                  "id": "",
+                  "price": [
+                    "6299"
+                  ],
+                  "discount": [
+                    "1300"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_6.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "寶瀅全效能新配方洗衣凝露",
+                  "id": "",
+                  "price": [
+                    "699"
+                  ],
+                  "discount": [
+                    "160"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_7.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "舒酸定長效抗敏牙膏進階亮白",
+                  "id": "",
+                  "price": [
+                    "689"
+                  ],
+                  "discount": [
+                    "150"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_8.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": " 舒酸定 3D薄型軟毛牙刷",
+                  "id": "",
+                  "price": [
+                    "369"
+                  ],
+                  "discount": [
+                    "80"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_9.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "落建生髮液5% 加拿大廠/生髮慕絲5%",
+                  "id": "",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_10.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "手信坊含餡蛋捲",
+                  "id": "",
+                  "price": [
+                    "339"
+                  ],
+                  "discount": [
+                    "70"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_11.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "義美濃醇巧克力捲",
+                  "id": "",
+                  "price": [
+                    "315"
+                  ],
+                  "discount": [
+                    "65"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_12.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "豐力富紐西蘭頂級純濃奶粉",
+                  "id": "",
+                  "price": [
+                    "769"
+                  ],
+                  "discount": [
+                    "154"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_13.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "桂格北海道風味特濃燕麥片",
+                  "id": "",
+                  "price": [
+                    "499"
+                  ],
+                  "discount": [
+                    "100"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_14.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "王品冷凍青花驕經典麻辣鍋",
+                  "id": "",
+                  "price": [
+                    "569"
+                  ],
+                  "discount": [
+                    "120"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_15.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "王品三大名店冷凍火鍋料",
+                  "id": "",
+                  "price": [
+                    "389"
+                  ],
+                  "discount": [
+                    "85"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_16.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "提拉米蘇",
+                  "id": "",
+                  "price": [
+                    "259"
+                  ],
+                  "discount": [
+                    "54"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_17.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "台灣冷凍豬梅花火鍋片",
+                  "id": "",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_18.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "樂益活 菌護保健益生菌食品",
+                  "id": "",
+                  "price": [
+                    "999"
+                  ],
+                  "discount": [
+                    "200"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_19.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "善存葉黃素液態軟膠囊",
+                  "id": "",
+                  "price": [
+                    "999"
+                  ],
+                  "discount": [
+                    "200"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_20.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "威德納豆紅麴",
+                  "id": "",
+                  "price": [
+                    "1069"
+                  ],
+                  "discount": [
+                    "215"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_21.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "安視優超涵水每日拋棄式隱形眼鏡",
+                  "id": "",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_22.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "凱優黑標凝結木屑砂",
+                  "id": "",
+                  "price": [
+                    "879"
+                  ],
+                  "discount": [
+                    "180"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_23.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "明治明倍適營養補充杯",
+                  "id": "",
+                  "price": [
+                    "1899"
+                  ],
+                  "discount": [
+                    "380"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_24.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "舒適 水次元 5 刮鬍刀組",
+                  "id": "",
+                  "price": [
+                    "519"
+                  ],
+                  "discount": [
+                    "120"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_25.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "KOHLER 電腦馬桶盖",
+                  "id": "",
+                  "price": [
+                    "19899"
+                  ],
+                  "discount": [
+                    "4004"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_26.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "TCL 10/7公斤蒸氣滾筒洗脱烘衣機",
+                  "id": "",
+                  "price": [
+                    "14999"
+                  ],
+                  "discount": [
+                    "3000"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_27.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "LOOPLOOP TAG 物品尋找器含配件四入組",
+                  "id": "",
+                  "price": [
+                    "1499"
+                  ],
+                  "discount": [
+                    "300"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_28.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "FILA 女圓領長袖上衣",
+                  "id": "",
+                  "price": [
+                    "629"
+                  ],
+                  "discount": [
+                    "130"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_29.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "NEOFLAM 雙耳四格多功能煎鍋含蓋",
+                  "id": "",
+                  "price": [
+                    "1769"
+                  ],
+                  "discount": [
+                    "400"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_30.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "九陽多功能鴛鴦電火鍋 M95",
+                  "id": "",
+                  "price": [
+                    "3059"
+                  ],
+                  "discount": [
+                    "660"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_31.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "CASA 雙人記憶釋壓床墊",
+                  "id": "",
+                  "price": [
+                    "3999"
+                  ],
+                  "discount": [
+                    "800"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_32.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                },
+                {
+                  "title": "力度伸維他命C+D+鈣發泡錠",
+                  "id": "",
+                  "price": [
+                    "769"
+                  ],
+                  "discount": [
+                    "160"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251110_33.jpg",
+                  "subtitle": "20251110~20251123",
+                  "extra": ""
+                }
+              ]
+            }
+          },
+          {
+            "title": "20251201~20251214",
+            "subtitle": "20251201~20251214",
+            "type": "sub|textonly",
+            "thumbnail": "/dm/wallet2025/wallet2025_1.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "ASUS 14吋 AI筆記型電腦",
+                  "id": "",
+                  "price": [
+                    "39999"
+                  ],
+                  "discount": [
+                    "6000"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251201_1.jpg",
+                  "subtitle": "20251201~20251214",
+                  "extra": ""
+                },
+                {
+                  "title": "ЗМ 極淨便捷替換濾心雙入組",
+                  "id": "",
+                  "price": [
+                    "3099"
+                  ],
+                  "discount": [
+                    "630"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251201_2.jpg",
+                  "subtitle": "20251201~20251214",
+                  "extra": ""
+                },
+                {
+                  "title": "IRIS OHYAMA 超靜音小型碎紙機",
+                  "id": "",
+                  "price": [
+                    "2249"
+                  ],
+                  "discount": [
+                    "470"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251201_3.jpg",
+                  "subtitle": "20251201~20251214",
+                  "extra": ""
+                },
+                {
+                  "title": "ARM & HAMMER加強除臭貓砂",
+                  "id": "",
+                  "price": [
+                    "519"
+                  ],
+                  "discount": [
+                    "105"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251201_4.jpg",
+                  "subtitle": "20251201~20251214",
+                  "extra": ""
+                },
+                {
+                  "title": "飛利浦快速洩壓智慧萬用鍋",
+                  "id": "",
+                  "price": [
+                    "5299"
+                  ],
+                  "discount": [
+                    "1200"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251201_5.jpg",
+                  "subtitle": "20251201~20251214",
+                  "extra": ""
+                },
+                {
+                  "title": "橘子工坊除臭酵素洗衣精",
+                  "id": "",
+                  "price": [
+                    "539"
+                  ],
+                  "discount": [
+                    "120"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251201_6.jpg",
+                  "subtitle": "20251201~20251214",
+                  "extra": ""
+                },
+                {
+                  "title": "SHOKZ 水陸兩用專業藍牙運動耳機",
+                  "id": "",
+                  "price": [
+                    "4599"
+                  ],
+                  "discount": [
+                    "940"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251201_7.jpg",
+                  "subtitle": "20251201~20251214",
+                  "extra": ""
+                },
+                {
+                  "title": "米森無加糖分離乳清蛋白紅茶拿鐵口味",
+                  "id": "",
+                  "price": [
+                    "999"
+                  ],
+                  "discount": [
+                    "200"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251201_8.jpg",
+                  "subtitle": "20251201~20251214",
+                  "extra": ""
+                },
+                {
+                  "title": "美孚1號 5W-50 SN全合成機油",
+                  "id": "",
+                  "price": [
+                    "2939"
+                  ],
+                  "discount": [
+                    "590"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251201_9.jpg",
+                  "subtitle": "20251201~20251214",
+                  "extra": ""
+                },
+                {
+                  "title": "肌研極潤保濕化妝水組",
+                  "id": "",
+                  "price": [
+                    "755"
+                  ],
+                  "discount": [
+                    "175"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251201_10.jpg",
+                  "subtitle": "20251201~20251214",
+                  "extra": ""
+                },
+                {
+                  "title": "OLAY緊緻空氣感面霜",
+                  "id": "",
+                  "price": [
+                    "1439"
+                  ],
+                  "discount": [
+                    "300"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251201_11.jpg",
+                  "subtitle": "20251201~20251214",
+                  "extra": ""
+                },
+                {
+                  "title": "喜生冷凍洋蔥牛肉米漢堡",
+                  "id": "",
+                  "price": [
+                    "559"
+                  ],
+                  "discount": [
+                    "114"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251201_12.jpg",
+                  "subtitle": "20251201~20251214",
+                  "extra": ""
+                },
+                {
+                  "title": "HOTEL GRAND 凝膠纖維舒適枕",
+                  "id": "",
+                  "price": [
+                    "769"
+                  ],
+                  "discount": [
+                    "170"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251201_13.jpg",
+                  "subtitle": "20251201~20251214",
+                  "extra": ""
+                },
+                {
+                  "title": "克補＋鋅加強錠",
+                  "id": "",
+                  "price": [
+                    "999"
+                  ],
+                  "discount": [
+                    "200"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251201_14.jpg",
+                  "subtitle": "20251201~20251214",
+                  "extra": ""
+                },
+                {
+                  "title": "克鐵＋鐵加強錠",
+                  "id": "",
+                  "price": [
+                    "999"
+                  ],
+                  "discount": [
+                    "200"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251201_15.jpg",
+                  "subtitle": "20251201~20251214",
+                  "extra": ""
+                },
+                {
+                  "title": "北海鱈魚香絲",
+                  "id": "",
+                  "price": [
+                    "299"
+                  ],
+                  "discount": [
+                    "60"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251201_16.jpg",
+                  "subtitle": "20251201~20251214",
+                  "extra": ""
+                },
+                {
+                  "title": "西雅圖極品嚴焙大濾掛咖啡",
+                  "id": "",
+                  "price": [
+                    "699"
+                  ],
+                  "discount": [
+                    "140"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251201_17.jpg",
+                  "subtitle": "20251201~20251214",
+                  "extra": ""
+                },
+                {
+                  "title": "親愛的二合一白咖啡 隨手包",
+                  "id": "",
+                  "price": [
+                    "659"
+                  ],
+                  "discount": [
+                    "140"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251201_18.jpg",
+                  "subtitle": "20251201~20251214",
+                  "extra": ""
+                },
+                {
+                  "title": "威德一日補給＋",
+                  "id": "",
+                  "price": [
+                    "959"
+                  ],
+                  "discount": [
+                    "200"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251201_19.jpg",
+                  "subtitle": "20251201~20251214",
+                  "extra": ""
+                },
+                {
+                  "title": "橘子工坊除臭酵素洗衣精",
+                  "id": "",
+                  "price": [
+                    "1099"
+                  ],
+                  "discount": [
+                    "240"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251201_20.jpg",
+                  "subtitle": "20251201~20251214",
+                  "extra": ""
+                },
+                {
+                  "title": "威德靈芝多醣",
+                  "id": "",
+                  "price": [
+                    "689"
+                  ],
+                  "discount": [
+                    "140"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251201_21.jpg",
+                  "subtitle": "20251201~20251214",
+                  "extra": ""
+                }
+              ]
+            }
+          },
+          {
+            "title": "20251208~20251221",
+            "subtitle": "20251208~20251221",
+            "type": "sub|textonly",
+            "thumbnail": "/dm/wallet2025/wallet2025_1.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "法國特福ULTIMATE系列 不沾炒鍋32公分 含玻璃上蓋",
+                  "id": "",
+                  "price": [
+                    "2289"
+                  ],
+                  "discount": [
+                    "490"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251208_1.jpg",
+                  "subtitle": "20251208~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "STRIVECTIN升級版淡紋面霜",
+                  "id": "",
+                  "price": [
+                    "2599"
+                  ],
+                  "discount": [
+                    "600"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251208_2.jpg",
+                  "subtitle": "20251208~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "BRITA瞬熱智能溫控UVC滅菌開飲",
+                  "id": "",
+                  "price": [
+                    "8899"
+                  ],
+                  "discount": [
+                    "2000"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251208_3.jpg",
+                  "subtitle": "20251208~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "艾惟諾燕麥保濕乳",
+                  "id": "",
+                  "price": [
+                    "369"
+                  ],
+                  "discount": [
+                    "80"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251208_4.jpg",
+                  "subtitle": "20251208~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "CASUAL LIVING雙人舒適毯",
+                  "id": "",
+                  "price": [
+                    "599"
+                  ],
+                  "discount": [
+                    "134"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251208_5.jpg",
+                  "subtitle": "20251208~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "萬歲牌總匯點心包",
+                  "id": "",
+                  "price": [
+                    "549"
+                  ],
+                  "discount": [
+                    "110"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251208_6.jpg",
+                  "subtitle": "20251208~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "舒潔三層抽取式衛生紙",
+                  "id": "",
+                  "price": [
+                    "419"
+                  ],
+                  "discount": [
+                    "84"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251208_7.jpg",
+                  "subtitle": "20251208~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "卡迪那95°C鮮脆芋頭條",
+                  "id": "",
+                  "price": [
+                    "369"
+                  ],
+                  "discount": [
+                    "75"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251208_8.jpg",
+                  "subtitle": "20251208~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "橘子工坊高效潔淨洗碗精",
+                  "id": "",
+                  "price": [
+                    "399"
+                  ],
+                  "discount": [
+                    "80"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251208_9.jpg",
+                  "subtitle": "20251208~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "馬玉山特濃核桃黑芝麻糊",
+                  "id": "",
+                  "price": [
+                    "499"
+                  ],
+                  "discount": [
+                    "100"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251208_10.jpg",
+                  "subtitle": "20251208~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "撈王藤椒酸菜鍋湯底",
+                  "id": "",
+                  "price": [
+                    "329"
+                  ],
+                  "discount": [
+                    "70"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251208_11.jpg",
+                  "subtitle": "20251208~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "紅龍冷凍紅燒牛肉麵",
+                  "id": "",
+                  "price": [
+                    "659"
+                  ],
+                  "discount": [
+                    "135"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251208_12.jpg",
+                  "subtitle": "20251208~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "台灣去骨清雞腿真空包",
+                  "id": "",
+                  "price": [
+                    "245"
+                  ],
+                  "discount": [
+                    "50"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251208_13.jpg",
+                  "subtitle": "20251208~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "科克蘭綜合迷你夾餡甜甜圈",
+                  "id": "",
+                  "price": [
+                    "259"
+                  ],
+                  "discount": [
+                    "54"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251208_14.jpg",
+                  "subtitle": "20251208~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "愛爾康睛艷日拋式彩色隱形眼鏡",
+                  "id": "",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251208_15.jpg",
+                  "subtitle": "20251208~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "善存三效順暢益生菌 粉末顆粒",
+                  "id": "",
+                  "price": [
+                    "1299"
+                  ],
+                  "discount": [
+                    "260"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251208_16.jpg",
+                  "subtitle": "20251208~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "顧可飛黃金比例金盞花葉黃素+紅藻蝦紅素軟膠囊",
+                  "id": "",
+                  "price": [
+                    "959"
+                  ],
+                  "discount": [
+                    "200"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251208_17.jpg",
+                  "subtitle": "20251208~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "伊比利豬酸白菜鍋",
+                  "id": "",
+                  "price": [
+                    "255"
+                  ],
+                  "discount": [
+                    "50"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251208_18.jpg",
+                  "subtitle": "20251208~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "舒潔三層抽取式衛生紙",
+                  "id": "",
+                  "price": [
+                    "1159"
+                  ],
+                  "discount": [
+                    "214"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251208_19.jpg",
+                  "subtitle": "20251208~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "澳佳寶DHA 精粹濃縮深海魚油膠囊食品",
+                  "id": "",
+                  "price": [
+                    "1769"
+                  ],
+                  "discount": [
+                    "360"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251208_20.jpg",
+                  "subtitle": "20251208~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "保美達能量補給飲料",
+                  "id": "",
+                  "price": [
+                    "599"
+                  ],
+                  "discount": [
+                    "120"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/wallet2025/20251208_21.jpg",
+                  "subtitle": "20251208~20251221",
+                  "extra": ""
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "title": "普利司通/倍耐力 輪胎優惠活動 20251201~20251221",
+      "subtitle": "20250113~20250119",
+      "type": "webview",
+      "thumbnail": "/limited/20251201_2_tb.jpg",
+      "extra": "/limited/20251201_2.jpg"
+    },
+    {
+      "title": "新商品預告 20251215~20251221",
+      "subtitle": "20250113~20250119",
+      "type": "webview",
+      "thumbnail": "/limited/20251215_3_tb.jpg",
+      "extra": "/limited/20251215_3.jpg"
+    },
+    {
+      "title": "賣場展示及試吃活動 20251215~20251221",
+      "subtitle": "20250113~20250119",
+      "type": "webview",
+      "thumbnail": "/limited/20251215_2_tb.jpg",
+      "extra": "/limited/20251215_2.jpg"
+    },
+    
+    {
+      "title": "商品特展活動 20251201~20251225",
+      "subtitle": "20250113~20250119",
+      "type": "webview",
+      "thumbnail": "/limited/20251125_102_tb.jpg",
+      "extra": "/limited/20251125_102.jpg"
+    },
+    {
+      "title": "關於好幫手app & 更新",
+      "subtitle": "20181107~20181107",
+      "type": "webview",
+      "thumbnail": "/intro/costco_update1.jpg",
+      "extra": "/intro/intro.jpg"
+    }
+  ],
+  "promotion": [
+    {
+      "title": "好市多嫩肩里肌牛肉",
+      "type": "video",
+      "id": "RCxDwtWrPoc"
+    }
+  ]
+}
