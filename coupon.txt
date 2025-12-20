@@ -1,10 +1,10 @@
 {
-  "version": "20250711",
+  "version": "20250712",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
   "title": "2024 會員護照",
-  "prefix": "https://tptg.neocities.org",
+  "prefix": "https://github.com/tptg10/dm-assets/blob/main",
   "extra": [
     {
     
