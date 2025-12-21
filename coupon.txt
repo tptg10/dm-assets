@@ -1,5 +1,5 @@
 {
-  "version": "20250720",
+  "version": "20250721",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -1976,13 +1976,6 @@
       "type": "webview",
       "thumbnail": "/limited/20251125_102_tb.jpg",
       "extra": "/limited/20251125_102.jpg"
-    },
-    {
-      "title": "關於好幫手app & 更新",
-      "subtitle": "20181107~20181107",
-      "type": "webview",
-      "thumbnail": "/intro/costco_update1.jpg",
-      "extra": "/intro/intro.jpg"
     }
   ],
   "promotion": [
