@@ -4,8 +4,265 @@
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
   "title": "2024 會員護照",
-  "prefix": "https://github.com/tptg10/dm-assets/blob/main",
+  "prefix": "https://raw.githubusercontent.com/tptg10/dm-assets/main",
   "extra": [
+    {
+    
+      "title": "賣場商品精選優惠 20251215~20251221",
+      "subtitle": "20251215~20251221",
+      "type": "sub",
+      "thumbnail": "/limited/20251215_1_tb.jpg",
+      "extra": {
+        "display": "passport",
+        "extra": [
+          {
+            "title": "20251215~20251221",
+            "subtitle": "20251215~20251221",
+            "type": "sub|textonly",
+            "thumbnail": "/dm/year2026/20251222_1.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "飛利浦 65吋QLED顯示器",
+                  "id": "",
+                  "price": [
+                    "23999"
+                  ],
+                  "discount": [
+                    "4800"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_101.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "伊萊克斯空氣清淨機",
+                  "id": "",
+                  "price": [
+                    "9169"
+                  ],
+                  "discount": [
+                    "1870"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_102.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "艾美特 對流式電暖器",
+                  "id": "",
+                  "price": [
+                    "5899"
+                  ],
+                  "discount": [
+                    "1200"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_103.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "ORAL-B 舒適深潔牙線",
+                  "id": "",
+                  "price": [
+                    "439"
+                  ],
+                  "discount": [
+                    "110"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_104.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "FARBERWARE 沙拉蔬果脱水器",
+                  "id": "",
+                  "price": [
+                    "499"
+                  ],
+                  "discount": [
+                    "100"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_105.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "蘭諾 衣物芳香豆 晨曦玫瑰",
+                  "id": "",
+                  "price": [
+                    "799"
+                  ],
+                  "discount": [
+                    "160"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_106.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "哈瑞寶v酸甜蟲蟲Q軟糖",
+                  "id": "",
+                  "price": [
+                    "399"
+                  ],
+                  "discount": [
+                    "80"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_107.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "樂天千層派濃厚巧克力風味",
+                  "id": "",
+                  "price": [
+                    "299"
+                  ],
+                  "discount": [
+                    "60"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_108.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "卜蜂冷藏義式雞胸",
+                  "id": "",
+                  "price": [
+                    "309"
+                  ],
+                  "discount": [
+                    "64"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_109.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "金賓 波本威士忌蘋果風味利口酒",
+                  "id": "",
+                  "price": [
+                    "599"
+                  ],
+                  "discount": [
+                    "120"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_110.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "原萃白毫烏龍茶",
+                  "id": "",
+                  "price": [
+                    "429"
+                  ],
+                  "discount": [
+                    "90"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_111.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "優鮮沛蔓越莓 100% 綜合果汁",
+                  "id": "",
+                  "price": [
+                    "349"
+                  ],
+                  "discount": [
+                    "70"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_112.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "老協珍冷凍黃金蟲草蕈菇雞湯",
+                  "id": "",
+                  "price": [
+                    "699"
+                  ],
+                  "discount": [
+                    "140"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_113.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "科克蘭新鮮藍莓可麗餅",
+                  "id": "",
+                  "price": [
+                    "399"
+                  ],
+                  "discount": [
+                    "80"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_114.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "顧可飛檸檬酸鈣錠",
+                  "id": "",
+                  "price": [799],
+                  "discount": [140],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_115.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "瑪卡750毫克膠囊",
+                  "id": "",
+                  "price": [
+                    "679"
+                  ],
+                  "discount": [
+                    "140"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_116.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                },
+                {
+                  "title": "明治明倍適營養補充杯",
+                  "id": "",
+                  "price": [
+                    "1549"
+                  ],
+                  "discount": [
+                    "310"
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251215_117.jpg",
+                  "subtitle": "20251215~20251221",
+                  "extra": ""
+                }
+                
+              ]
+            }
+          }
+        ]
+      }
+    },
     {
     
       "title": "賣場商品精選優惠 20251215~20251221",
