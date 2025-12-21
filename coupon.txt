@@ -1,5 +1,5 @@
 {
-  "version": "20250723",
+  "version": "20250725",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -754,8 +754,8 @@
                 {
                   "title": "銀寶善存50+ 女性 綜合維他命錠",
                   "id": "",
-                  "price": [],
-                  "discount": [],
+                  "price": [1849],
+                  "discount": [370],
                   "type": "product",
                   "thumbnail": "/dm/year2026/20260105_20.jpg",
                   "subtitle": "20260105~20260118",
@@ -764,8 +764,8 @@
                 {
                   "title": "銀寶善存50+ 男性 綜合維他命錠",
                   "id": "",
-                  "price": [],
-                  "discount": [],
+                  "price": [1849],
+                  "discount": [370],
                   "type": "product",
                   "thumbnail": "/dm/year2026/20260105_21.jpg",
                   "subtitle": "20260105~20260118",
@@ -774,8 +774,8 @@
                 {
                   "title": "歐姆龍電子血壓計",
                   "id": "",
-                  "price": [],
-                  "discount": [],
+                  "price": [3799],
+                  "discount": [800],
                   "type": "product",
                   "thumbnail": "/dm/year2026/20260105_22.jpg",
                   "subtitle": "20260105~20260118",
@@ -851,7 +851,7 @@
                   "title": "JAMIESON複合益生菌",
                   "id": "",
                   "price": [
-                    1570
+                    1579
                   ],
                   "discount": [
                     320
