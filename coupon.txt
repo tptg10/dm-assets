@@ -1,10 +1,10 @@
 {
-  "version": "20250719",
+  "version": "20250720",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
   "title": "2024 會員護照",
-  "prefix": "https://9f386c33.dm-assets.pages.dev",
+  "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
       "title": "年節特別優惠活動 20251222~20260201",
