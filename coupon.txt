@@ -1,5 +1,5 @@
 {
-  "version": "20250712",
+  "version": "20250713",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -11,7 +11,7 @@
       "title": "賣場商品精選優惠 20251215~20251221",
       "subtitle": "20251215~20251221",
       "type": "sub",
-      "thumbnail": "/limited/20251215_1_tb.jpg",
+      "thumbnail": "/dm/year2026/20251222_1.jpg",
       "extra": {
         "display": "passport",
         "extra": [
