@@ -1,5 +1,5 @@
 {
-  "version": "20250727",
+  "version": "20250728",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -137,7 +137,7 @@
                   "title": "利口樂瑞士草本喉糖（原味）",
                   "id": "",
                   "price": [
-                    529
+                    579
                   ],
                   "discount": [
                     120
