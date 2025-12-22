@@ -1,11 +1,158 @@
 {
-  "version": "20250725",
+  "version": "20250726",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
   "title": "2024 會員護照",
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
+    {
+      "title": "賣場商品精選優惠 20251222~20251228",
+      "subtitle": "20251222~20251228",
+      "type": "sub",
+      "thumbnail": "/limited/20251222_1_tb.jpg",
+      "extra": {
+        "display": "passport",
+        "extra": [
+          {
+            "title": "20251222~20251228",
+            "subtitle": "20251222~20251228",
+            "type": "sub|textonly",
+            "thumbnail": "/limited/year2026_1.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "樂司科熊黑皮數位陶瓷電暖器",
+                  "id": "",
+                  "price": [
+                    3189
+                  ],
+                  "discount": [
+                    660
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251222_1001.jpg",
+                  "subtitle": "20251222~20251228",
+                  "extra": ""
+                },
+                {
+                  "title": "DYSON強效極靜空氣清淨機",
+                  "id": "",
+                  "price": [
+                    16899
+                  ],
+                  "discount": [
+                    1000
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251222_1002.jpg",
+                  "subtitle": "20251222~20251228",
+                  "extra": ""
+                },
+                {
+                  "title": "宴麥森林多穀燕麥纖餅",
+                  "id": "",
+                  "price": [
+                    299
+                  ],
+                  "discount": [
+                    60
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251222_1003.jpg",
+                  "subtitle": "20251222~20251228",
+                  "extra": ""
+                },
+                {
+                  "title": "健司辻利抹茶奶茶沖泡飲",
+                  "id": "",
+                  "price": [
+                    399
+                  ],
+                  "discount": [
+                    80
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251222_1004.jpg",
+                  "subtitle": "20251222~20251228",
+                  "extra": ""
+                },
+                {
+                  "title": "TEAZEN 玉米鬚茶",
+                  "id": "",
+                  "price": [
+                    349
+                  ],
+                  "discount": [
+                    70
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251222_1005.jpg",
+                  "subtitle": "20251222~20251228",
+                  "extra": ""
+                },
+                {
+                  "title": "GLAD強力保鮮膜",
+                  "id": "",
+                  "price": [
+                    479
+                  ],
+                  "discount": [
+                    100
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251222_1006.jpg",
+                  "subtitle": "20251222~20251228",
+                  "extra": ""
+                },
+                {
+                  "title": "卜蜂紅燒棒腿",
+                  "id": "",
+                  "price": [
+                    399
+                  ],
+                  "discount": [
+                    80
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251222_1007.jpg",
+                  "subtitle": "20251222~20251228",
+                  "extra": ""
+                },
+                {
+                  "title": "格蘭傑珍藏三桶單一麥芽威士忌",
+                  "id": "",
+                  "price": [
+                    849
+                  ],
+                  "discount": [
+                    170
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251222_1008.jpg",
+                  "subtitle": "20251222~20251228",
+                  "extra": ""
+                },
+                {
+                  "title": "利口樂瑞士草本喉糖（原味）",
+                  "id": "",
+                  "price": [
+                    529
+                  ],
+                  "discount": [
+                    120
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251222_1009.jpg",
+                  "subtitle": "20251222~20251228",
+                  "extra": ""
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
     {
       "title": "年節特別優惠活動 20251222~20260201",
       "subtitle": "20251222~20260201",
@@ -1962,6 +2109,13 @@
           }
         ]
       }
+    },
+    {
+      "title": "賣場展示及試吃活動 20251222~20251228",
+      "subtitle": "20250113~20250119",
+      "type": "webview",
+      "thumbnail": "/limited/20251222_1001_tb.jpg",
+      "extra": "/limited/20251222_1001.jpg"
     },
     {
       "title": "新商品預告 20251215~20251221",
