@@ -1,5 +1,5 @@
 {
-  "version": "20250731",
+  "version": "20250801",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,60 +7,60 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場商品精選優惠 20251222~20251228",
-      "subtitle": "20251222~20251228",
+      "title": "賣場商品精選優惠 20251229~20260104",
+      "subtitle": "20251229~20260104",
       "type": "sub",
-      "thumbnail": "/limited/20251222_1_tb.jpg",
+      "thumbnail": "/limited/20251229.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20251222~20251228",
-            "subtitle": "20251222~20251228",
+            "title": "20251229~20260104",
+            "subtitle": "20251229~20260104",
             "type": "sub|textonly",
             "thumbnail": "/limited/year2026_1.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "樂司科熊黑皮數位陶瓷電暖器",
+                  "title": "美珍香休閒雞肉乾",
                   "id": "",
                   "price": [
-                    3189
+                    549
                   ],
                   "discount": [
-                    660
+                    110
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20251222_1001.jpg",
-                  "subtitle": "20251222~20251228",
+                  "thumbnail": "/limited/20251229_1.jpg",
+                  "subtitle": "20251229~20260104",
                   "extra": ""
                 },
                 {
-                  "title": "DYSON強效極靜空氣清淨機",
+                  "title": "匠拌麵鵝油金蔥拌麵",
                   "id": "",
                   "price": [
-                    16899
+                    399
                   ],
                   "discount": [
-                    1000
+                    80
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20251222_1002.jpg",
-                  "subtitle": "20251222~20251228",
+                  "thumbnail": "/limited/20251229_2.jpg",
+                  "subtitle": "20251229~20260104",
                   "extra": ""
                 },
                 {
-                  "title": "宴麥森林多穀燕麥纖餅",
+                  "title": "IRIS OHYAMA焙茶",
                   "id": "",
                   "price": [
-                    299
+                    599
                   ],
                   "discount": [
-                    60
+                    130
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20251222_1003.jpg",
-                  "subtitle": "20251222~20251228",
+                  "thumbnail": "/limited/20251229_3.jpg",
+                  "subtitle": "20251229~20260104",
                   "extra": ""
                 },
                 {
@@ -73,78 +73,78 @@
                     80
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20251222_1004.jpg",
-                  "subtitle": "20251222~20251228",
+                  "thumbnail": "/limited/20251229_1004.jpg",
+                  "subtitle": "20251229~20260104",
                   "extra": ""
                 },
                 {
-                  "title": "TEAZEN 玉米鬚茶",
+                  "title": "灣仔碼頭冷凍高麗菜豬肉水餃",
                   "id": "",
                   "price": [
-                    349
-                  ],
-                  "discount": [
-                    70
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20251222_1005.jpg",
-                  "subtitle": "20251222~20251228",
-                  "extra": ""
-                },
-                {
-                  "title": "GLAD強力保鮮膜",
-                  "id": "",
-                  "price": [
-                    479
-                  ],
-                  "discount": [
-                    100
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20251222_1006.jpg",
-                  "subtitle": "20251222~20251228",
-                  "extra": ""
-                },
-                {
-                  "title": "卜蜂紅燒棒腿",
-                  "id": "",
-                  "price": [
-                    399
-                  ],
-                  "discount": [
-                    80
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20251222_1007.jpg",
-                  "subtitle": "20251222~20251228",
-                  "extra": ""
-                },
-                {
-                  "title": "格蘭傑珍藏三桶單一麥芽威士忌",
-                  "id": "",
-                  "price": [
-                    849
-                  ],
-                  "discount": [
-                    170
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20251222_1008.jpg",
-                  "subtitle": "20251222~20251228",
-                  "extra": ""
-                },
-                {
-                  "title": "利口樂瑞士草本喉糖（原味）",
-                  "id": "",
-                  "price": [
-                    579
+                    559
                   ],
                   "discount": [
                     120
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20251222_1009.jpg",
-                  "subtitle": "20251222~20251228",
+                  "thumbnail": "/limited/20251229_5.jpg",
+                  "subtitle": "20251229~20260104",
+                  "extra": ""
+                },
+                {
+                  "title": "如記麻婆豆腐",
+                  "id": "",
+                  "price": [
+                    359
+                  ],
+                  "discount": [
+                    74
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251229_6.jpg",
+                  "subtitle": "20251229~20260104",
+                  "extra": ""
+                },
+                {
+                  "title": "BRITA MAXTRA PRO 濾水壺專用濾芯純淨全效型",
+                  "id": "",
+                  "price": [
+                    1599
+                  ],
+                  "discount": [
+                    320
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251229_7.jpg",
+                  "subtitle": "20251229~20260104",
+                  "extra": ""
+                },
+                {
+                  "title": "JOOSTENBERG南非紅葡萄酒",
+                  "id": "",
+                  "price": [
+                    245
+                  ],
+                  "discount": [
+                    50
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251229_8.jpg",
+                  "subtitle": "20251229~20260104",
+                  "extra": ""
+                },
+                {
+                  "title": "RONDEL西班牙氣泡酒",
+                  "id": "",
+                  "price": [
+                    319
+                  ],
+                  "discount": [
+                    64
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251229_9.jpg",
+                  "subtitle": "20251229~20260104",
                   "extra": ""
                 }
               ]
@@ -2780,18 +2780,25 @@
       }
     },
     {
-      "title": "賣場展示及試吃活動 20251222~20251228",
+      "title": "賣場展示及試吃活動 20251229~20260104",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20251222_101_tb.jpg",
-      "extra": "/limited/20251222_101.jpg"
+      "thumbnail": "/limited/20251229_101_tb.jpg",
+      "extra": "/limited/20251229_101.jpg"
     },
     {
-      "title": "商品特展活動 20251201~20251225",
+      "title": "新商品預告 20251229~20260104",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20251125_102_tb.jpg",
-      "extra": "/limited/20251125_102.jpg"
+      "thumbnail": "/limited/20251229_102_tb.jpg",
+      "extra": "/limited/20251229_102.jpg"
+    },
+    {
+      "title": "商品特展活動 20251212~20260122",
+      "subtitle": "20250113~20250119",
+      "type": "webview",
+      "thumbnail": "/limited/20251229_103_tb.jpg",
+      "extra": "/limited/20251229_103.jpg"
     }
   ],
   "promotion": [
