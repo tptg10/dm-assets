@@ -1,5 +1,5 @@
 {
-  "version": "20250802",
+  "version": "20250803",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -118,7 +118,8 @@
                   "thumbnail": "/limited/20251229_7.jpg",
                   "subtitle": "20251229~20260104",
                   "extra": ""
-                }{
+                },
+                {
                   "title": "IRIS OHYAMA焙茶",
                   "id": "",
                   "price": [
