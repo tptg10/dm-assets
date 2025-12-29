@@ -1,5 +1,5 @@
 {
-  "version": "20250801",
+  "version": "20250802",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -50,34 +50,6 @@
                   "extra": ""
                 },
                 {
-                  "title": "IRIS OHYAMA焙茶",
-                  "id": "",
-                  "price": [
-                    599
-                  ],
-                  "discount": [
-                    130
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20251229_3.jpg",
-                  "subtitle": "20251229~20260104",
-                  "extra": ""
-                },
-                {
-                  "title": "健司辻利抹茶奶茶沖泡飲",
-                  "id": "",
-                  "price": [
-                    399
-                  ],
-                  "discount": [
-                    80
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20251229_1004.jpg",
-                  "subtitle": "20251229~20260104",
-                  "extra": ""
-                },
-                {
                   "title": "灣仔碼頭冷凍高麗菜豬肉水餃",
                   "id": "",
                   "price": [
@@ -87,7 +59,7 @@
                     120
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20251229_5.jpg",
+                  "thumbnail": "/limited/20251229_3.jpg",
                   "subtitle": "20251229~20260104",
                   "extra": ""
                 },
@@ -101,7 +73,7 @@
                     74
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20251229_6.jpg",
+                  "thumbnail": "/limited/20251229_4.jpg",
                   "subtitle": "20251229~20260104",
                   "extra": ""
                 },
@@ -115,7 +87,7 @@
                     320
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20251229_7.jpg",
+                  "thumbnail": "/limited/20251229_5.jpg",
                   "subtitle": "20251229~20260104",
                   "extra": ""
                 },
@@ -129,7 +101,7 @@
                     50
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20251229_8.jpg",
+                  "thumbnail": "/limited/20251229_6.jpg",
                   "subtitle": "20251229~20260104",
                   "extra": ""
                 },
@@ -143,10 +115,26 @@
                     64
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20251229_9.jpg",
+                  "thumbnail": "/limited/20251229_7.jpg",
+                  "subtitle": "20251229~20260104",
+                  "extra": ""
+                }{
+                  "title": "IRIS OHYAMA焙茶",
+                  "id": "",
+                  "price": [
+                    599
+                  ],
+                  "discount": [
+                    130
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20251229_8.jpg",
                   "subtitle": "20251229~20260104",
                   "extra": ""
                 }
+                
+                
+                
               ]
             }
           }
