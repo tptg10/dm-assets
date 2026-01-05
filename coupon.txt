@@ -1,5 +1,5 @@
 {
-  "version": "20250803",
+  "version": "20250806",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,36 +7,64 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場商品精選優惠 20251229~20260104",
-      "subtitle": "20251229~20260104",
+      "title": "賣場商品精選優惠 20260105~20260111",
+      "subtitle": "20260105~20260111",
       "type": "sub",
-      "thumbnail": "/limited/20251229.jpg",
+      "thumbnail": "/limited/20260105_1_tb.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20251229~20260104",
-            "subtitle": "20251229~20260104",
+            "title": "20260105~20260111",
+            "subtitle": "20260105~20260111",
             "type": "sub|textonly",
             "thumbnail": "/limited/year2026_1.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "美珍香休閒雞肉乾",
+                  "title": "DELSEY 22+31 吋行李箱二入組",
                   "id": "",
                   "price": [
-                    549
+                    5999
                   ],
                   "discount": [
-                    110
+                    1200
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20251229_1.jpg",
-                  "subtitle": "20251229~20260104",
+                  "thumbnail": "/limited/20260105_1.jpg",
+                  "subtitle": "20260105~20260111",
                   "extra": ""
                 },
                 {
-                  "title": "匠拌麵鵝油金蔥拌麵",
+                  "title": "EUFY 三合一掃地機器人",
+                  "id": "",
+                  "price": [
+                    9789
+                  ],
+                  "discount": [
+                    2000
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260105_2.jpg",
+                  "subtitle": "20260105~20260111",
+                  "extra": ""
+                },
+                {
+                  "title": "艾美特陶瓷電暖器",
+                  "id": "",
+                  "price": [
+                    1649
+                  ],
+                  "discount": [
+                    350
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260105_3.jpg",
+                  "subtitle": "20260105~20260111",
+                  "extra": ""
+                },
+                {
+                  "title": "AIRWAVES 極酷嗆涼無糖口香糖",
                   "id": "",
                   "price": [
                     399
@@ -45,26 +73,12 @@
                     80
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20251229_2.jpg",
-                  "subtitle": "20251229~20260104",
+                  "thumbnail": "/limited/20260105_4.jpg",
+                  "subtitle": "20260105~20260111",
                   "extra": ""
                 },
                 {
-                  "title": "灣仔碼頭冷凍高麗菜豬肉水餃",
-                  "id": "",
-                  "price": [
-                    559
-                  ],
-                  "discount": [
-                    120
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20251229_3.jpg",
-                  "subtitle": "20251229~20260104",
-                  "extra": ""
-                },
-                {
-                  "title": "如記麻婆豆腐",
+                  "title": "興麥肉鬆蛋捲",
                   "id": "",
                   "price": [
                     359
@@ -73,64 +87,92 @@
                     74
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20251229_4.jpg",
-                  "subtitle": "20251229~20260104",
+                  "thumbnail": "/limited/20260105_5.jpg",
+                  "subtitle": "20260105~20260111",
                   "extra": ""
                 },
                 {
-                  "title": "BRITA MAXTRA PRO 濾水壺專用濾芯純淨全效型",
+                  "title": "台畜冷藏泰式打拋風味豬",
                   "id": "",
                   "price": [
-                    1599
+                    449
                   ],
                   "discount": [
-                    320
+                    90
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20251229_5.jpg",
-                  "subtitle": "20251229~20260104",
+                  "thumbnail": "/limited/20260105_6.jpg",
+                  "subtitle": "20260105~20260111",
                   "extra": ""
                 },
                 {
-                  "title": "JOOSTENBERG南非紅葡萄酒",
+                  "title": "VONO培根玉米濃湯",
                   "id": "",
                   "price": [
-                    245
+                    499
                   ],
                   "discount": [
-                    50
+                    104
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20251229_6.jpg",
-                  "subtitle": "20251229~20260104",
+                  "thumbnail": "/limited/20260105_7.jpg",
+                  "subtitle": "20260105~20260111",
                   "extra": ""
                 },
                 {
-                  "title": "RONDEL西班牙氣泡酒",
+                  "title": "義美牛奶蛋白即飲 可可風味",
                   "id": "",
                   "price": [
-                    319
+                    799
                   ],
                   "discount": [
-                    64
+                    160
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20251229_7.jpg",
-                  "subtitle": "20251229~20260104",
+                  "thumbnail": "/limited/20260105_8.jpg",
+                  "subtitle": "20260105~20260111",
                   "extra": ""
                 },
                 {
-                  "title": "IRIS OHYAMA焙茶",
+                  "title": "好神拖洗拖雙效手壓旋轉拖把組",
                   "id": "",
                   "price": [
-                    599
+                    999
                   ],
                   "discount": [
-                    130
+                    200
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20251229_8.jpg",
-                  "subtitle": "20251229~20260104",
+                  "thumbnail": "/limited/20260105_9.jpg",
+                  "subtitle": "20260105~20260111",
+                  "extra": ""
+                },
+                {
+                  "title": "威拂 除塵魔撢組",
+                  "id": "",
+                  "price": [
+                    369
+                  ],
+                  "discount": [
+                    74
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260105_10.jpg",
+                  "subtitle": "20260105~20260111",
+                  "extra": ""
+                },
+                {
+                  "title": "靠得住草本抑菌褲型衛生棉",
+                  "id": "",
+                  "price": [
+                    669
+                  ],
+                  "discount": [
+                    140
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260105_11.jpg",
+                  "subtitle": "20260105~20260111",
                   "extra": ""
                 }
                 
@@ -2769,18 +2811,18 @@
       }
     },
     {
-      "title": "賣場展示及試吃活動 20251229~20260104",
+      "title": "賣場展示及試吃活動 20260105~20260111",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20251229_101_tb.jpg",
-      "extra": "/limited/20251229_101.jpg"
+      "thumbnail": "/limited/20260105_102_tb.jpg",
+      "extra": "/limited/20260105_102.jpg"
     },
     {
-      "title": "新商品預告 20251229~20260104",
+      "title": "新商品預告 20260105~20260111",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20251229_102_tb.jpg",
-      "extra": "/limited/20251229_102.jpg"
+      "thumbnail": "/limited/20260105_101_tb.jpg",
+      "extra": "/limited/20260105_101.jpg"
     },
     {
       "title": "商品特展活動 20251212~20260122",
