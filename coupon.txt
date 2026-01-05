@@ -1,5 +1,5 @@
 {
-  "version": "20250810",
+  "version": "20250811",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -2811,14 +2811,14 @@
       }
     },
     {
-      "title": "賣場展示及試吃活動 20260105~20260111",
+      "title": "新商品預告 20260105~20260111",
       "subtitle": "20250113~20250119",
       "type": "webview",
       "thumbnail": "/limited/20260105_101_2_tb.jpg",
       "extra": "/limited/20260105_101_2.jpg"
     },
     {
-      "title": "新商品預告 20260105~20260111",
+      "title": "賣場展示及試吃活動 20260105~20260111",
       "subtitle": "20250113~20250119",
       "type": "webview",
       "thumbnail": "/limited/20260105_102_2_tb.jpg",
