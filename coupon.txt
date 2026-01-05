@@ -1,5 +1,5 @@
 {
-  "version": "20250806",
+  "version": "20250808",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -18,7 +18,7 @@
             "title": "20260105~20260111",
             "subtitle": "20260105~20260111",
             "type": "sub|textonly",
-            "thumbnail": "/limited/year2026_1.jpg",
+            "thumbnail": "/limited/20260105_1_tb.jpg",
             "extra": {
               "extra": [
                 {
@@ -2814,7 +2814,7 @@
       "title": "賣場展示及試吃活動 20260105~20260111",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260105_102_tb.jpg",
+      "thumbnail": "/limited/20260105_102_2_tb.jpg",
       "extra": "/limited/20260105_102.jpg"
     },
     {
