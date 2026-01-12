@@ -1,5 +1,5 @@
 {
-  "version": "20250812",
+  "version": "20250815",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -2741,20 +2741,20 @@
       "title": "新商品預告 20260112~20260118",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260112_101_1_tb.jpg",
-      "extra": "/limited/20260112_101_1.jpg"
+      "thumbnail": "/limited/20260112_101_tb.jpg",
+      "extra": "/limited/20260112_101.jpg"
     },
     {
       "title": "賣場展示及試吃活動 20260112~20260118",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260112_101_2_tb.jpg",
-      "extra": "/limited/20260112_101_2.jpg"
+      "thumbnail": "/limited/20260112_102_tb.jpg",
+      "extra": "/limited/20260112_102.jpg"
     },
     {
       "title": "黑鑽加碼優惠！(線上) 20260112",
       "subtitle": "20230116~20230122",
-      "thumbnail": "/limited/20260112_101_3_tb.jpg",
+      "thumbnail": "/limited/20260112_103_tb.jpg",
       "type": "eUrl",
       "extra": "https://www.costco.com.tw/Deals/c/Coupon"
     },
