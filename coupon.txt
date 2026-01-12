@@ -1,5 +1,5 @@
 {
-  "version": "20250815",
+  "version": "20250816",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -2741,7 +2741,7 @@
       "title": "新商品預告 20260112~20260118",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260112_101_tb.jpg",
+      "thumbnail": "/limited/20260112_101_1_tb.jpg",
       "extra": "/limited/20260112_101.jpg"
     },
     {
