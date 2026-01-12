@@ -7,120 +7,92 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場商品精選優惠 20260105~20260111",
-      "subtitle": "20260105~20260111",
+      "title": "賣場商品精選優惠 20260112~20260118",
+      "subtitle": "20260112~20260118",
       "type": "sub",
-      "thumbnail": "/limited/20260105_1_tb.jpg",
+      "thumbnail": "/limited/20260112.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20260105~20260111",
-            "subtitle": "20260105~20260111",
+            "title": "20260112~20260118",
+            "subtitle": "20260112~20260118",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260105_1_tb.jpg",
+            "thumbnail": "/limited/20260112_1_tb.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "DELSEY 22+31 吋行李箱二入組",
+                  "title": "哈瑞寶 金熊 Q 軟糖",
                   "id": "",
                   "price": [
-                    5999
-                  ],
-                  "discount": [
-                    1200
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260105_1.jpg",
-                  "subtitle": "20260105~20260111",
-                  "extra": ""
-                },
-                {
-                  "title": "EUFY 三合一掃地機器人",
-                  "id": "",
-                  "price": [
-                    9789
-                  ],
-                  "discount": [
-                    2000
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260105_2.jpg",
-                  "subtitle": "20260105~20260111",
-                  "extra": ""
-                },
-                {
-                  "title": "艾美特陶瓷電暖器",
-                  "id": "",
-                  "price": [
-                    1649
-                  ],
-                  "discount": [
-                    350
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260105_3.jpg",
-                  "subtitle": "20260105~20260111",
-                  "extra": ""
-                },
-                {
-                  "title": "AIRWAVES 極酷嗆涼無糖口香糖",
-                  "id": "",
-                  "price": [
-                    399
-                  ],
-                  "discount": [
-                    80
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260105_4.jpg",
-                  "subtitle": "20260105~20260111",
-                  "extra": ""
-                },
-                {
-                  "title": "興麥肉鬆蛋捲",
-                  "id": "",
-                  "price": [
-                    359
-                  ],
-                  "discount": [
-                    74
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260105_5.jpg",
-                  "subtitle": "20260105~20260111",
-                  "extra": ""
-                },
-                {
-                  "title": "台畜冷藏泰式打拋風味豬",
-                  "id": "",
-                  "price": [
-                    449
+                    439
                   ],
                   "discount": [
                     90
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260105_6.jpg",
-                  "subtitle": "20260105~20260111",
+                  "thumbnail": "/limited/20260112_1.jpg",
+                  "subtitle": "20260112~20260118",
                   "extra": ""
                 },
                 {
-                  "title": "VONO培根玉米濃湯",
+                  "title": "元進莊 冷凍麻油雞",
                   "id": "",
                   "price": [
                     499
                   ],
                   "discount": [
-                    104
+                    100
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260105_7.jpg",
-                  "subtitle": "20260105~20260111",
+                  "thumbnail": "/limited/20260112_2.jpg",
+                  "subtitle": "20260112~20260118",
                   "extra": ""
                 },
                 {
-                  "title": "義美牛奶蛋白即飲 可可風味",
+                  "title": "翠果子 杏仁海苔天婦羅點心包",
+                  "id": "",
+                  "price": [
+                    349
+                  ],
+                  "discount": [
+                    70
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260112_3.jpg",
+                  "subtitle": "20260112~20260118",
+                  "extra": ""
+                },
+                {
+                  "title": "戀戀蚵仔寮 即食炭烤烏魚子",
+                  "id": "",
+                  "price": [
+                    639
+                  ],
+                  "discount": [
+                    140
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260112_4.jpg",
+                  "subtitle": "20260112~20260118",
+                  "extra": ""
+                },
+                {
+                  "title": "益思維 PLUS 加強膠囊",
+                  "id": "",
+                  "price": [
+                    1499
+                  ],
+                  "discount": [
+                    300
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260112_5.jpg",
+                  "subtitle": "20260112~20260118",
+                  "extra": ""
+                },
+                {
+                  "title": "沛綠雅氣泡礦泉水",
                   "id": "",
                   "price": [
                     799
@@ -129,55 +101,10 @@
                     160
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260105_8.jpg",
-                  "subtitle": "20260105~20260111",
-                  "extra": ""
-                },
-                {
-                  "title": "好神拖洗拖雙效手壓旋轉拖把組",
-                  "id": "",
-                  "price": [
-                    999
-                  ],
-                  "discount": [
-                    200
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260105_9.jpg",
-                  "subtitle": "20260105~20260111",
-                  "extra": ""
-                },
-                {
-                  "title": "威拂 除塵魔撢組",
-                  "id": "",
-                  "price": [
-                    369
-                  ],
-                  "discount": [
-                    74
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260105_10.jpg",
-                  "subtitle": "20260105~20260111",
-                  "extra": ""
-                },
-                {
-                  "title": "靠得住草本抑菌褲型衛生棉",
-                  "id": "",
-                  "price": [
-                    669
-                  ],
-                  "discount": [
-                    140
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260105_11.jpg",
-                  "subtitle": "20260105~20260111",
+                  "thumbnail": "/limited/20260112_6.jpg",
+                  "subtitle": "20260112~20260118",
                   "extra": ""
                 }
-                
-                
-                
               ]
             }
           }
@@ -2811,18 +2738,25 @@
       }
     },
     {
-      "title": "新商品預告 20260105~20260111",
+      "title": "新商品預告 20260112~20260118",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260105_101_2_tb.jpg",
-      "extra": "/limited/20260105_101_2.jpg"
+      "thumbnail": "/limited/20260112_101_1_tb.jpg",
+      "extra": "/limited/20260112_101_1.jpg"
     },
     {
-      "title": "賣場展示及試吃活動 20260105~20260111",
+      "title": "賣場展示及試吃活動 20260112~20260118",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260105_102_2_tb.jpg",
-      "extra": "/limited/20260105_102_2.jpg"
+      "thumbnail": "/limited/20260112_101_2_tb.jpg",
+      "extra": "/limited/20260112_101_2.jpg"
+    },
+    {
+      "title": "黑鑽加碼優惠！(線上) 20260112",
+      "subtitle": "20230116~20230122",
+      "thumbnail": "/limited/20260112_101_3_tb.jpg",
+      "type": "eUrl",
+      "extra": "https://www.costco.com.tw/Deals/c/Coupon"
     },
     {
       "title": "商品特展活動 20251212~20260122",
