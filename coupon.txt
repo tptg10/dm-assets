@@ -1,5 +1,5 @@
 {
-  "version": "20250819",
+  "version": "20250820",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -2794,20 +2794,19 @@
       "extra": "/limited/20260119_103.jpg"
     },
     {
+      "title": "商品特展活動 20260119~20260215",
+      "subtitle": "20250113~20250119",
+      "type": "webview",
+      "thumbnail": "/limited/20260119_102_tb.jpg",
+      "extra": "/limited/20260119_102.jpg"
+    },
+    {
       "title": "德國馬牌 輪胎優惠活動 20261219~20260215",
       "subtitle": "20250113~20250119",
       "type": "webview",
       "thumbnail": "/limited/20260119_104_tb.jpg",
       "extra": "/limited/20260119_104.jpg"
     },
-    {
-      "title": "商品特展活動 20251219~20260215",
-      "subtitle": "20250113~20250119",
-      "type": "webview",
-      "thumbnail": "/limited/20260119_102_tb.jpg",
-      "extra": "/limited/20260119_102.jpg"
-    },
-    
     {
       "title": "商品特展活動 20251212~20260122",
       "subtitle": "20250113~20250119",
