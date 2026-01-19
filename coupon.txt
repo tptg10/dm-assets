@@ -1,5 +1,5 @@
 {
-  "version": "20250817",
+  "version": "20250818",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -137,7 +137,7 @@
                   "title": "KID-O 奶油三明治家庭號",
                   "id": "",
                   "price": [
-                    3339
+                    339
                   ],
                   "discount": [
                     70
@@ -2783,7 +2783,7 @@
       "title": "新商品預告 20260119~20260125",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260119_101_1_tb.jpg",
+      "thumbnail": "/limited/20260119_101_tb.jpg",
       "extra": "/limited/20260119_101.jpg"
     },
     {
