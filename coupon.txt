@@ -1,5 +1,5 @@
 {
-  "version": "20250816",
+  "version": "20250817",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,102 +7,144 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場商品精選優惠 20260112~20260118",
-      "subtitle": "20260112~20260118",
+      "title": "賣場商品精選優惠 20260119~20260125",
+      "subtitle": "20260119~20260125",
       "type": "sub",
-      "thumbnail": "/limited/20260112.jpg",
+      "thumbnail": "/limited/20260119.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20260112~20260118",
-            "subtitle": "20260112~20260118",
+            "title": "20260119~20260125",
+            "subtitle": "20260119~20260125",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260112_1_tb.jpg",
+            "thumbnail": "/limited/20260119_1_tb.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "哈瑞寶 金熊 Q 軟糖",
+                  "title": "戴森 三合一涼暖空氣清淨機",
                   "id": "",
                   "price": [
-                    439
+                    14999
                   ],
                   "discount": [
-                    90
+                    1200
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260112_1.jpg",
-                  "subtitle": "20260112~20260118",
+                  "thumbnail": "/limited/20260119_1.jpg",
+                  "subtitle": "20260119~20260125",
                   "extra": ""
                 },
                 {
-                  "title": "元進莊 冷凍麻油雞",
+                  "title": "IRIS 塵蟎機",
                   "id": "",
                   "price": [
-                    499
+                    3999
+                  ],
+                  "discount": [
+                    860
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260119_2.jpg",
+                  "subtitle": "20260119~20260125",
+                  "extra": ""
+                },
+                {
+                  "title": "風倍清 織物除菌消臭噴霧",
+                  "id": "",
+                  "price": [
+                    449
                   ],
                   "discount": [
                     100
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260112_2.jpg",
-                  "subtitle": "20260112~20260118",
+                  "thumbnail": "/limited/20260119_3.jpg",
+                  "subtitle": "20260119~20260125",
                   "extra": ""
                 },
                 {
-                  "title": "翠果子 杏仁海苔天婦羅點心包",
+                  "title": "麒麟 鮮摘啤酒",
                   "id": "",
                   "price": [
-                    349
+                    949
+                  ],
+                  "discount": [
+                    190
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260119_4.jpg",
+                  "subtitle": "20260119~20260125",
+                  "extra": ""
+                },
+                {
+                  "title": "VAN DIERMEN 冷凍迷你泡芙塔",
+                  "id": "",
+                  "price": [
+                    529
+                  ],
+                  "discount": [
+                    110
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260119_5.jpg",
+                  "subtitle": "20260119~20260125",
+                  "extra": ""
+                },
+                {
+                  "title": "CAPETTA 微甜氣泡葡萄酒",
+                  "id": "",
+                  "price": [
+                    329
                   ],
                   "discount": [
                     70
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260112_3.jpg",
-                  "subtitle": "20260112~20260118",
+                  "thumbnail": "/limited/20260119_6.jpg",
+                  "subtitle": "20260119~20260125",
                   "extra": ""
                 },
                 {
-                  "title": "戀戀蚵仔寮 即食炭烤烏魚子",
+                  "title": "CAFFITALY鋁製咖啡膠囊組",
                   "id": "",
                   "price": [
-                    639
+                    1099
                   ],
                   "discount": [
-                    140
+                    240
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260112_4.jpg",
-                  "subtitle": "20260112~20260118",
+                  "thumbnail": "/limited/20260119_7.jpg",
+                  "subtitle": "20260119~20260125",
                   "extra": ""
                 },
                 {
-                  "title": "益思維 PLUS 加強膠囊",
+                  "title": "愛之味豆漿燕麥",
                   "id": "",
                   "price": [
-                    1499
+                    289
                   ],
                   "discount": [
-                    300
+                    60
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260112_5.jpg",
-                  "subtitle": "20260112~20260118",
+                  "thumbnail": "/limited/20260119_8.jpg",
+                  "subtitle": "20260119~20260125",
                   "extra": ""
                 },
                 {
-                  "title": "沛綠雅氣泡礦泉水",
+                  "title": "KID-O 奶油三明治家庭號",
                   "id": "",
                   "price": [
-                    799
+                    3339
                   ],
                   "discount": [
-                    160
+                    70
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260112_6.jpg",
-                  "subtitle": "20260112~20260118",
+                  "thumbnail": "/limited/20260119_9.jpg",
+                  "subtitle": "20260119~20260125",
                   "extra": ""
                 }
               ]
@@ -2738,25 +2780,32 @@
       }
     },
     {
-      "title": "新商品預告 20260112~20260118",
+      "title": "新商品預告 20260119~20260125",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260112_101_1_tb.jpg",
-      "extra": "/limited/20260112_101.jpg"
+      "thumbnail": "/limited/20260119_101_1_tb.jpg",
+      "extra": "/limited/20260119_101.jpg"
     },
     {
-      "title": "賣場展示及試吃活動 20260112~20260118",
+      "title": "賣場展示及試吃活動 20260119~20260125",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260112_102_tb.jpg",
-      "extra": "/limited/20260112_102.jpg"
+      "thumbnail": "/limited/20260119_103_tb.jpg",
+      "extra": "/limited/20260119_103.jpg"
     },
     {
-      "title": "黑鑽加碼優惠！(線上) 20260112",
-      "subtitle": "20230116~20230122",
-      "thumbnail": "/limited/20260112_103_tb.jpg",
-      "type": "eUrl",
-      "extra": "https://www.costco.com.tw/Deals/c/Coupon"
+      "title": "商品特展活動 20251219~20260215",
+      "subtitle": "20250113~20250119",
+      "type": "webview",
+      "thumbnail": "/limited/20260119_102_tb.jpg",
+      "extra": "/limited/20260119_102.jpg"
+    },
+    {
+      "title": "德國馬牌 輪胎優惠活動 20251219~20260215",
+      "subtitle": "20250113~20250119",
+      "type": "webview",
+      "thumbnail": "/limited/20260119_104_tb.jpg",
+      "extra": "/limited/20260119_104.jpg"
     },
     {
       "title": "商品特展活動 20251212~20260122",
