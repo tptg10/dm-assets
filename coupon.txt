@@ -1,5 +1,5 @@
 {
-  "version": "20250822",
+  "version": "20250823",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,74 +7,102 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場商品精選優惠 20260126~20260201",
-      "subtitle": "20260126~20260201",
+      "title": "賣場商品精選優惠 20260202~20260208",
+      "subtitle": "20260202~20260208",
       "type": "sub",
-      "thumbnail": "/limited/20260126.jpg",
+      "thumbnail": "/limited/20260202.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20260126~20260201",
-            "subtitle": "20260126~20260201",
+            "title": "20260202~20260208",
+            "subtitle": "20260202~20260208",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260126_1_tb.jpg",
+            "thumbnail": "/limited/20260202_1_tb.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "紅豆食府花生娃娃酥",
+                  "title": "FOOD SAVER 食物真空保鮮機",
                   "id": "",
                   "price": [
-                    345
+                    2999
+                  ],
+                  "discount": [
+                    620
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260202_1.jpg",
+                  "subtitle": "20260202~20260208",
+                  "extra": ""
+                },
+                {
+                  "title": "石頭科技 智慧洗地機 F25",
+                  "id": "",
+                  "price": [
+                    10899
+                  ],
+                  "discount": [
+                    2200
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260202_2.jpg",
+                  "subtitle": "20260202~20260208",
+                  "extra": ""
+                },
+                {
+                  "title": "正官庄高麗蔘粉EVERYTIME",
+                  "id": "",
+                  "price": [
+                    1799
+                  ],
+                  "discount": [
+                    360
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260202_3.jpg",
+                  "subtitle": "20260202~20260208",
+                  "extra": ""
+                },
+                {
+                  "title": "麒麟淡麗啤酒",
+                  "id": "",
+                  "price": [
+                    999
+                  ],
+                  "discount": [
+                    200
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260202_4.jpg",
+                  "subtitle": "20260202~20260208",
+                  "extra": ""
+                },
+                {
+                  "title": "優系高效鎖鮮蔬果專用夾鏈袋",
+                  "id": "",
+                  "price": [
+                    339
                   ],
                   "discount": [
                     70
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260126_1.jpg",
-                  "subtitle": "20260126~20260201",
+                  "thumbnail": "/limited/20260202_5.jpg",
+                  "subtitle": "20260202~20260208",
                   "extra": ""
                 },
                 {
-                  "title": "SWISS MISS即溶可可粉",
+                  "title": "馬祖酒廠 馬祖高粱酒58度",
                   "id": "",
                   "price": [
-                    349
+                    369
                   ],
                   "discount": [
-                    70
+                    74
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260126_2.jpg",
-                  "subtitle": "20260126~20260201",
-                  "extra": ""
-                },
-                {
-                  "title": "善存男性綜合維他命錠",
-                  "id": "",
-                  "price": [
-                    1549
-                  ],
-                  "discount": [
-                    310
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260126_3.jpg",
-                  "subtitle": "20260126~20260201",
-                  "extra": ""
-                },
-                {
-                  "title": "善存女性綜合維他命錠",
-                  "id": "",
-                  "price": [
-                    1549
-                  ],
-                  "discount": [
-                    310
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260126_4.jpg",
-                  "subtitle": "20260126~20260201",
+                  "thumbnail": "/limited/20260202_6.jpg",
+                  "subtitle": "20260202~20260208",
                   "extra": ""
                 }
               ]
@@ -2710,18 +2738,18 @@
       }
     },
     {
-      "title": "新商品預告 20260126~20260201",
+      "title": "賣場展示及試吃活動 20260202~20260208",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260126_101_tb.jpg",
-      "extra": "/limited/20260126_101.jpg"
+      "thumbnail": "/limited/20260202_101_tb.jpg",
+      "extra": "/limited/20260202_101.jpg"
     },
     {
-      "title": "賣場展示及試吃活動 20260126~20260201",
+      "title": "隱藏優惠(線上)20260202~20260208",
       "subtitle": "20250113~20250119",
-      "type": "webview",
-      "thumbnail": "/limited/20260126_102_tb.jpg",
-      "extra": "/limited/20260126_102.jpg"
+      "thumbnail": "/limited/20260202_102_tb.jpg",
+      "type": "eUrl",
+      "extra": "https://www.costco.com.tw/Deals/c/Coupon"
     },
     {
       "title": "商品特展活動 20260119~20260215",
