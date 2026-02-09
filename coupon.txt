@@ -1,5 +1,5 @@
 {
-  "version": "20250823",
+  "version": "20250825",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,102 +7,88 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場商品精選優惠 20260202~20260208",
-      "subtitle": "20260202~20260208",
+      "title": "賣場商品精選優惠 20260209~20260215",
+      "subtitle": "20260209~20260215",
       "type": "sub",
-      "thumbnail": "/limited/20260202.jpg",
+      "thumbnail": "/limited/20260209.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20260202~20260208",
-            "subtitle": "20260202~20260208",
+            "title": "20260209~20260215",
+            "subtitle": "20260209~20260215",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260202_1_tb.jpg",
+            "thumbnail": "/limited/20260209_1_tb.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "FOOD SAVER 食物真空保鮮機",
+                  "title": "老協珍冷凍熬雞精",
                   "id": "",
                   "price": [
-                    2999
+                    3999
                   ],
                   "discount": [
-                    620
+                    800
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260202_1.jpg",
-                  "subtitle": "20260202~20260208",
+                  "thumbnail": "/limited/20260209_1.jpg",
+                  "subtitle": "20260209~20260215",
                   "extra": ""
                 },
                 {
-                  "title": "石頭科技 智慧洗地機 F25",
+                  "title": "GORILLA多功能組合五層置物架",
                   "id": "",
                   "price": [
-                    10899
+                    2399
                   ],
                   "discount": [
-                    2200
+                    500
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260202_2.jpg",
-                  "subtitle": "20260202~20260208",
+                  "thumbnail": "/limited/20260209_2.jpg",
+                  "subtitle": "20260209~20260215",
                   "extra": ""
                 },
                 {
-                  "title": "正官庄高麗蔘粉EVERYTIME",
+                  "title": "D. CLEAN 過濾花灑濾芯套組",
                   "id": "",
                   "price": [
-                    1799
+                    879
                   ],
                   "discount": [
-                    360
+                    190
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260202_3.jpg",
-                  "subtitle": "20260202~20260208",
+                  "thumbnail": "/limited/20260209_3.jpg",
+                  "subtitle": "20260209~20260215",
                   "extra": ""
                 },
                 {
-                  "title": "麒麟淡麗啤酒",
+                  "title": "OZI CHOICE A2 牛奶鈣片咀嚼錠",
                   "id": "",
                   "price": [
-                    999
+                    719
                   ],
                   "discount": [
-                    200
+                    145
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260202_4.jpg",
-                  "subtitle": "20260202~20260208",
+                  "thumbnail": "/limited/20260209_4.jpg",
+                  "subtitle": "20260209~20260215",
                   "extra": ""
                 },
                 {
-                  "title": "優系高效鎖鮮蔬果專用夾鏈袋",
+                  "title": "百事 可樂寶特瓶",
                   "id": "",
                   "price": [
-                    339
+                    399
                   ],
-                  "discount": [
+                  "80": [
                     70
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260202_5.jpg",
-                  "subtitle": "20260202~20260208",
-                  "extra": ""
-                },
-                {
-                  "title": "馬祖酒廠 馬祖高粱酒58度",
-                  "id": "",
-                  "price": [
-                    369
-                  ],
-                  "discount": [
-                    74
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260202_6.jpg",
-                  "subtitle": "20260202~20260208",
+                  "thumbnail": "/limited/20260209_5.jpg",
+                  "subtitle": "20260209~20260215",
                   "extra": ""
                 }
               ]
@@ -2738,18 +2724,18 @@
       }
     },
     {
-      "title": "賣場展示及試吃活動 20260202~20260208",
+      "title": "新商品預告 20260209~20260215",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260202_101_tb.jpg",
-      "extra": "/limited/20260202_101.jpg"
+      "thumbnail": "/limited/20260209_101_tb.jpg",
+      "extra": "/limited/20260209_101.jpg"
     },
     {
-      "title": "隱藏優惠(線上)20260202~20260208",
+      "title": "賣場展示及試吃活動 20260209~20260215",
       "subtitle": "20250113~20250119",
-      "thumbnail": "/limited/20260202_102_tb.jpg",
-      "type": "eUrl",
-      "extra": "https://www.costco.com.tw/Deals/c/Coupon"
+      "type": "webview",
+      "thumbnail": "/limited/20260209_102_tb.jpg",
+      "extra": "/limited/20260209_102.jpg"
     },
     {
       "title": "商品特展活動 20260119~20260215",
