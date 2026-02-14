@@ -1,5 +1,5 @@
 {
-  "version": "20250839",
+  "version": "20250840",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -10,7 +10,7 @@
       "title": "春季專案 20260216~20260412",
       "subtitle": "20260216~20260412",
       "type": "sub",
-      "thumbnail": "/dm/spring2026/20260126_101.jpg",
+      "thumbnail": "/dm/spring2026/20260216_00.jpg",
       "extra": {
         "display": "passport",
         "extra": [
@@ -2314,6 +2314,227 @@
                     1279
                   ],
                   "thumbnail": "/dm/spring2026/20260316_70.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "CASA 經典優質三角靠墊",
+                  "price": [
+                    639
+                  ],
+                  "discount": [
+                    144
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_71.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "舒潔三層抽取式衛生紙",
+                  "price": [
+                    1159
+                  ],
+                  "discount": [
+                    220
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_72.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "舒潔濕式衛生紙",
+                  "price": [
+                    1429
+                  ],
+                  "discount": [
+                    286
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_73.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "CLAYGE海泥毛孔淨透洗面乳",
+                  "price": [
+                    549
+                  ],
+                  "discount": [
+                    120
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_74.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "美麗克萊爾山茶花深層卸妝潔顏油",
+                  "price": [
+                    855
+                  ],
+                  "discount": [
+                    180
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_75.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "艾瑪絲清檸沁涼控油洗髮精",
+                  "price": [
+                    665
+                  ],
+                  "discount": [
+                    140
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_76.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "中衛醫療口罩（未滅菌）",
+                  "price": [
+                    849
+                  ],
+                  "discount": [
+                    170
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_77.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "汪哺星球冷凍乾燥寵物零食 雞胸肉塊",
+                  "price": [
+                    1999
+                  ],
+                  "discount": [
+                    400
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_78.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "冷凍花魚一夜干",
+                  "price": [
+                    999
+                  ],
+                  "discount": [
+                    150
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_79.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "WEAT冷凍蔬食漢堡排",
+                  "price": [
+                    479
+                  ],
+                  "discount": [
+                    100
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_80.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "宏裕行冷凍海鮮蝦餅",
+                  "price": [
+                    1189
+                  ],
+                  "discount": [
+                    240
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_81.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "哈根達斯 豐潤草莓雪酥",
+                  "price": [
+                    3099
+                  ],
+                  "discount": [
+                    620
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_82.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "五月花三層抽取式廚房紙巾",
+                  "price": [
+                    899
+                  ],
+                  "discount": [
+                    180
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_83.jpg",
                   "id": "",
                   "type": "product",
                   "subtitle": "20260316~20260412",
