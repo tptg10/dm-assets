@@ -1,5 +1,5 @@
 {
-  "version": "20250835",
+  "version": "20250836",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -1129,7 +1129,11 @@
                   "final_price": [
                     1549
                   ],
-                  "thumbnail": "/dm/spring2026/20260216_66.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_66.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 }
               ]
             }
