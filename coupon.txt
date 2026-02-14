@@ -1,5 +1,5 @@
 {
-  "version": "20250829",
+  "version": "20250840",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -10,7 +10,7 @@
       "title": "春季專案 20260216~20260412",
       "subtitle": "20260216~20260412",
       "type": "sub",
-      "thumbnail": "/dm/year2026/20260126_101.jpg",
+      "thumbnail": "/dm/spring2026/20260216_00.jpg",
       "extra": {
         "display": "passport",
         "extra": [
@@ -18,7 +18,7 @@
             "title": "20260216~20260315",
             "subtitle": "20260216~20260315",
             "type": "sub|textonly",
-            "thumbnail": "/dm/year2026/20260216_00.jpg",
+            "thumbnail": "/dm/spring2026/20260216_00.jpg",
             "extra": {
               "extra": [
                 {
@@ -32,7 +32,11 @@
                   "final_price": [
                     2399
                   ],
-                  "thumbnail": "/dm/year2026/20260216_01.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_01.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "LG 75吋 QNED 顯示器 75QNED82ATA",
@@ -45,7 +49,11 @@
                   "final_price": [
                     39999
                   ],
-                  "thumbnail": "/dm/year2026/20260216_02.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_02.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "UE WONDERBOOM 4 防水無線藍牙揚聲器 (2入)",
@@ -58,7 +66,11 @@
                   "final_price": [
                     3179
                   ],
-                  "thumbnail": "/dm/year2026/20260216_03.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_03.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "Samsung 623公升雙循環雙門冰箱",
@@ -71,7 +83,11 @@
                   "final_price": [
                     21399
                   ],
-                  "thumbnail": "/dm/year2026/20260216_04.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_04.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "Seagate 4TB 2.5吋硬碟",
@@ -84,7 +100,11 @@
                   "final_price": [
                     2879
                   ],
-                  "thumbnail": "/dm/year2026/20260216_05.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_05.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "TCL 65吋 4K 顯示器",
@@ -97,7 +117,11 @@
                   "final_price": [
                     13589
                   ],
-                  "thumbnail": "/dm/year2026/20260216_06.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_06.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "OSRAM LED 護眼檯燈",
@@ -110,7 +134,11 @@
                   "final_price": [
                     2349
                   ],
-                  "thumbnail": "/dm/year2026/20260216_07.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_07.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "WENGER 17吋多功能電腦後背包",
@@ -123,7 +151,11 @@
                   "final_price": [
                     1699
                   ],
-                  "thumbnail": "/dm/year2026/20260216_08.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_08.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "Nescafe Genio S Plus 膠囊咖啡機 含144顆膠囊",
@@ -136,7 +168,11 @@
                   "final_price": [
                     2699
                   ],
-                  "thumbnail": "/dm/year2026/20260216_09.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_09.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "HAPE 豪華廚房",
@@ -149,7 +185,11 @@
                   "final_price": [
                     1229
                   ],
-                  "thumbnail": "/dm/year2026/20260216_10.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_10.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "PUMA 女襪 12雙入",
@@ -162,7 +202,11 @@
                   "final_price": [
                     479
                   ],
-                  "thumbnail": "/dm/year2026/20260216_11.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_11.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "PUMA 男襪 12雙入",
@@ -175,7 +219,11 @@
                   "final_price": [
                     479
                   ],
-                  "thumbnail": "/dm/year2026/20260216_12.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_12.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "SLOGGI 女無鋼圈內衣 2入組",
@@ -188,7 +236,11 @@
                   "final_price": [
                     789
                   ],
-                  "thumbnail": "/dm/year2026/20260216_13.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_13.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "Cetaphil 溫和潔膚乳 591ml 2入",
@@ -201,7 +253,11 @@
                   "final_price": [
                     509
                   ],
-                  "thumbnail": "/dm/year2026/20260216_14.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_14.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "Polident 假牙清潔錠 180片",
@@ -214,7 +270,11 @@
                   "final_price": [
                     499
                   ],
-                  "thumbnail": "/dm/year2026/20260216_15.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_15.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "Gillette 鋒護手動刮鬍刀組 1刀架+10刀頭",
@@ -227,7 +287,11 @@
                   "final_price": [
                     778
                   ],
-                  "thumbnail": "/dm/year2026/20260216_16.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_16.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "TRESemmé 深層清潔洗髮露 940ml 2入",
@@ -240,7 +304,11 @@
                   "final_price": [
                     355
                   ],
-                  "thumbnail": "/dm/year2026/20260216_17.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_17.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "TRESemmé 蘆薈滋潤護髮乳 940ml 2入",
@@ -253,7 +321,11 @@
                   "final_price": [
                     355
                   ],
-                  "thumbnail": "/dm/year2026/20260216_18.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_18.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "Persil 4合1室內洗衣膠囊 64顆",
@@ -266,7 +338,11 @@
                   "final_price": [
                     459
                   ],
-                  "thumbnail": "/dm/year2026/20260216_19.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_19.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "Dog Cat Star 冷凍乾燥雞胸肉塊 348g",
@@ -279,7 +355,11 @@
                   "final_price": [
                     789
                   ],
-                  "thumbnail": "/dm/year2026/20260216_20.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_20.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "ITO-EN 伊藤園 綠茶 530毫升 24入",
@@ -292,7 +372,11 @@
                   "final_price": [
                     365
                   ],
-                  "thumbnail": "/dm/year2026/20260216_21.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_21.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "THE VEGAN 樂維根 植物蛋白無加糖豆漿 2.5公斤",
@@ -305,7 +389,11 @@
                   "final_price": [
                     1119
                   ],
-                  "thumbnail": "/dm/year2026/20260216_22.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_22.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "THE VEGAN 樂維根 植物蛋白無加糖芝麻 2.5公斤",
@@ -318,7 +406,11 @@
                   "final_price": [
                     1119
                   ],
-                  "thumbnail": "/dm/year2026/20260216_23.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_23.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "QUAKER 桂格 即食大燕麥片隨身包 44包",
@@ -331,7 +423,11 @@
                   "final_price": [
                     439
                   ],
-                  "thumbnail": "/dm/year2026/20260216_24.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_24.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "OLD SAN FRANCISCO 老舊金山 拿鐵二合一 125包",
@@ -344,7 +440,11 @@
                   "final_price": [
                     609
                   ],
-                  "thumbnail": "/dm/year2026/20260216_25.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_25.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "GREAT DAY 法式濃湯 蘑菇起司口味 30包",
@@ -357,7 +457,11 @@
                   "final_price": [
                     309
                   ],
-                  "thumbnail": "/dm/year2026/20260216_26.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_26.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "MARUESU 芥末醬油海苔天婦羅 10包",
@@ -370,7 +474,11 @@
                   "final_price": [
                     239
                   ],
-                  "thumbnail": "/dm/year2026/20260216_27.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_27.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "PAMI ZENG 曾拌麵 香蔥椒麻拌麵 12包",
@@ -383,7 +491,11 @@
                   "final_price": [
                     319
                   ],
-                  "thumbnail": "/dm/year2026/20260216_28.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_28.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "VIVA 萬歲牌 柿米果海苔杏仁小魚 20包",
@@ -396,7 +508,11 @@
                   "final_price": [
                     479
                   ],
-                  "thumbnail": "/dm/year2026/20260216_29.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_29.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "SHJ 盛香珍 濃厚紫菜青蔥蘇打 1525公克",
@@ -409,7 +525,11 @@
                   "final_price": [
                     259
                   ],
-                  "thumbnail": "/dm/year2026/20260216_30.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_30.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "CAFE!N 耶加雪菲濾掛咖啡 50包",
@@ -422,7 +542,11 @@
                   "final_price": [
                     479
                   ],
-                  "thumbnail": "/dm/year2026/20260216_31.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_31.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "TWIX 迷你焦糖夾心巧克力 1180公克",
@@ -435,7 +559,11 @@
                   "final_price": [
                     439
                   ],
-                  "thumbnail": "/dm/year2026/20260216_32.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_32.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "CHESDALE 芝司樂 原味高鈣起司球 2包",
@@ -448,7 +576,11 @@
                   "final_price": [
                     239
                   ],
-                  "thumbnail": "/dm/year2026/20260216_33.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_33.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "CHIVAS REGAL 18年蘇格蘭調和威士忌 1公升",
@@ -461,7 +593,11 @@
                   "final_price": [
                     1799
                   ],
-                  "thumbnail": "/dm/year2026/20260216_34.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_34.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "MENAGE A TROIS 美國紅葡萄酒 750毫升",
@@ -474,7 +610,11 @@
                   "final_price": [
                     289
                   ],
-                  "thumbnail": "/dm/year2026/20260216_35.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_35.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "WAN CHAI FERRY 冷凍鮮肉小籠湯包 48顆",
@@ -487,7 +627,11 @@
                   "final_price": [
                     379
                   ],
-                  "thumbnail": "/dm/year2026/20260216_36.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_36.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "GAO JIN 高津 日式叉燒 3包",
@@ -500,7 +644,11 @@
                   "final_price": [
                     345
                   ],
-                  "thumbnail": "/dm/year2026/20260216_37.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_37.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "JONGGA 宗家府 切塊泡菜 6包",
@@ -513,7 +661,11 @@
                   "final_price": [
                     210
                   ],
-                  "thumbnail": "/dm/year2026/20260216_38.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_38.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "KIRKLAND SIGNATURE 科克蘭 菠蘿奶油泡芙 9入",
@@ -526,7 +678,11 @@
                   "final_price": [
                     295
                   ],
-                  "thumbnail": "/dm/year2026/20260216_39.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_39.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "KIRKLAND SIGNATURE 科克蘭 酸菜魚",
@@ -539,7 +695,11 @@
                   "final_price": [
                     299
                   ],
-                  "thumbnail": "/dm/year2026/20260216_40.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_40.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "冷凍半殼扇貝 10入",
@@ -552,7 +712,11 @@
                   "final_price": [
                     319
                   ],
-                  "thumbnail": "/dm/year2026/20260216_41.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_41.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "KIRKLAND SIGNATURE 美國特選肥牛肉卷",
@@ -562,7 +726,11 @@
                   ],
                   "final_price": [],
                   "unit": "每公斤折134",
-                  "thumbnail": "/dm/year2026/20260216_42.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_42.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "MSC 野生阿拉斯加紅魚排",
@@ -576,7 +744,11 @@
                     299
                   ],
                   "unit": "每公斤",
-                  "thumbnail": "/dm/year2026/20260216_43.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_43.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "ASIA FARM 冷凍菠菜 6包入",
@@ -589,7 +761,11 @@
                   "final_price": [
                     299
                   ],
-                  "thumbnail": "/dm/year2026/20260216_44.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_44.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "UKONDO 琉金發酵薑黃錠 140包",
@@ -602,7 +778,11 @@
                   "final_price": [
                     675
                   ],
-                  "thumbnail": "/dm/year2026/20260216_45.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_45.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "WEIDER 輕暢酵素飲 30包",
@@ -615,7 +795,11 @@
                   "final_price": [
                     799
                   ],
-                  "thumbnail": "/dm/year2026/20260216_46.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_46.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "CALTRATE 高鈣強力錠 +K2 295錠",
@@ -628,7 +812,11 @@
                   "final_price": [
                     1439
                   ],
-                  "thumbnail": "/dm/year2026/20260216_47.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_47.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "REDOXON 維他命C+D+鋅發泡錠 45錠",
@@ -641,7 +829,11 @@
                   "final_price": [
                     619
                   ],
-                  "thumbnail": "/dm/year2026/20260216_48.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_48.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "MERIDLIFE 海洋膠原蛋白凍 40條",
@@ -654,7 +846,11 @@
                   "final_price": [
                     779
                   ],
-                  "thumbnail": "/dm/year2026/20260216_49.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_49.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "CENTRUM 葉黃素液態軟膠囊 140粒",
@@ -667,17 +863,22 @@
                   "final_price": [
                     799
                   ],
-                  "thumbnail": "/dm/year2026/20260216_50.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_50.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "ACUVUE 歐舒適每日拋隱形眼鏡 90片",
                   "price": [],
-                  "discount": [
-                    680
-                  ],
+                  "discount": [],
                   "final_price": [],
-                  "note": "購買2盒折680",
-                  "thumbnail": "/dm/year2026/20260216_51.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_51.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "VILSON 好菌搖搖有機兒茶素綠茶 30包",
@@ -690,7 +891,11 @@
                   "final_price": [
                     379
                   ],
-                  "thumbnail": "/dm/year2026/20260216_52.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_52.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "RED COW 即溶濃縮乳清蛋白 2.27公斤",
@@ -703,7 +908,11 @@
                   "final_price": [
                     1479
                   ],
-                  "thumbnail": "/dm/year2026/20260216_53.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_53.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "AIRMATE 負離子除濕機 16公升",
@@ -716,7 +925,11 @@
                   "final_price": [
                     7999
                   ],
-                  "thumbnail": "/dm/year2026/20260216_54.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_54.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "冷凍金目鱸魚排 4公斤",
@@ -729,7 +942,11 @@
                   "final_price": [
                     1699
                   ],
-                  "thumbnail": "/dm/year2026/20260216_55.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_55.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "ROHTO V 金盞花萃取物葉黃素複方軟膠囊",
@@ -742,7 +959,11 @@
                   "final_price": [
                     789
                   ],
-                  "thumbnail": "/dm/year2026/20260216_56.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_56.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "PERSIL 4合1室內洗衣膠囊 4袋入",
@@ -755,7 +976,11 @@
                   "final_price": [
                     1929
                   ],
-                  "thumbnail": "/dm/year2026/20260216_57.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_57.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "MAY FLOWER 厚棒抽取衛生紙 3袋入",
@@ -768,7 +993,11 @@
                   "final_price": [
                     919
                   ],
-                  "thumbnail": "/dm/year2026/20260216_58.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_58.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "老協珍 冷凍鮮鱸精 15包",
@@ -781,7 +1010,11 @@
                   "final_price": [
                     2239
                   ],
-                  "thumbnail": "/dm/year2026/20260216_59.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_59.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "翠果子 櫻花米果禮盒",
@@ -794,7 +1027,11 @@
                   "final_price": [
                     255
                   ],
-                  "thumbnail": "/dm/year2026/20260216_60.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_60.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "COW BRAND 牛乳石鹼 自然派洗顏皂 綠茶 4入",
@@ -807,7 +1044,11 @@
                   "final_price": [
                     459
                   ],
-                  "thumbnail": "/dm/year2026/20260216_61.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_61.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "KOHLER 恆溫三出水淋浴柱",
@@ -820,7 +1061,11 @@
                   "final_price": [
                     14989
                   ],
-                  "thumbnail": "/dm/year2026/20260216_62.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_62.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "LOCKNLOCK 都會馬克咖啡杯 2件組",
@@ -833,7 +1078,11 @@
                   "final_price": [
                     689
                   ],
-                  "thumbnail": "/dm/year2026/20260216_63.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_63.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "REVERIE 涼感舒眠枕",
@@ -846,7 +1095,11 @@
                   "final_price": [
                     775
                   ],
-                  "thumbnail": "/dm/year2026/20260216_64.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_64.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "DACHAN 冷凍雞清胸肉 2.7公斤 5包入",
@@ -859,7 +1112,11 @@
                   "final_price": [
                     2349
                   ],
-                  "thumbnail": "/dm/year2026/20260216_65.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_65.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 },
                 {
                   "title": "DR.ADVICE 益暢敏 PROTE200 益生菌 2盒入",
@@ -872,7 +1129,11 @@
                   "final_price": [
                     1549
                   ],
-                  "thumbnail": "/dm/year2026/20260216_66.jpg"
+                  "thumbnail": "/dm/spring2026/20260216_66.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260216~20260315",
+                  "extra": ""
                 }
               ]
             }
@@ -881,7 +1142,7 @@
             "title": "20260316~20260412",
             "subtitle": "20260316~20260412",
             "type": "sub|textonly",
-            "thumbnail": "/dm/year2026/20260216_00.jpg",
+            "thumbnail": "/dm/spring2026/20260216_00.jpg",
             "extra": {
               "extra": [
                 {
@@ -889,8 +1150,11 @@
                   "price": [],
                   "discount": [],
                   "final_price": [],
-                  "note": "15吋折600；16-17吋折1500；18吋以上折1800；免安裝費",
-                  "thumbnail": "/dm/year2026/20260316_01.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_01.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "PHILIPS 55吋 4K 顯示器 55PUH7630",
@@ -903,7 +1167,11 @@
                   "final_price": [
                     10959
                   ],
-                  "thumbnail": "/dm/year2026/20260316_02.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_02.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "PHILIPS 寵物抗敏空氣清淨機 AC3681",
@@ -916,7 +1184,11 @@
                   "final_price": [
                     8899
                   ],
-                  "thumbnail": "/dm/year2026/20260316_03.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_03.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "BOSCH 60公分獨立式洗碗機 SMS4ITW00X",
@@ -929,7 +1201,11 @@
                   "final_price": [
                     27199
                   ],
-                  "thumbnail": "/dm/year2026/20260316_04.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_04.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "WATERPIK ULTRA PLUS 多功能沖牙機 + 無線沖牙機雙機組 WP-320 + WF-10",
@@ -942,7 +1218,11 @@
                   "final_price": [
                     2679
                   ],
-                  "thumbnail": "/dm/year2026/20260316_05.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_05.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "ORAL-B 充電式兒童電動牙刷 D103K",
@@ -955,7 +1235,11 @@
                   "final_price": [
                     1399
                   ],
-                  "thumbnail": "/dm/year2026/20260316_06.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_06.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "STAUB 24公分雙耳圓形鑄鐵深湯鍋 含鋼頭鍋蓋",
@@ -968,7 +1252,11 @@
                   "final_price": [
                     4599
                   ],
-                  "thumbnail": "/dm/year2026/20260316_07.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_07.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "GORILLA RACK 五層強化倉儲架",
@@ -981,7 +1269,11 @@
                   "final_price": [
                     4599
                   ],
-                  "thumbnail": "/dm/year2026/20260316_08.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_08.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "PERSIL 全效能洗衣凝露 4公升",
@@ -994,7 +1286,11 @@
                   "final_price": [
                     539
                   ],
-                  "thumbnail": "/dm/year2026/20260316_09.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_09.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "MAY FLOWER 三層抽取式廚房紙巾 12包",
@@ -1007,7 +1303,11 @@
                   "final_price": [
                     335
                   ],
-                  "thumbnail": "/dm/year2026/20260316_10.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_10.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "ALPHAMIC 食物烹調專用紙",
@@ -1020,7 +1320,11 @@
                   "final_price": [
                     249
                   ],
-                  "thumbnail": "/dm/year2026/20260316_11.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_11.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "BREF 妙力 懸掛式馬桶清潔球",
@@ -1033,7 +1337,11 @@
                   "final_price": [
                     559
                   ],
-                  "thumbnail": "/dm/year2026/20260316_12.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_12.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "KLEENEX 舒潔 三層抽取式衛生紙",
@@ -1046,7 +1354,11 @@
                   "final_price": [
                     335
                   ],
-                  "thumbnail": "/dm/year2026/20260316_13.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_13.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "KLEENEX 舒潔 濕式衛生紙",
@@ -1059,7 +1371,11 @@
                   "final_price": [
                     479
                   ],
-                  "thumbnail": "/dm/year2026/20260316_14.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_14.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "WHISPER 好自在 日用液體衛生棉 24公分",
@@ -1072,7 +1388,11 @@
                   "final_price": [
                     259
                   ],
-                  "thumbnail": "/dm/year2026/20260316_15.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_15.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "WHISPER 好自在 量多液體衛生棉 27公分",
@@ -1085,7 +1405,11 @@
                   "final_price": [
                     209
                   ],
-                  "thumbnail": "/dm/year2026/20260316_16.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_16.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "NEUTROGENA 露得清 沐浴露",
@@ -1098,7 +1422,11 @@
                   "final_price": [
                     389
                   ],
-                  "thumbnail": "/dm/year2026/20260316_17.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_17.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "LISTERINE 李施德霖 無酒精漱口水",
@@ -1111,7 +1439,11 @@
                   "final_price": [
                     399
                   ],
-                  "thumbnail": "/dm/year2026/20260316_18.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_18.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "ALPECIN 咖啡因洗髮露",
@@ -1124,7 +1456,11 @@
                   "final_price": [
                     545
                   ],
-                  "thumbnail": "/dm/year2026/20260316_19.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_19.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "PARODONTAX 牙周適 牙齦護理牙膏 潔淨清新",
@@ -1137,7 +1473,11 @@
                   "final_price": [
                     495
                   ],
-                  "thumbnail": "/dm/year2026/20260316_20.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_20.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "MORINAGA 森永 IN果凍(能量) 白葡萄口味",
@@ -1150,7 +1490,11 @@
                   "final_price": [
                     389
                   ],
-                  "thumbnail": "/dm/year2026/20260316_21.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_21.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "PHILIPS 12.5W LED 燈泡 書光色 4入",
@@ -1163,7 +1507,11 @@
                   "final_price": [
                     499
                   ],
-                  "thumbnail": "/dm/year2026/20260316_22.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_22.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "PHILIPS 12.5W LED 燈泡 自然光 4入",
@@ -1176,7 +1524,11 @@
                   "final_price": [
                     499
                   ],
-                  "thumbnail": "/dm/year2026/20260316_23.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_23.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "SCOTT 萬用超強吸力紙抹布 10捲",
@@ -1189,7 +1541,11 @@
                   "final_price": [
                     599
                   ],
-                  "thumbnail": "/dm/year2026/20260316_24.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_24.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "CROCODILE 鱷魚 防蚊片-60",
@@ -1202,7 +1558,11 @@
                   "final_price": [
                     619
                   ],
-                  "thumbnail": "/dm/year2026/20260316_25.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_25.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "LIFETIME 8尺 x 10尺 儲藏屋",
@@ -1215,7 +1575,11 @@
                   "final_price": [
                     30999
                   ],
-                  "thumbnail": "/dm/year2026/20260316_26.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_26.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "JEZEBEL 女有機棉內褲 5入",
@@ -1228,7 +1592,11 @@
                   "final_price": [
                     399
                   ],
-                  "thumbnail": "/dm/year2026/20260316_27.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_27.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "ENGLISH LAUNDRY 男長褲",
@@ -1241,7 +1609,11 @@
                   "final_price": [
                     549
                   ],
-                  "thumbnail": "/dm/year2026/20260316_28.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_28.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "NESTLE 雀巢 奇巧迷你威化巧克力",
@@ -1254,7 +1626,11 @@
                   "final_price": [
                     449
                   ],
-                  "thumbnail": "/dm/year2026/20260316_29.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_29.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "OREO 迷你巧克力夾心餅乾分享組",
@@ -1267,7 +1643,11 @@
                   "final_price": [
                     259
                   ],
-                  "thumbnail": "/dm/year2026/20260316_30.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_30.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "GRANOLA HOUSE 綜合纖脆燕麥棒",
@@ -1280,7 +1660,11 @@
                   "final_price": [
                     319
                   ],
-                  "thumbnail": "/dm/year2026/20260316_31.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_31.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "SHJ 蒜片青豆",
@@ -1293,7 +1677,11 @@
                   "final_price": [
                     189
                   ],
-                  "thumbnail": "/dm/year2026/20260316_32.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_32.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "KENJI 金黃起司餅乾",
@@ -1306,7 +1694,11 @@
                   "final_price": [
                     285
                   ],
-                  "thumbnail": "/dm/year2026/20260316_33.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_33.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "KOH 100% 純椰子水",
@@ -1319,7 +1711,11 @@
                   "final_price": [
                     349
                   ],
-                  "thumbnail": "/dm/year2026/20260316_34.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_34.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "KLIM 核桃燕麥牛乳",
@@ -1332,7 +1728,11 @@
                   "final_price": [
                     239
                   ],
-                  "thumbnail": "/dm/year2026/20260316_35.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_35.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "OCEAN SPRAY 全果蔓越莓乾",
@@ -1345,33 +1745,28 @@
                   "final_price": [
                     289
                   ],
-                  "thumbnail": "/dm/year2026/20260316_36.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_36.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
-                  "title": "TWININGS 伯爵茶",
+                  "title": "TWININGS 伯爵茶 / 英倫早餐茶",
                   "price": [
-                    649
+                    649, 559
                   ],
                   "discount": [
-                    140
+                    140, 120
                   ],
                   "final_price": [
                     509
                   ],
-                  "thumbnail": "/dm/year2026/20260316_37.jpg"
-                },
-                {
-                  "title": "TWININGS 英倫早餐茶",
-                  "price": [
-                    559
-                  ],
-                  "discount": [
-                    120
-                  ],
-                  "final_price": [
-                    439
-                  ],
-                  "thumbnail": "/dm/year2026/20260316_37.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_37.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "QUAKER 桂格 減糖黑十穀",
@@ -1384,7 +1779,11 @@
                   "final_price": [
                     279
                   ],
-                  "thumbnail": "/dm/year2026/20260316_38.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_38.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "DARLING 三合一白咖啡",
@@ -1397,7 +1796,11 @@
                   "final_price": [
                     509
                   ],
-                  "thumbnail": "/dm/year2026/20260316_39.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_39.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "FERNLEAF 紐西蘭頂級純濃奶粉",
@@ -1410,7 +1813,11 @@
                   "final_price": [
                     615
                   ],
-                  "thumbnail": "/dm/year2026/20260316_40.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_40.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "UCC 職人精選濾掛式咖啡 75入",
@@ -1423,7 +1830,11 @@
                   "final_price": [
                     555
                   ],
-                  "thumbnail": "/dm/year2026/20260316_41.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_41.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "QUAKER 桂格 蛋白可可燕麥脆穀 750公克",
@@ -1436,7 +1847,11 @@
                   "final_price": [
                     239
                   ],
-                  "thumbnail": "/dm/year2026/20260316_42.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_42.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "YAKULT 養樂多 300活菌發酵乳 40瓶",
@@ -1449,7 +1864,11 @@
                   "final_price": [
                     239
                   ],
-                  "thumbnail": "/dm/year2026/20260316_43.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_43.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "SHIH AN FARM 石安牧場 杏仁豆腐 8入",
@@ -1462,7 +1881,11 @@
                   "final_price": [
                     158
                   ],
-                  "thumbnail": "/dm/year2026/20260316_44.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_44.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "LAO XIE ZHEN 老協珍 冷凍壽喜燒豬肉米漢堡 10入",
@@ -1475,7 +1898,11 @@
                   "final_price": [
                     399
                   ],
-                  "thumbnail": "/dm/year2026/20260316_45.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_45.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "ASIA FARM 亞細亞田園 冷凍智利草莓 1.5公斤",
@@ -1488,7 +1915,11 @@
                   "final_price": [
                     269
                   ],
-                  "thumbnail": "/dm/year2026/20260316_46.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_46.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "BIBIGO 冷凍蝦煎餃 600公克",
@@ -1501,17 +1932,22 @@
                   "final_price": [
                     309
                   ],
-                  "thumbnail": "/dm/year2026/20260316_47.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_47.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "KIRKLAND SIGNATURE 美國頂級紐約客牛排 (每公斤)",
                   "price": [],
-                  "discount": [
-                    340
-                  ],
+                  "discount": [],
                   "final_price": [],
-                  "note": "每公斤折340；秤重商品",
-                  "thumbnail": "/dm/year2026/20260316_48.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_48.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "DACHAN 大成 益活雞冷藏清雞胸 (每公斤)",
@@ -1524,8 +1960,11 @@
                   "final_price": [
                     269
                   ],
-                  "note": "每公斤價格",
-                  "thumbnail": "/dm/year2026/20260316_49.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_49.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "DACHAN 大成 去骨清雞腿 (每公斤)",
@@ -1539,7 +1978,11 @@
                     319
                   ],
                   "note": "每公斤價格",
-                  "thumbnail": "/dm/year2026/20260316_50.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_50.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "KIRKLAND SIGNATURE 小管 (每公斤)",
@@ -1553,7 +1996,11 @@
                     549
                   ],
                   "note": "每公斤價格",
-                  "thumbnail": "/dm/year2026/20260316_51.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_51.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "KIRKLAND SIGNATURE 紅豆生乳銅鑼燒 8入",
@@ -1566,7 +2013,11 @@
                   "final_price": [
                     205
                   ],
-                  "thumbnail": "/dm/year2026/20260316_52.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_52.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "WEIDER 威德 納豆紅麴 120粒",
@@ -1579,7 +2030,11 @@
                   "final_price": [
                     839
                   ],
-                  "thumbnail": "/dm/year2026/20260316_53.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_53.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "WEIDER 威德 一日補給+ 30包",
@@ -1592,19 +2047,25 @@
                   "final_price": [
                     759
                   ],
-                  "thumbnail": "/dm/year2026/20260316_54.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_54.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "PANADOL 普拿疼 肌立酸痛藥布 54片",
-                  "price": [
-                    419
-                  ],
+                  "price": [],
                   "discount": [],
                   "final_price": [
                     419
                   ],
                   "note": "專案活動售價",
-                  "thumbnail": "/dm/year2026/20260316_55.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_55.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "CALTRATE 挺立 關鍵迷你錠 UC-II 90錠",
@@ -1617,7 +2078,11 @@
                   "final_price": [
                     1439
                   ],
-                  "thumbnail": "/dm/year2026/20260316_56.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_56.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "WEIDER 威德 維生素K2+D3 膠囊 120粒",
@@ -1630,7 +2095,11 @@
                   "final_price": [
                     389
                   ],
-                  "thumbnail": "/dm/year2026/20260316_57.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_57.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "YOUTH LIGHT 優識立 新複方金盞花萃取葉黃素 130粒",
@@ -1643,7 +2112,11 @@
                   "final_price": [
                     779
                   ],
-                  "thumbnail": "/dm/year2026/20260316_58.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_58.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "ALCON 愛爾康 全涵氧日拋高透氧隱形眼鏡 90片",
@@ -1653,7 +2126,11 @@
                   ],
                   "final_price": [],
                   "note": "買2盒折650；單盒不折",
-                  "thumbnail": "/dm/year2026/20260316_59.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_59.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "WEIDER 威德 膠原蛋白粉 450公克",
@@ -1666,7 +2143,11 @@
                   "final_price": [
                     559
                   ],
-                  "thumbnail": "/dm/year2026/20260316_60.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_60.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "MAX & MIA 女無袖連身洋裝",
@@ -1679,7 +2160,11 @@
                   "final_price": [
                     959
                   ],
-                  "thumbnail": "/dm/year2026/20260316_61.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_61.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "NONGSHIM 農心 拉麵組合",
@@ -1692,7 +2177,11 @@
                   "final_price": [
                     289
                   ],
-                  "thumbnail": "/dm/year2026/20260316_62.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_62.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "SAMSUNG 85吋 4K 顯示器 UA85U8500FXXZW",
@@ -1705,7 +2194,11 @@
                   "final_price": [
                     59999
                   ],
-                  "thumbnail": "/dm/year2026/20260316_63.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_63.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "THOMASVILLE 布面沙發組",
@@ -1718,7 +2211,11 @@
                   "final_price": [
                     25999
                   ],
-                  "thumbnail": "/dm/year2026/20260316_64.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_64.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "WINIX 威小淨 WI-FI 智能空氣清淨機 T500",
@@ -1731,7 +2228,11 @@
                   "final_price": [
                     2299
                   ],
-                  "thumbnail": "/dm/year2026/20260316_65.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_65.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "TEFAL 法國特福 綠生活系列陶瓷不沾深煎鍋 24公分含蓋",
@@ -1744,7 +2245,11 @@
                   "final_price": [
                     1699
                   ],
-                  "thumbnail": "/dm/year2026/20260316_66.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_66.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "JOYYOUNG 九陽 多功能豆漿機 SMM55",
@@ -1757,7 +2262,11 @@
                   "final_price": [
                     2349
                   ],
-                  "thumbnail": "/dm/year2026/20260316_67.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_67.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "IGLOO 156公升商用冰桶 165QT COOLER",
@@ -1770,7 +2279,11 @@
                   "final_price": [
                     2999
                   ],
-                  "thumbnail": "/dm/year2026/20260316_68.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_68.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "IGLOO 58公升滾輪冰桶 62QT ROLLING COOLER",
@@ -1783,7 +2296,11 @@
                   "final_price": [
                     1539
                   ],
-                  "thumbnail": "/dm/year2026/20260316_69.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_69.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 },
                 {
                   "title": "TP-LINK 旋轉式 WI-FI 攝影機 C212 2入",
@@ -1796,7 +2313,232 @@
                   "final_price": [
                     1279
                   ],
-                  "thumbnail": "/dm/year2026/20260316_70.jpg"
+                  "thumbnail": "/dm/spring2026/20260316_70.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "CASA 經典優質三角靠墊",
+                  "price": [
+                    639
+                  ],
+                  "discount": [
+                    144
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_71.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "舒潔三層抽取式衛生紙",
+                  "price": [
+                    1159
+                  ],
+                  "discount": [
+                    220
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_72.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "舒潔濕式衛生紙",
+                  "price": [
+                    1429
+                  ],
+                  "discount": [
+                    286
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_73.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "CLAYGE海泥毛孔淨透洗面乳",
+                  "price": [
+                    549
+                  ],
+                  "discount": [
+                    120
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_74.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "美麗克萊爾山茶花深層卸妝潔顏油",
+                  "price": [
+                    855
+                  ],
+                  "discount": [
+                    180
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_75.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "艾瑪絲清檸沁涼控油洗髮精",
+                  "price": [
+                    665
+                  ],
+                  "discount": [
+                    140
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_76.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "中衛醫療口罩（未滅菌）",
+                  "price": [
+                    849
+                  ],
+                  "discount": [
+                    170
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_77.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "汪哺星球冷凍乾燥寵物零食 雞胸肉塊",
+                  "price": [
+                    1999
+                  ],
+                  "discount": [
+                    400
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_78.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "冷凍花魚一夜干",
+                  "price": [
+                    999
+                  ],
+                  "discount": [
+                    150
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_79.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "WEAT冷凍蔬食漢堡排",
+                  "price": [
+                    479
+                  ],
+                  "discount": [
+                    100
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_80.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "宏裕行冷凍海鮮蝦餅",
+                  "price": [
+                    1189
+                  ],
+                  "discount": [
+                    240
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_81.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "哈根達斯 豐潤草莓雪酥",
+                  "price": [
+                    3099
+                  ],
+                  "discount": [
+                    620
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_82.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
+                },
+                {
+                  "title": "五月花三層抽取式廚房紙巾",
+                  "price": [
+                    899
+                  ],
+                  "discount": [
+                    180
+                  ],
+                  "final_price": [
+                    
+                  ],
+                  "thumbnail": "/dm/spring2026/20260316_83.jpg",
+                  "id": "",
+                  "type": "product",
+                  "subtitle": "20260316~20260412",
+                  "extra": ""
                 }
               ]
             }
