@@ -1,5 +1,5 @@
 {
-  "version": "20250838",
+  "version": "20250839",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -1754,10 +1754,10 @@
                 {
                   "title": "TWININGS 伯爵茶 / 英倫早餐茶",
                   "price": [
-                    649
+                    649, 559
                   ],
                   "discount": [
-                    140
+                    140, 120
                   ],
                   "final_price": [
                     509
