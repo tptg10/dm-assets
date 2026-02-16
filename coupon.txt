@@ -1,5 +1,5 @@
 {
-  "version": "20250841",
+  "version": "20250842",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -2547,141 +2547,64 @@
       }
     },
     {
-      "title": "賣場商品精選優惠 20260209~20260215",
-      "subtitle": "20260209~20260215",
+      "title": "賣場商品精選優惠 20260216~20260222",
+      "subtitle": "20260216~20260222",
       "type": "sub",
-      "thumbnail": "/limited/20260209.jpg",
+      "thumbnail": "/limited/20260217.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20260209~20260215",
-            "subtitle": "20260209~20260215",
+            "title": "20260216~20260222",
+            "subtitle": "20260216~20260222",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260209_1_tb.jpg",
+            "thumbnail": "/limited/20260217_1_tb.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "老協珍冷凍熬雞精",
+                  "title": "ASUS 15.6吋筆記型電腦",
                   "id": "",
                   "price": [
-                    3999
+                    14895
                   ],
                   "discount": [
-                    800
+                    2900
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260209_1.jpg",
-                  "subtitle": "20260209~20260215",
+                  "thumbnail": "/limited/20260217_1.jpg",
+                  "subtitle": "20260216~20260222",
                   "extra": ""
                 },
                 {
-                  "title": "GORILLA多功能組合五層置物架",
+                  "title": "DYSON 手提無線吸塵器",
                   "id": "",
                   "price": [
-                    2399
+                    12999
                   ],
                   "discount": [
-                    500
+                    1600
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260209_2.jpg",
-                  "subtitle": "20260209~20260215",
+                  "thumbnail": "/limited/20260217_2.jpg",
+                  "subtitle": "20260216~20260222",
                   "extra": ""
                 },
                 {
-                  "title": "D. CLEAN 過濾花灑濾芯套組",
+                  "title": "MY MOTTO 提拉米蘇風味威化餅",
                   "id": "",
                   "price": [
-                    879
+                    299
                   ],
                   "discount": [
-                    190
+                    60
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260209_3.jpg",
-                  "subtitle": "20260209~20260215",
+                  "thumbnail": "/limited/20260217_3.jpg",
+                  "subtitle": "20260216~20260222",
                   "extra": ""
                 },
                 {
-                  "title": "OZI CHOICE A2 牛奶鈣片咀嚼錠",
-                  "id": "",
-                  "price": [
-                    719
-                  ],
-                  "discount": [
-                    145
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260209_4.jpg",
-                  "subtitle": "20260209~20260215",
-                  "extra": ""
-                },
-                {
-                  "title": "百事 可樂寶特瓶",
-                  "id": "",
-                  "price": [
-                    399
-                  ],
-                  "discount": [
-                    80
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260209_5.jpg",
-                  "subtitle": "20260209~20260215",
-                  "extra": ""
-                }
-              ]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "title": "新春年菜加檔3週優惠 20260126~20260215",
-      "subtitle": "20260126~20260215",
-      "type": "sub",
-      "thumbnail": "/dm/year2026/20260126_101.jpg",
-      "extra": {
-        "display": "passport",
-        "extra": [
-          {
-            "title": "20260126~20260215",
-            "subtitle": "20260126~20260215",
-            "type": "sub|textonly",
-            "thumbnail": "/dm/year2026/20260126_101.jpg",
-            "extra": {
-              "extra": [
-                {
-                  "title": "櫻桃爺爺南棗核桃糕",
-                  "id": "",
-                  "price": [
-                    489
-                  ],
-                  "discount": [
-                    100
-                  ],
-                  "type": "product",
-                  "thumbnail": "/dm/year2026/20260126_1.jpg",
-                  "subtitle": "20260126~20260215",
-                  "extra": ""
-                },
-                {
-                  "title": "麒麟生茶",
-                  "id": "",
-                  "price": [
-                    699
-                  ],
-                  "discount": [
-                    140
-                  ],
-                  "type": "product",
-                  "thumbnail": "/dm/year2026/20260126_2.jpg",
-                  "subtitle": "20260126~20260215",
-                  "extra": ""
-                },
-                {
-                  "title": "簡單點鮮奶優格",
+                  "title": "TEAZEN 康普茶一檸檬口味",
                   "id": "",
                   "price": [
                     379
@@ -2690,154 +2613,36 @@
                     80
                   ],
                   "type": "product",
-                  "thumbnail": "/dm/year2026/20260126_3.jpg",
-                  "subtitle": "20260126~20260215",
+                  "thumbnail": "/limited/20260217_4.jpg",
+                  "subtitle": "20260216~20260222",
                   "extra": ""
                 },
                 {
-                  "title": "東晟冷凍金目鱸魚排",
+                  "title": "顧可飛2000葡萄糖胺薑黃軟骨素",
                   "id": "",
                   "price": [
-                    439
+                    879
                   ],
                   "discount": [
-                    90
+                    180
                   ],
                   "type": "product",
-                  "thumbnail": "/dm/year2026/20260126_4.jpg",
-                  "subtitle": "20260126~20260215",
+                  "thumbnail": "/limited/20260217_5.jpg",
+                  "subtitle": "20260216~20260222",
                   "extra": ""
                 },
                 {
-                  "title": "大成冷凍極品花雕雞",
+                  "title": "ORGANIKA 蜂膠液",
                   "id": "",
                   "price": [
-                    499
+                    725
                   ],
                   "discount": [
-                    100
+                    145
                   ],
                   "type": "product",
-                  "thumbnail": "/dm/year2026/20260126_5.jpg",
-                  "subtitle": "20260126~20260215",
-                  "extra": ""
-                },
-                {
-                  "title": "台畜萬巒豬腳（附沾醬）",
-                  "id": "",
-                  "price": [
-                    479
-                  ],
-                  "discount": [
-                    100
-                  ],
-                  "type": "product",
-                  "thumbnail": "/dm/year2026/20260126_6.jpg",
-                  "subtitle": "20260126~20260215",
-                  "extra": ""
-                },
-                {
-                  "title": "元進莊紹興醉雞腿",
-                  "id": "",
-                  "price": [
-                    469
-                  ],
-                  "discount": [
-                    95
-                  ],
-                  "type": "product",
-                  "thumbnail": "/dm/year2026/20260126_7.jpg",
-                  "subtitle": "20260126~20260215",
-                  "extra": ""
-                },
-                {
-                  "title": "科克蘭美國特選無骨牛小排火鍋片",
-                  "id": "",
-                  "price": [],
-                  "discount": [],
-                  "type": "product",
-                  "thumbnail": "/dm/year2026/20260126_8.jpg",
-                  "subtitle": "20260126~20260215",
-                  "extra": ""
-                },
-                {
-                  "title": "台灣土雞骨腿切塊",
-                  "id": "",
-                  "price": [
-                    269
-                  ],
-                  "discount": [
-                    54
-                  ],
-                  "type": "product",
-                  "thumbnail": "/dm/year2026/20260126_9.jpg",
-                  "subtitle": "20260126~20260215",
-                  "extra": ""
-                },
-                {
-                  "title": "冷凍野生小花枝",
-                  "id": "",
-                  "price": [
-                    399
-                  ],
-                  "discount": [
-                    80
-                  ],
-                  "type": "product",
-                  "thumbnail": "/dm/year2026/20260126_10.jpg",
-                  "subtitle": "20260126~20260215",
-                  "extra": ""
-                },
-                {
-                  "title": "午仔魚",
-                  "id": "",
-                  "price": [
-                    589
-                  ],
-                  "discount": [
-                    120
-                  ],
-                  "type": "product",
-                  "thumbnail": "/dm/year2026/20260126_11.jpg",
-                  "subtitle": "20260126~20260215",
-                  "extra": ""
-                },
-                {
-                  "title": "MSC冷凍福氣魚卵",
-                  "id": "",
-                  "price": [
-                    649
-                  ],
-                  "discount": [
-                    130
-                  ],
-                  "type": "product",
-                  "thumbnail": "/dm/year2026/20260126_12.jpg",
-                  "subtitle": "20260126~20260215",
-                  "extra": ""
-                },
-                {
-                  "title": "北海道熟凍帶卵帆立貝",
-                  "id": "",
-                  "price": [
-                    835
-                  ],
-                  "discount": [
-                    170
-                  ],
-                  "type": "product",
-                  "thumbnail": "/dm/year2026/20260126_13.jpg",
-                  "subtitle": "20260126~20260215",
-                  "extra": ""
-                },
-                {
-                  "title": "日本青森陽光富士蘋果",
-                  "id": "",
-                  "price": [],
-                  "discount": [],
-                  "type": "product",
-                  "thumbnail": "/dm/year2026/20260126_14.jpg",
-                  "subtitle": "20260126~20260215",
+                  "thumbnail": "/limited/20260217_5.jpg",
+                  "subtitle": "20260216~20260222",
                   "extra": ""
                 }
               ]
@@ -2847,39 +2652,32 @@
       }
     },
     {
-      "title": "新商品預告 20260209~20260215",
+      "title": "賣場展示及試吃活動 20260216~20260222",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260209_101_tb.jpg",
-      "extra": "/limited/20260209_101.jpg"
+      "thumbnail": "/limited/20260217_102_tb.jpg",
+      "extra": "/limited/20260217_102.jpg"
     },
     {
-      "title": "賣場展示及試吃活動 20260209~20260215",
+      "title": "商品特展活動 20260216~20260319",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260209_102_tb.jpg",
-      "extra": "/limited/20260209_102.jpg"
+      "thumbnail": "/limited/20260217_101_tb.jpg",
+      "extra": "/limited/20260217_101_tb.jpg"
     },
     {
-      "title": "商品特展活動 20260119~20260215",
+      "title": "2026.02.17 初一 一日限定 (線上)",
       "subtitle": "20250113~20250119",
-      "type": "webview",
-      "thumbnail": "/limited/20260119_102_tb.jpg",
-      "extra": "/limited/20260119_102.jpg"
-    },
+      "type": "eUrl",
+      "thumbnail": "/limited/20260217_103.jpg",
+      "extra": "https://www.costco.com.tw/content/LNY"
+    }
     {
       "title": "新年送禮招福氟",
       "subtitle": "20250113~20250119",
       "type": "webview",
       "thumbnail": "/limited/20260126_104_tb.jpg",
       "extra": "/limited/20260126_104.jpg"
-    },
-    {
-      "title": "德國馬牌 輪胎優惠活動 20260119~20260215",
-      "subtitle": "20250113~20250119",
-      "type": "webview",
-      "thumbnail": "/limited/20260119_104_tb.jpg",
-      "extra": "/limited/20260119_104.jpg"
     }
   ],
   "promotion": [
