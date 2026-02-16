@@ -1,5 +1,5 @@
 {
-  "version": "20250842",
+  "version": "20250843",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -2671,7 +2671,7 @@
       "type": "eUrl",
       "thumbnail": "/limited/20260217_103.jpg",
       "extra": "https://www.costco.com.tw/content/LNY"
-    }
+    },
     {
       "title": "新年送禮招福氟",
       "subtitle": "20250113~20250119",
