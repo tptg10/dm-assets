@@ -1,5 +1,5 @@
 {
-  "version": "20250843",
+  "version": "20250845",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -2571,7 +2571,7 @@
                     2900
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260217_1.jpg",
+                  "thumbnail": "/limited/20260217_01.jpg",
                   "subtitle": "20260216~20260222",
                   "extra": ""
                 },
@@ -2585,7 +2585,7 @@
                     1600
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260217_2.jpg",
+                  "thumbnail": "/limited/20260217_02.jpg",
                   "subtitle": "20260216~20260222",
                   "extra": ""
                 },
@@ -2599,7 +2599,7 @@
                     60
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260217_3.jpg",
+                  "thumbnail": "/limited/20260217_03.jpg",
                   "subtitle": "20260216~20260222",
                   "extra": ""
                 },
@@ -2613,7 +2613,7 @@
                     80
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260217_4.jpg",
+                  "thumbnail": "/limited/20260217_04.jpg",
                   "subtitle": "20260216~20260222",
                   "extra": ""
                 },
@@ -2627,7 +2627,7 @@
                     180
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260217_5.jpg",
+                  "thumbnail": "/limited/20260217_05.jpg",
                   "subtitle": "20260216~20260222",
                   "extra": ""
                 },
@@ -2641,7 +2641,7 @@
                     145
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260217_5.jpg",
+                  "thumbnail": "/limited/20260217_06.jpg",
                   "subtitle": "20260216~20260222",
                   "extra": ""
                 }
