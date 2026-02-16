@@ -1,5 +1,5 @@
 {
-  "version": "20250845",
+  "version": "20250846",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -2663,7 +2663,7 @@
       "subtitle": "20250113~20250119",
       "type": "webview",
       "thumbnail": "/limited/20260217_101_tb.jpg",
-      "extra": "/limited/20260217_101_tb.jpg"
+      "extra": "/limited/20260217_101.jpg"
     },
     {
       "title": "2026.02.17 初一 一日限定 (線上)",
