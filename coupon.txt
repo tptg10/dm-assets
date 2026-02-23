@@ -1,5 +1,5 @@
 {
-  "version": "20250846",
+  "version": "20250901",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -2547,102 +2547,88 @@
       }
     },
     {
-      "title": "賣場商品精選優惠 20260216~20260222",
-      "subtitle": "20260216~20260222",
+      "title": "賣場商品精選優惠 20260223~20260301",
+      "subtitle": "20260223~20260301",
       "type": "sub",
-      "thumbnail": "/limited/20260217.jpg",
+      "thumbnail": "/limited/20260223.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20260216~20260222",
-            "subtitle": "20260216~20260222",
+            "title": "20260223~20260301",
+            "subtitle": "20260223~20260301",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260217_1_tb.jpg",
+            "thumbnail": "/limited/20260223_1_tb.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "ASUS 15.6吋筆記型電腦",
+                  "title": "BRITA MAXTRA PRO 純淨全效型濾芯",
                   "id": "",
                   "price": [
-                    14895
+                    1599
                   ],
                   "discount": [
-                    2900
+                    320
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260217_01.jpg",
-                  "subtitle": "20260216~20260222",
+                  "thumbnail": "/limited/20260223_01.jpg",
+                  "subtitle": "20260223~20260301",
                   "extra": ""
                 },
                 {
-                  "title": "DYSON 手提無線吸塵器",
+                  "title": "BRITA 桌上型濾水箱8.2公升",
                   "id": "",
                   "price": [
-                    12999
+                    1999
                   ],
                   "discount": [
-                    1600
+                    400
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260217_02.jpg",
-                  "subtitle": "20260216~20260222",
+                  "thumbnail": "/limited/20260223_02.jpg",
+                  "subtitle": "20260223~20260301",
                   "extra": ""
                 },
                 {
-                  "title": "MY MOTTO 提拉米蘇風味威化餅",
+                  "title": "桂冠冷凍芝麻湯圓花生仁湯組",
                   "id": "",
                   "price": [
-                    299
+                    369
                   ],
                   "discount": [
-                    60
+                    74
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260217_03.jpg",
-                  "subtitle": "20260216~20260222",
+                  "thumbnail": "/limited/20260223_03.jpg",
+                  "subtitle": "20260223~20260301",
                   "extra": ""
                 },
                 {
-                  "title": "TEAZEN 康普茶一檸檬口味",
+                  "title": "IZADI西班牙紅葡萄酒",
                   "id": "",
                   "price": [
-                    379
+                    529
                   ],
                   "discount": [
-                    80
+                    110
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260217_04.jpg",
-                  "subtitle": "20260216~20260222",
+                  "thumbnail": "/limited/20260223_04.jpg",
+                  "subtitle": "20260223~20260301",
                   "extra": ""
                 },
                 {
-                  "title": "顧可飛2000葡萄糖胺薑黃軟骨素",
+                  "title": "威德 雙茶花速崩錠",
                   "id": "",
                   "price": [
-                    879
+                    899
                   ],
                   "discount": [
                     180
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260217_05.jpg",
-                  "subtitle": "20260216~20260222",
-                  "extra": ""
-                },
-                {
-                  "title": "ORGANIKA 蜂膠液",
-                  "id": "",
-                  "price": [
-                    725
-                  ],
-                  "discount": [
-                    145
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260217_06.jpg",
-                  "subtitle": "20260216~20260222",
+                  "thumbnail": "/limited/20260223_05.jpg",
+                  "subtitle": "20260223~20260301",
                   "extra": ""
                 }
               ]
@@ -2652,11 +2638,11 @@
       }
     },
     {
-      "title": "賣場展示及試吃活動 20260216~20260222",
+      "title": "賣場展示及試吃活動 20260223~20260301",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260217_102_tb.jpg",
-      "extra": "/limited/20260217_102.jpg"
+      "thumbnail": "/limited/20260223_102_tb.jpg",
+      "extra": "/limited/20260223_102.jpg"
     },
     {
       "title": "商品特展活動 20260216~20260319",
@@ -2664,20 +2650,6 @@
       "type": "webview",
       "thumbnail": "/limited/20260217_101_tb.jpg",
       "extra": "/limited/20260217_101.jpg"
-    },
-    {
-      "title": "2026.02.17 初一 一日限定 (線上)",
-      "subtitle": "20250113~20250119",
-      "type": "eUrl",
-      "thumbnail": "/limited/20260217_103.jpg",
-      "extra": "https://www.costco.com.tw/content/LNY"
-    },
-    {
-      "title": "新年送禮招福氟",
-      "subtitle": "20250113~20250119",
-      "type": "webview",
-      "thumbnail": "/limited/20260126_104_tb.jpg",
-      "extra": "/limited/20260126_104.jpg"
     }
   ],
   "promotion": [
