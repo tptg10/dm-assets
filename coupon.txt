@@ -1,5 +1,5 @@
 {
-  "version": "20250905",
+  "version": "20250906",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -293,7 +293,7 @@
                   "price": [],
                   "discount": [],
                   "type": "product",
-                  "thumbnail": "/limited/20260309_19.jpg",
+                  "thumbnail": "/limited/20260309_20.jpg",
                   "subtitle": "20260309~20260315",
                   "extra": ""
                 }
