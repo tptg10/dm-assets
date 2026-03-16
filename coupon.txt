@@ -1,5 +1,5 @@
 {
-  "version": "20250906",
+  "version": "20260101",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,261 +7,113 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場商品精選優惠 20260309~20260315",
-      "subtitle": "20260309~20260315",
+      "title": "賣場商品精選優惠 20260316~20260322",
+      "subtitle": "20260316~20260322",
       "type": "sub",
-      "thumbnail": "/limited/20260309.jpg",
+      "thumbnail": "/limited/20260316.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20260309~20260315",
-            "subtitle": "20260309~20260315",
+            "title": "20260316~20260322",
+            "subtitle": "20260316~20260322",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260309_1_tb.jpg",
+            "thumbnail": "/limited/20260316_1_tb.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "Samsung 16公斤瓦斯型滾筒乾衣機",
+                  "title": "Carrier 變頻一對一分離式冷暖氣機 (2.8KW / 3.6KW / 5.1KW / 7.4KW)",
                   "id": "",
                   "price": [
-                    33999
+                    23999,
+                    30499,
+                    37499,
+                    53299
                   ],
                   "discount": [
-                    5100
+                    3600,
+                    4600,
+                    5700,
+                    8000
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260309_01.jpg",
-                  "subtitle": "20260309~20260315",
+                  "thumbnail": "/limited/20260316_01.jpg",
+                  "subtitle": "20260316~20260322",
                   "extra": ""
                 },
                 {
-                  "title": "SWANN 4K NVR 無線攝影機",
-                  "id": "",
+                  "title": "葡萄王 樟芝王菌絲體膠囊 240粒",
+                  "id": "137323",
                   "price": [
-                    14999
+                    1599
                   ],
                   "discount": [
-                    3000
+                    320
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260309_02.jpg",
-                  "subtitle": "20260309~20260315",
+                  "thumbnail": "/limited/20260316_02.jpg",
+                  "subtitle": "20260316~20260322",
                   "extra": ""
                 },
                 {
-                  "title": "Gilman Creek 牛皮電動躺椅",
-                  "id": "",
+                  "title": "幫寶適 一級幫紙尿褲",
+                  "id": "146569",
                   "price": [
-                    13699
+                    1449
                   ],
                   "discount": [
-                    3000
+                    300
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260309_03.jpg",
-                  "subtitle": "20260309~20260315",
+                  "thumbnail": "/limited/20260316_03.jpg",
+                  "subtitle": "20260316~20260322",
                   "extra": ""
                 },
                 {
-                  "title": "TCL 43吋 QLED 顯示器",
-                  "id": "",
+                  "title": "幫寶適 一級幫拉拉褲",
+                  "id": "146573",
                   "price": [
-                    8499
+                    1449
                   ],
                   "discount": [
-                    1800
+                    300
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260309_04.jpg",
-                  "subtitle": "20260309~20260315",
+                  "thumbnail": "/limited/20260316_04.jpg",
+                  "subtitle": "20260316~20260322",
                   "extra": ""
                 },
                 {
-                  "title": "Samsonite 29吋行李箱",
-                  "id": "",
+                  "title": "KID-O 奶油三明治家庭號",
+                  "id": "156970",
                   "price": [
-                    3899
-                  ],
-                  "discount": [
-                    800
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260309_05.jpg",
-                  "subtitle": "20260309~20260315",
-                  "extra": ""
-                },
-                {
-                  "title": "Philips 充電式智能音波牙刷2入",
-                  "id": "",
-                  "price": [
-                    3999
-                  ],
-                  "discount": [
-                    900
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260309_06.jpg",
-                  "subtitle": "20260309~20260315",
-                  "extra": ""
-                },
-                {
-                  "title": "True Innovations 網布辦公椅",
-                  "id": "",
-                  "price": [
-                    2959
-                  ],
-                  "discount": [
-                    600
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260309_07.jpg",
-                  "subtitle": "20260309~20260315",
-                  "extra": ""
-                },
-                {
-                  "title": "Benromach 12年威士忌",
-                  "id": "",
-                  "price": [
-                    1279
-                  ],
-                  "discount": [
-                    270
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260309_08.jpg",
-                  "subtitle": "20260309~20260315",
-                  "extra": ""
-                },
-                {
-                  "title": "Jane Jane 燻烤魷魚絲",
-                  "id": "",
-                  "price": [
-                    349
+                    339
                   ],
                   "discount": [
                     70
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260309_09.jpg",
-                  "subtitle": "20260309~20260315",
+                  "thumbnail": "/limited/20260316_05.jpg",
+                  "subtitle": "20260316~20260322",
                   "extra": ""
                 },
                 {
-                  "title": "Lion 極薄音波電動牙刷組",
-                  "id": "",
+                  "title": "金色三麥 生啤酒 500ml 12入",
+                  "id": "147188",
                   "price": [
-                    799
+                    749
                   ],
                   "discount": [
-                    160
+                    124
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260309_10.jpg",
-                  "subtitle": "20260309~20260315",
+                  "thumbnail": "/limited/20260316_06.jpg",
+                  "subtitle": "20260316~20260322",
                   "extra": ""
                 },
                 {
-                  "title": "Berkshire 雙人舒適毯",
-                  "id": "",
-                  "price": [
-                    485
-                  ],
-                  "discount": [
-                    100
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260309_11.jpg",
-                  "subtitle": "20260309~20260315",
-                  "extra": ""
-                },
-                {
-                  "title": "Mon Chateau 仿動物毛圓形抱枕",
-                  "id": "",
-                  "price": [
-                    449
-                  ],
-                  "discount": [
-                    150
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260309_12.jpg",
-                  "subtitle": "20260309~20260315",
-                  "extra": ""
-                },
-                {
-                  "title": "林聰明砂鍋豆腐煲",
-                  "id": "",
-                  "price": [
-                    539
-                  ],
-                  "discount": [
-                    110
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260309_13.jpg",
-                  "subtitle": "20260309~20260315",
-                  "extra": ""
-                },
-                {
-                  "title": "Blender Bottle 不鏽鋼搖搖杯",
-                  "id": "",
-                  "price": [
-                    949
-                  ],
-                  "discount": [
-                    190
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260309_14.jpg",
-                  "subtitle": "20260309~20260315",
-                  "extra": ""
-                },
-                {
-                  "title": "LOTTE 夢幻巧克力派可可風味",
-                  "id": "",
-                  "price": [
-                    429
-                  ],
-                  "discount": [
-                    90
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260309_15.jpg",
-                  "subtitle": "20260309~20260315",
-                  "extra": ""
-                },
-                {
-                  "title": "Kirkland 美國CAB冷凍肩小排肉卷",
-                  "id": "",
-                  "price": [
-                    799
-                  ],
-                  "discount": [
-                    160
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260309_16.jpg",
-                  "subtitle": "20260309~20260315",
-                  "extra": ""
-                },
-                {
-                  "title": "Polartec 毛絨毯",
-                  "id": "",
-                  "price": [
-                    935
-                  ],
-                  "discount": [
-                    190
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260309_17.jpg",
-                  "subtitle": "20260309~20260315",
-                  "extra": ""
-                },
-                {
-                  "title": "Kirkland 綜合甜甜圈",
-                  "id": "",
+                  "title": "Cadina 鮮脆三色丁",
+                  "id": "132366",
                   "price": [
                     299
                   ],
@@ -269,32 +121,36 @@
                     60
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260309_18.jpg",
-                  "subtitle": "20260309~20260315",
+                  "thumbnail": "/limited/20260316_07.jpg",
+                  "subtitle": "20260316~20260322",
                   "extra": ""
                 },
                 {
-                  "title": "Kirkland 藍莓風味大理石麵包",
-                  "id": "",
+                  "title": "大田海洋 十三香辣鱈魚寬片",
+                  "id": "155744",
                   "price": [
-                    219
+                    295
                   ],
                   "discount": [
-                    44
+                    60
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260309_19.jpg",
-                  "subtitle": "20260309~20260315",
+                  "thumbnail": "/limited/20260316_08.jpg",
+                  "subtitle": "20260316~20260322",
                   "extra": ""
                 },
                 {
-                  "title": "安視優超涵水散光每日拋棄式隱形眼鏡",
-                  "id": "",
-                  "price": [],
-                  "discount": [],
+                  "title": "伊藤園 金萱烏龍茶 535ml 24入",
+                  "id": "209829",
+                  "price": [
+                    439
+                  ],
+                  "discount": [
+                    90
+                  ],
                   "type": "product",
-                  "thumbnail": "/limited/20260309_20.jpg",
-                  "subtitle": "20260309~20260315",
+                  "thumbnail": "/limited/20260316_09.jpg",
+                  "subtitle": "20260316~20260322",
                   "extra": ""
                 }
               ]
@@ -2820,18 +2676,18 @@
       }
     },
     {
-      "title": "新商品預告 20260309~20260315",
+      "title": "新商品預告 20260316~20260322",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260309_101_tb.jpg",
-      "extra": "/limited/20260309_101.jpg"
+      "thumbnail": "/limited/20260316_101_tb.jpg",
+      "extra": "/limited/20260316_101.jpg"
     },
     {
-      "title": "賣場展示及試吃活動 20260309~20260315",
+      "title": "賣場展示及試吃活動 20260316~20260322",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260309_102_tb.jpg",
-      "extra": "/limited/20260309_102.jpg"
+      "thumbnail": "/limited/20260316_102_tb.jpg",
+      "extra": "/limited/20260316_102.jpg"
     },
     {
       "title": "商品特展活動 20260216~20260319",
@@ -2839,6 +2695,13 @@
       "type": "webview",
       "thumbnail": "/limited/20260217_101_tb.jpg",
       "extra": "/limited/20260217_101.jpg"
+    },
+    {
+      "title": "商品特展活動 20260316~20260416",
+      "subtitle": "20250113~20250119",
+      "type": "webview",
+      "thumbnail": "/limited/20260316_103_tb.jpg",
+      "extra": "/limited/20260316_103.jpg"
     }
   ],
   "promotion": [
