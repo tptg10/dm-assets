@@ -1,5 +1,5 @@
 {
-  "version": "20260101",
+  "version": "20260102",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,85 +7,79 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場商品精選優惠 20260316~20260322",
-      "subtitle": "20260316~20260322",
+      "title": "賣場商品精選優惠 20260323~20260329",
+      "subtitle": "20260323~20260329",
       "type": "sub",
-      "thumbnail": "/limited/20260316.jpg",
+      "thumbnail": "/limited/20260323.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20260316~20260322",
-            "subtitle": "20260316~20260322",
+            "title": "20260323~20260329",
+            "subtitle": "20260323~20260329",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260316_1_tb.jpg",
+            "thumbnail": "/limited/20260323_1_tb.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "Carrier 變頻一對一分離式冷暖氣機 (2.8KW / 3.6KW / 5.1KW / 7.4KW)",
-                  "id": "",
+                  "title": "Whirlpool 10/6公斤滾筒洗脫烘衣機",
+                  "id": "131142",
                   "price": [
-                    23999,
-                    30499,
-                    37499,
-                    53299
+                    10599
                   ],
                   "discount": [
-                    3600,
-                    4600,
-                    5700,
-                    8000
+                    2120
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260316_01.jpg",
-                  "subtitle": "20260316~20260322",
+                  "thumbnail": "/limited/20260323_01.jpg",
+                  "subtitle": "20260323~20260329",
                   "extra": ""
                 },
                 {
-                  "title": "葡萄王 樟芝王菌絲體膠囊 240粒",
-                  "id": "137323",
+                  "title": "SANRIO 兒童不鏽鋼保冷保溫瓶 700毫升",
+                  "id": "8524812",
                   "price": [
-                    1599
+                    419
                   ],
                   "discount": [
-                    320
+                    100
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260316_02.jpg",
-                  "subtitle": "20260316~20260322",
+                  "thumbnail": "/limited/20260323_02.jpg",
+                  "subtitle": "20260323~20260329",
                   "extra": ""
                 },
                 {
-                  "title": "幫寶適 一級幫紙尿褲",
-                  "id": "146569",
+                  "title": "粥易 珠貝鱸魚粥 400公克 6包入",
+                  "id": "238305",
                   "price": [
-                    1449
+                    479
                   ],
                   "discount": [
-                    300
+                    100
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260316_03.jpg",
-                  "subtitle": "20260316~20260322",
+                  "thumbnail": "/limited/20260323_03.jpg",
+                  "subtitle": "20260323~20260329",
                   "extra": ""
                 },
                 {
-                  "title": "幫寶適 一級幫拉拉褲",
-                  "id": "146573",
+                  "title": "CAT CHOW 貓乾糧完整均衡配方 6.8公斤",
+                  "id": "126098",
                   "price": [
-                    1449
+                    749
                   ],
                   "discount": [
-                    300
+                    150
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260316_04.jpg",
-                  "subtitle": "20260316~20260322",
+                  "thumbnail": "/limited/20260323_04.jpg",
+                  "subtitle": "20260323~20260329",
                   "extra": ""
                 },
                 {
-                  "title": "KID-O 奶油三明治家庭號",
-                  "id": "156970",
+                  "title": "CP 瑪莎曼咖哩雞肉 500公克 2包入",
+                  "id": "136282",
                   "price": [
                     339
                   ],
@@ -93,64 +87,36 @@
                     70
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260316_05.jpg",
-                  "subtitle": "20260316~20260322",
+                  "thumbnail": "/limited/20260323_05.jpg",
+                  "subtitle": "20260323~20260329",
                   "extra": ""
                 },
                 {
-                  "title": "金色三麥 生啤酒 500ml 12入",
-                  "id": "147188",
+                  "title": "GLICO 造型棒棒糖 30支",
+                  "id": "142415",
                   "price": [
-                    749
-                  ],
-                  "discount": [
-                    124
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260316_06.jpg",
-                  "subtitle": "20260316~20260322",
-                  "extra": ""
-                },
-                {
-                  "title": "Cadina 鮮脆三色丁",
-                  "id": "132366",
-                  "price": [
-                    299
-                  ],
-                  "discount": [
-                    60
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260316_07.jpg",
-                  "subtitle": "20260316~20260322",
-                  "extra": ""
-                },
-                {
-                  "title": "大田海洋 十三香辣鱈魚寬片",
-                  "id": "155744",
-                  "price": [
-                    295
-                  ],
-                  "discount": [
-                    60
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260316_08.jpg",
-                  "subtitle": "20260316~20260322",
-                  "extra": ""
-                },
-                {
-                  "title": "伊藤園 金萱烏龍茶 535ml 24入",
-                  "id": "209829",
-                  "price": [
-                    439
+                    429
                   ],
                   "discount": [
                     90
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260316_09.jpg",
-                  "subtitle": "20260316~20260322",
+                  "thumbnail": "/limited/20260323_06.jpg",
+                  "subtitle": "20260323~20260329",
+                  "extra": ""
+                },
+                {
+                  "title": "PEI TIEN 多穀物蛋黃捲 1435公克",
+                  "id": "573511",
+                  "price": [
+                    319
+                  ],
+                  "discount": [
+                    64
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260323_07.jpg",
+                  "subtitle": "20260323~20260329",
                   "extra": ""
                 }
               ]
@@ -2676,25 +2642,18 @@
       }
     },
     {
-      "title": "新商品預告 20260316~20260322",
+      "title": "新商品預告 20260323~20260329",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260316_101_tb.jpg",
-      "extra": "/limited/20260316_101.jpg"
+      "thumbnail": "/limited/20260323_101_tb.jpg",
+      "extra": "/limited/20260323_101.jpg"
     },
     {
-      "title": "賣場展示及試吃活動 20260316~20260322",
+      "title": "賣場展示及試吃活動 20260323~20260329",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260316_102_tb.jpg",
-      "extra": "/limited/20260316_102.jpg"
-    },
-    {
-      "title": "商品特展活動 20260216~20260319",
-      "subtitle": "20250113~20250119",
-      "type": "webview",
-      "thumbnail": "/limited/20260217_101_tb.jpg",
-      "extra": "/limited/20260217_101.jpg"
+      "thumbnail": "/limited/20260323_102_tb.jpg",
+      "extra": "/limited/20260323_102.jpg"
     },
     {
       "title": "商品特展活動 20260316~20260416",
