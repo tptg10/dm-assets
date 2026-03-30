@@ -1,5 +1,5 @@
 {
-  "version": "20260102",
+  "version": "20260103",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,116 +7,144 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場商品精選優惠 20260323~20260329",
-      "subtitle": "20260323~20260329",
+      "title": "賣場商品精選優惠 20260330~20260405",
+      "subtitle": "20260330~20260405",
       "type": "sub",
-      "thumbnail": "/limited/20260323.jpg",
+      "thumbnail": "/limited/20260330.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20260323~20260329",
-            "subtitle": "20260323~20260329",
+            "title": "20260330~20260405",
+            "subtitle": "20260330~20260405",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260323_1_tb.jpg",
+            "thumbnail": "/limited/20260330_1_tb.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "Whirlpool 10/6公斤滾筒洗脫烘衣機",
-                  "id": "131142",
+                  "title": "AIRMATE 艾美特 7吋DC遙控循環扇 RD209",
+                  "id": "157111",
                   "price": [
-                    10599
+                    1659
                   ],
                   "discount": [
-                    2120
+                    500
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260323_01.jpg",
-                  "subtitle": "20260323~20260329",
+                  "thumbnail": "/limited/20260330_01.jpg",
+                  "subtitle": "20260330~20260405",
                   "extra": ""
                 },
                 {
-                  "title": "SANRIO 兒童不鏽鋼保冷保溫瓶 700毫升",
-                  "id": "8524812",
+                  "title": "DURALEX 法國製玻璃餐碗盤 6件組",
+                  "id": "169311",
                   "price": [
-                    419
+                    399
                   ],
                   "discount": [
-                    100
+                    130
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260323_02.jpg",
-                  "subtitle": "20260323~20260329",
+                  "thumbnail": "/limited/20260330_02.jpg",
+                  "subtitle": "20260330~20260405",
                   "extra": ""
                 },
                 {
-                  "title": "粥易 珠貝鱸魚粥 400公克 6包入",
-                  "id": "238305",
+                  "title": "MARUTAI 九州經典三口味拉麵組 8包入 共1483公克",
+                  "id": "116289",
                   "price": [
-                    479
+                    399
                   ],
                   "discount": [
-                    100
+                    120
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260323_03.jpg",
-                  "subtitle": "20260323~20260329",
+                  "thumbnail": "/limited/20260330_03.jpg",
+                  "subtitle": "20260330~20260405",
                   "extra": ""
                 },
                 {
-                  "title": "CAT CHOW 貓乾糧完整均衡配方 6.8公斤",
-                  "id": "126098",
+                  "title": "MAN VINTNERS 南非紅葡萄酒 SHIRAZ 750毫升",
+                  "id": "74940",
                   "price": [
-                    749
+                    189
                   ],
                   "discount": [
-                    150
+                    50
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260323_04.jpg",
-                  "subtitle": "20260323~20260329",
+                  "thumbnail": "/limited/20260330_04.jpg",
+                  "subtitle": "20260330~20260405",
                   "extra": ""
                 },
                 {
-                  "title": "CP 瑪莎曼咖哩雞肉 500公克 2包入",
-                  "id": "136282",
+                  "title": "CESAR 西莎 成犬低脂雞肉蒸鮮包 每包70公克 16包入",
+                  "id": "103338",
                   "price": [
-                    339
+                    259
                   ],
                   "discount": [
                     70
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260323_05.jpg",
-                  "subtitle": "20260323~20260329",
+                  "thumbnail": "/limited/20260330_05.jpg",
+                  "subtitle": "20260330~20260405",
                   "extra": ""
                 },
                 {
-                  "title": "GLICO 造型棒棒糖 30支",
-                  "id": "142415",
+                  "title": "FUJIYA 不二家 經典牛奶糖 520公克",
+                  "id": "155247",
                   "price": [
-                    429
+                    259
                   ],
                   "discount": [
-                    90
+                    70
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260323_06.jpg",
-                  "subtitle": "20260323~20260329",
+                  "thumbnail": "/limited/20260330_06.jpg",
+                  "subtitle": "20260330~20260405",
                   "extra": ""
                 },
                 {
-                  "title": "PEI TIEN 多穀物蛋黃捲 1435公克",
-                  "id": "573511",
+                  "title": "NATURAL BENEFITS 純在 冷藏柳丁百香金萱 每瓶1.2公升 2瓶入",
+                  "id": "135319",
                   "price": [
-                    319
+                    180
                   ],
                   "discount": [
-                    64
+                    45
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260323_07.jpg",
-                  "subtitle": "20260323~20260329",
+                  "thumbnail": "/limited/20260330_07.jpg",
+                  "subtitle": "20260330~20260405",
+                  "extra": ""
+                },
+                {
+                  "title": "RU-JIH 如記 冷藏四神排骨湯 1000公克",
+                  "id": "154428",
+                  "price": [
+                    239
+                  ],
+                  "discount": [
+                    60
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260330_08.jpg",
+                  "subtitle": "20260330~20260405",
+                  "extra": ""
+                },
+                {
+                  "title": "TRUE BLUE 蜂膠潤喉糖 800公克",
+                  "id": "222982",
+                  "price": [
+                    439
+                  ],
+                  "discount": [
+                    120
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260330_09.jpg",
+                  "subtitle": "20260330~20260405",
                   "extra": ""
                 }
               ]
@@ -2642,18 +2670,18 @@
       }
     },
     {
-      "title": "新商品預告 20260323~20260329",
+      "title": "新商品預告 20260330~20260405",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260323_101_tb.jpg",
-      "extra": "/limited/20260323_101.jpg"
+      "thumbnail": "/limited/20260330_101_tb.jpg",
+      "extra": "/limited/20260330_101.jpg"
     },
     {
-      "title": "賣場展示及試吃活動 20260323~20260329",
+      "title": "賣場展示及試吃活動 20260330~20260405",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260323_102_tb.jpg",
-      "extra": "/limited/20260323_102.jpg"
+      "thumbnail": "/limited/20260330_102_tb.jpg",
+      "extra": "/limited/20260330_102.jpg"
     },
     {
       "title": "商品特展活動 20260316~20260416",
@@ -2661,6 +2689,13 @@
       "type": "webview",
       "thumbnail": "/limited/20260316_103_tb.jpg",
       "extra": "/limited/20260316_103.jpg"
+    },
+    {
+      "title": "延伸植感生活",
+      "subtitle": "20250113~20250119",
+      "type": "webview",
+      "thumbnail": "/limited/20260330_103_tb.jpg",
+      "extra": "/limited/20260330_103.jpg"
     }
   ],
   "promotion": [
