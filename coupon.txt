@@ -1,5 +1,5 @@
 {
-  "version": "20260103",
+  "version": "20260105",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -25,7 +25,7 @@
                   "title": "AIRMATE 艾美特 7吋DC遙控循環扇 RD209",
                   "id": "157111",
                   "price": [
-                    1659
+                    2159
                   ],
                   "discount": [
                     500
@@ -39,7 +39,7 @@
                   "title": "DURALEX 法國製玻璃餐碗盤 6件組",
                   "id": "169311",
                   "price": [
-                    399
+                    529
                   ],
                   "discount": [
                     130
@@ -53,7 +53,7 @@
                   "title": "MARUTAI 九州經典三口味拉麵組 8包入 共1483公克",
                   "id": "116289",
                   "price": [
-                    399
+                    519
                   ],
                   "discount": [
                     120
@@ -67,7 +67,7 @@
                   "title": "MAN VINTNERS 南非紅葡萄酒 SHIRAZ 750毫升",
                   "id": "74940",
                   "price": [
-                    189
+                    239
                   ],
                   "discount": [
                     50
@@ -81,7 +81,7 @@
                   "title": "CESAR 西莎 成犬低脂雞肉蒸鮮包 每包70公克 16包入",
                   "id": "103338",
                   "price": [
-                    259
+                    329
                   ],
                   "discount": [
                     70
@@ -95,7 +95,7 @@
                   "title": "FUJIYA 不二家 經典牛奶糖 520公克",
                   "id": "155247",
                   "price": [
-                    259
+                    329
                   ],
                   "discount": [
                     70
@@ -109,7 +109,7 @@
                   "title": "NATURAL BENEFITS 純在 冷藏柳丁百香金萱 每瓶1.2公升 2瓶入",
                   "id": "135319",
                   "price": [
-                    180
+                    225
                   ],
                   "discount": [
                     45
@@ -123,7 +123,7 @@
                   "title": "RU-JIH 如記 冷藏四神排骨湯 1000公克",
                   "id": "154428",
                   "price": [
-                    239
+                    299
                   ],
                   "discount": [
                     60
@@ -137,7 +137,7 @@
                   "title": "TRUE BLUE 蜂膠潤喉糖 800公克",
                   "id": "222982",
                   "price": [
-                    439
+                    559
                   ],
                   "discount": [
                     120
