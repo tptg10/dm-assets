@@ -1,5 +1,5 @@
 {
-  "version": "20260105",
+  "version": "20260106",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,144 +7,88 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場商品精選優惠 20260330~20260405",
-      "subtitle": "20260330~20260405",
+      "title": "賣場商品精選優惠 20260406~20260412",
+      "subtitle": "20260406~20260412",
       "type": "sub",
-      "thumbnail": "/limited/20260330.jpg",
+      "thumbnail": "/limited/20260406.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20260330~20260405",
-            "subtitle": "20260330~20260405",
+            "title": "20260406~20260412",
+            "subtitle": "20260406~20260412",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260330_1_tb.jpg",
+            "thumbnail": "/limited/20260406_1_tb.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "AIRMATE 艾美特 7吋DC遙控循環扇 RD209",
-                  "id": "157111",
+                  "title": "PRETZ 百力滋 風味棒餅組 共648公克",
+                  "id": "352414",
                   "price": [
-                    2159
+                    399
                   ],
                   "discount": [
-                    500
+                    80
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260330_01.jpg",
-                  "subtitle": "20260330~20260405",
+                  "thumbnail": "/limited/20260406_01.jpg",
+                  "subtitle": "20260406~20260412",
                   "extra": ""
                 },
                 {
-                  "title": "DURALEX 法國製玻璃餐碗盤 6件組",
-                  "id": "169311",
+                  "title": "WOKY 沃廚 輕芯鈦瓷吸管隨行杯／三麗鷗 輕芯鈦瓷咖啡保溫杯 容量600+250毫升",
+                  "id": "154486",
                   "price": [
-                    529
+                    979
                   ],
                   "discount": [
-                    130
+                    300
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260330_02.jpg",
-                  "subtitle": "20260330~20260405",
+                  "thumbnail": "/limited/20260406_02.jpg",
+                  "subtitle": "20260406~20260412",
                   "extra": ""
                 },
                 {
-                  "title": "MARUTAI 九州經典三口味拉麵組 8包入 共1483公克",
-                  "id": "116289",
+                  "title": "GAO JIN 高津 冷藏德式香腸 每包600公克 2包入",
+                  "id": "12016",
                   "price": [
-                    519
+                    419
                   ],
                   "discount": [
-                    120
+                    84
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260330_03.jpg",
-                  "subtitle": "20260330~20260405",
+                  "thumbnail": "/limited/20260406_03.jpg",
+                  "subtitle": "20260406~20260412",
                   "extra": ""
                 },
                 {
-                  "title": "MAN VINTNERS 南非紅葡萄酒 SHIRAZ 750毫升",
-                  "id": "74940",
+                  "title": "MISIONES DE RENGO 金十字蘇維翁紅酒 RESERVA CABERNET SAUVIGNON 750毫升",
+                  "id": "113321",
                   "price": [
-                    239
+                    379
                   ],
                   "discount": [
-                    50
+                    80
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260330_04.jpg",
-                  "subtitle": "20260330~20260405",
+                  "thumbnail": "/limited/20260406_04.jpg",
+                  "subtitle": "20260406~20260412",
                   "extra": ""
                 },
                 {
-                  "title": "CESAR 西莎 成犬低脂雞肉蒸鮮包 每包70公克 16包入",
-                  "id": "103338",
+                  "title": "WEIDER 威德 益生菌睡前專用 每包3公克 60包入",
+                  "id": "242036",
                   "price": [
-                    329
+                    1869
                   ],
                   "discount": [
-                    70
+                    375
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260330_05.jpg",
-                  "subtitle": "20260330~20260405",
-                  "extra": ""
-                },
-                {
-                  "title": "FUJIYA 不二家 經典牛奶糖 520公克",
-                  "id": "155247",
-                  "price": [
-                    329
-                  ],
-                  "discount": [
-                    70
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260330_06.jpg",
-                  "subtitle": "20260330~20260405",
-                  "extra": ""
-                },
-                {
-                  "title": "NATURAL BENEFITS 純在 冷藏柳丁百香金萱 每瓶1.2公升 2瓶入",
-                  "id": "135319",
-                  "price": [
-                    225
-                  ],
-                  "discount": [
-                    45
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260330_07.jpg",
-                  "subtitle": "20260330~20260405",
-                  "extra": ""
-                },
-                {
-                  "title": "RU-JIH 如記 冷藏四神排骨湯 1000公克",
-                  "id": "154428",
-                  "price": [
-                    299
-                  ],
-                  "discount": [
-                    60
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260330_08.jpg",
-                  "subtitle": "20260330~20260405",
-                  "extra": ""
-                },
-                {
-                  "title": "TRUE BLUE 蜂膠潤喉糖 800公克",
-                  "id": "222982",
-                  "price": [
-                    559
-                  ],
-                  "discount": [
-                    120
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260330_09.jpg",
-                  "subtitle": "20260330~20260405",
+                  "thumbnail": "/limited/20260406_05.jpg",
+                  "subtitle": "20260406~20260412",
                   "extra": ""
                 }
               ]
@@ -2670,18 +2614,11 @@
       }
     },
     {
-      "title": "新商品預告 20260330~20260405",
+      "title": "賣場展示及試吃活動 20260406~20260412",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260330_101_tb.jpg",
-      "extra": "/limited/20260330_101.jpg"
-    },
-    {
-      "title": "賣場展示及試吃活動 20260330~20260405",
-      "subtitle": "20250113~20250119",
-      "type": "webview",
-      "thumbnail": "/limited/20260330_102_tb.jpg",
-      "extra": "/limited/20260330_102.jpg"
+      "thumbnail": "/limited/20260406_102_tb.jpg",
+      "extra": "/limited/20260406_102.jpg"
     },
     {
       "title": "商品特展活動 20260316~20260416",
