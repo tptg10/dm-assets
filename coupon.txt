@@ -1,5 +1,5 @@
 {
-  "version": "20260109",
+  "version": "20260110",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -518,7 +518,7 @@
                   "title": "日本萬能醋",
                   "id": "131330",
                   "price": [
-                    279
+                    275
                   ],
                   "discount": [
                     60
