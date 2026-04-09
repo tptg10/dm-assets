@@ -1,5 +1,5 @@
 {
-  "version": "20260107",
+  "version": "20260108",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -279,7 +279,7 @@
                   "title": "MAMYPOKO 滿意寶寶 哆啦A夢紙尿褲 (M) 228片／(L) 192片",
                   "id": "328028/328029",
                   "price": [
-                    995
+                    1245
                   ],
                   "discount": [
                     250
@@ -293,7 +293,7 @@
                   "title": "MAMYPOKO 滿意寶寶 哆啦A夢輕巧褲 (L) 176片／(XL) 152片／(XXL) 104片",
                   "id": "526086/526087/526088",
                   "price": [
-                    839
+                    1049
                   ],
                   "discount": [
                     210
@@ -307,7 +307,7 @@
                   "title": "AUSTRALIAN BOTANICAL SOAP 澳洲製植物精油香皂組 8入",
                   "id": "438047",
                   "price": [
-                    335
+                    445
                   ],
                   "discount": [
                     110
@@ -321,7 +321,7 @@
                   "title": "CERAVE 適樂膚 溫和泡沫潔膚露 976毫升",
                   "id": "238410",
                   "price": [
-                    599
+                    759
                   ],
                   "discount": [
                     160
@@ -335,7 +335,7 @@
                   "title": "KF GOODS 口福不淺 有機雙麻派 每個25公克 20個入",
                   "id": "116754",
                   "price": [
-                    319
+                    399
                   ],
                   "discount": [
                     80
@@ -349,7 +349,7 @@
                   "title": "MALTESERS 麥提莎 麥芽脆心巧克力 共528公克",
                   "id": "137722",
                   "price": [
-                    369
+                    469
                   ],
                   "discount": [
                     100
@@ -363,7 +363,7 @@
                   "title": "KOKIRI 哇象 海苔捲原味 每包5公克 22包入",
                   "id": "1212069",
                   "price": [
-                    279
+                    349
                   ],
                   "discount": [
                     70
@@ -377,7 +377,7 @@
                   "title": "MOCCONA 中焙即溶咖啡粉 400公克",
                   "id": "128828",
                   "price": [
-                    449
+                    569
                   ],
                   "discount": [
                     120
@@ -391,7 +391,7 @@
                   "title": "QUAKER 桂格 莓好果漾沖泡穀奶昔 每包30公克 36包入",
                   "id": "283269",
                   "price": [
-                    239
+                    299
                   ],
                   "discount": [
                     60
@@ -405,7 +405,7 @@
                   "title": "LAY'S 樂事 北海道嫩煎干貝洋芋片 580公克",
                   "id": "228788",
                   "price": [
-                    179
+                    229
                   ],
                   "discount": [
                     50
@@ -419,7 +419,7 @@
                   "title": "DAH TIEN 大田海洋 鱈魚黑芝麻夾心絲 720公克",
                   "id": "231059",
                   "price": [
-                    235
+                    295
                   ],
                   "discount": [
                     60
@@ -433,7 +433,7 @@
                   "title": "NATURE VALLEY 天然谷 綜合燕麥棒 40條入 共1.68公斤",
                   "id": "109665",
                   "price": [
-                    399
+                    499
                   ],
                   "discount": [
                     100
@@ -447,7 +447,7 @@
                   "title": "NATURAL BENEFITS 純在 芭樂檸檬綠茶 每瓶1.2公升 2瓶入",
                   "id": "131330",
                   "price": [
-                    149
+                    189
                   ],
                   "discount": [
                     40
@@ -461,7 +461,7 @@
                   "title": "BIBIGO 冷凍高麗韭菜餃 1.4公斤",
                   "id": "658912",
                   "price": [
-                    319
+                    399
                   ],
                   "discount": [
                     80
@@ -475,7 +475,7 @@
                   "title": "CASCADE DAIRY 冷藏柯爾比傑克乾酪片 681公克",
                   "id": "532597",
                   "price": [
-                    175
+                    219
                   ],
                   "discount": [
                     44
@@ -489,7 +489,7 @@
                   "title": "RONGCHYI 榮祺 蜜漬黑豆 每盒750公克 2盒入",
                   "id": "169367",
                   "price": [
-                    199
+                    249
                   ],
                   "discount": [
                     50
@@ -601,10 +601,10 @@
                   "title": "ALINAMIN 合利他命 強效錠 EX PLUS",
                   "id": "997786",
                   "price": [
-                    3699
+                    
                   ],
                   "discount": [
-                    0
+                    
                   ],
                   "type": "product",
                   "thumbnail": "/dm/passport2026/20260413_48.jpg",
@@ -615,10 +615,10 @@
                   "title": "單焦點透明光學鏡片+鏡框 折扣",
                   "id": "",
                   "price": [
-                    1200
+                    
                   ],
                   "discount": [
-                    0
+                    
                   ],
                   "type": "product",
                   "thumbnail": "/dm/passport2026/20260413_49.jpg",
@@ -1190,7 +1190,7 @@
                   "extra": ""
                 },
                 {
-                  "title": "PALLADIUM 男登山鞋",
+                  "title": "PALLADIUM 男鯊齒鞋",
                   "id": "156946",
                   "price": [
                     2799
@@ -1204,7 +1204,7 @@
                   "extra": ""
                 },
                 {
-                  "title": "PALLADIUM 女登山鞋",
+                  "title": "PALLADIUM 女鯊齒鞋",
                   "id": "156947",
                   "price": [
                     2799
