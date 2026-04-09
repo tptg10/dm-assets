@@ -1,5 +1,5 @@
 {
-  "version": "20260108",
+  "version": "20260109",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -318,6 +318,49 @@
                   "extra": ""
                 },
                 {
+                  "title": "桂格 雙效活靈芝滋補液",
+                  "id": "238410",
+                  "price": [
+                    1525
+                  ],
+                  "discount": [
+                    310
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026/20260413_22.jpg",
+                  "subtitle": "20260413~20260510",
+                  "extra": ""
+                },
+                {
+                  "title": "明治 膠原蛋白粉標準版",
+                  "id": "238410",
+                  "price": [
+                    1199
+                  ],
+                  "discount": [
+                    210
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026/20260413_23.jpg",
+                  "subtitle": "20260413~20260510",
+                  "extra": ""
+                },
+                {
+                  "title": "貝膚黛瑪 舒敏高效潔膚液",
+                  "id": "238410",
+                  "price": [
+                    1839
+                  ],
+                  "discount": [
+                    380
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026/20260413_24.jpg",
+                  "subtitle": "20260413~20260510",
+                  "extra": ""
+                },
+                
+                {
                   "title": "CERAVE 適樂膚 溫和泡沫潔膚露 976毫升",
                   "id": "238410",
                   "price": [
@@ -443,6 +486,52 @@
                   "subtitle": "20260413~20260510",
                   "extra": ""
                 },
+                {
+                  "title": "農心安城湯麵",
+                  "id": "131330",
+                  "price": [
+                    319
+                  ],
+                  "discount": [
+                    70
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026/20260413_34.jpg",
+                  "subtitle": "20260413~20260510",
+                  "extra": ""
+                },
+                {
+                  "title": "愛之味純濃燕麥（原味）",
+                  "id": "131330",
+                  "price": [
+                    269
+                  ],
+                  "discount": [
+                    60
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026/20260413_35.jpg",
+                  "subtitle": "20260413~20260510",
+                  "extra": ""
+                },
+                {
+                  "title": "日本萬能醋",
+                  "id": "131330",
+                  "price": [
+                    279
+                  ],
+                  "discount": [
+                    60
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026/20260413_36.jpg",
+                  "subtitle": "20260413~20260510",
+                  "extra": ""
+                },
+                
+                
+                
+                
                 {
                   "title": "NATURAL BENEFITS 純在 芭樂檸檬綠茶 每瓶1.2公升 2瓶入",
                   "id": "131330",
