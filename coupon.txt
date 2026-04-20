@@ -1,5 +1,5 @@
 {
-  "version": "20260111",
+  "version": "20260112",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,60 +7,144 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場商品精選優惠 20260413~20260419",
-      "subtitle": "20260413~20260419",
+      "title": "賣場商品精選優惠 20260420~20260426",
+      "subtitle": "20260420~20260426",
       "type": "sub",
-      "thumbnail": "/limited/20260414.jpg",
+      "thumbnail": "/limited/20260420.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20260413~20260419",
-            "subtitle": "20260413~20260419",
+            "title": "20260420~20260426",
+            "subtitle": "20260420~20260426",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260414_1_tb.jpg",
+            "thumbnail": "/limited/20260420_1_tb.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "ELECTROLUX 伊萊克斯 空氣清淨機 PA91-406GY",
-                  "id": "136398",
+                  "title": "MUELLER 慕樂 可調式膝關節護具 2入組",
+                  "id": "129914",
                   "price": [
-                    9169
+                    839
                   ],
                   "discount": [
-                    1870
+                    180
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260414_01.jpg",
-                  "subtitle": "20260413~20260419",
+                  "thumbnail": "/limited/20260420_01.jpg",
+                  "subtitle": "20260420~20260426",
                   "extra": ""
                 },
                 {
-                  "title": "PREMIER 巧克力風味蛋白飲品 每瓶325毫升 12瓶入",
-                  "id": "1454974",
+                  "title": "RIVIERA 花邊柔軟浴室地墊 2入 尺寸約40 x 60公分",
+                  "id": "669807",
                   "price": [
-                    949
+                    465
                   ],
                   "discount": [
-                    194
+                    100
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260414_02.jpg",
-                  "subtitle": "20260413~20260419",
+                  "thumbnail": "/limited/20260420_02.jpg",
+                  "subtitle": "20260420~20260426",
                   "extra": ""
                 },
                 {
-                  "title": "中將湯碎片劑 24+6包",
-                  "id": "98776",
+                  "title": "YJC 元進莊 低溫烹飪鴨胸佐橙醬 420公克",
+                  "id": "127140",
                   "price": [
-                    
+                    365
                   ],
                   "discount": [
-                    
+                    76
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260414_03.jpg",
-                  "subtitle": "20260413~20260419",
+                  "thumbnail": "/limited/20260420_03.jpg",
+                  "subtitle": "20260420~20260426",
+                  "extra": ""
+                },
+                {
+                  "title": "USII 優系 防霾 PM2.5 靜電紗網 尺寸約100 x 420公分",
+                  "id": "150694",
+                  "price": [
+                    1599
+                  ],
+                  "discount": [
+                    340
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260420_04.jpg",
+                  "subtitle": "20260420~20260426",
+                  "extra": ""
+                },
+                {
+                  "title": "PGI 名廚美饌 冷藏港式蘿蔔糕 每個1.2公斤 2入",
+                  "id": "97117",
+                  "price": [
+                    315
+                  ],
+                  "discount": [
+                    70
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260420_05.jpg",
+                  "subtitle": "20260420~20260426",
+                  "extra": ""
+                },
+                {
+                  "title": "MEIJI 明治 貓熊夾心餅乾組 每包35公克 36包入",
+                  "id": "89590",
+                  "price": [
+                    539
+                  ],
+                  "discount": [
+                    110
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260420_06.jpg",
+                  "subtitle": "20260420~20260426",
+                  "extra": ""
+                },
+                {
+                  "title": "SHANGHAI SHANGHAI 紅豆食府 冷藏上海烤麩 每包350公克 3包入",
+                  "id": "143066",
+                  "price": [
+                    315
+                  ],
+                  "discount": [
+                    65
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260420_07.jpg",
+                  "subtitle": "20260420~20260426",
+                  "extra": ""
+                },
+                {
+                  "title": "MR.MUSCLE 威猛先生 潔廁清香凍 1手把+7補充管",
+                  "id": "505570",
+                  "price": [
+                    369
+                  ],
+                  "discount": [
+                    80
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260420_08.jpg",
+                  "subtitle": "20260420~20260426",
+                  "extra": ""
+                },
+                {
+                  "title": "ORANGE HOUSE 橘子工坊 萬用除臭去漬粉 1250公克",
+                  "id": "235853",
+                  "price": [
+                    289
+                  ],
+                  "discount": [
+                    60
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260420_09.jpg",
+                  "subtitle": "20260420~20260426",
                   "extra": ""
                 },
                 {
@@ -73,78 +157,8 @@
                     194
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260414_04.jpg",
-                  "subtitle": "20260413~20260419",
-                  "extra": ""
-                },
-                {
-                  "title": "KNORR 康寶 港式酸辣濃湯 每包46.6公克 10包入",
-                  "id": "115917",
-                  "price": [
-                    319
-                  ],
-                  "discount": [
-                    70
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260414_05.jpg",
-                  "subtitle": "20260413~20260419",
-                  "extra": ""
-                },
-                {
-                  "title": "KNORR 康寶 金黃玉米濃湯 每包56.3公克 10包入",
-                  "id": "215918",
-                  "price": [
-                    319
-                  ],
-                  "discount": [
-                    70
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260414_06.jpg",
-                  "subtitle": "20260413~20260419",
-                  "extra": ""
-                },
-                {
-                  "title": "KUANG CHUAN 光泉 綜合莓果燕麥優酪 每個150公克 12個入",
-                  "id": "136645",
-                  "price": [
-                    399
-                  ],
-                  "discount": [
-                    80
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260414_07.jpg",
-                  "subtitle": "20260413~20260419",
-                  "extra": ""
-                },
-                {
-                  "title": "SINJA EARTH 興家安速 冷氣清潔劑 每瓶420毫升 每組4瓶入",
-                  "id": "126024",
-                  "price": [
-                    499
-                  ],
-                  "discount": [
-                    120
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260414_08.jpg",
-                  "subtitle": "20260413~20260419",
-                  "extra": ""
-                },
-                {
-                  "title": "SAN PELLEGRINO 聖沛黎洛 寶特瓶氣泡礦泉水 每瓶1公升 12瓶入",
-                  "id": "56570",
-                  "price": [
-                    419
-                  ],
-                  "discount": [
-                    84
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260414_09.jpg",
-                  "subtitle": "20260413~20260419",
+                  "thumbnail": "/limited/20260420_10.jpg",
+                  "subtitle": "20260420~20260426",
                   "extra": ""
                 }
               ]
@@ -4684,18 +4698,18 @@
       }
     },
     {
-      "title": "新商品預告 20260413~20260419",
+      "title": "新商品預告 20260420~20260426",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260414_101_tb.jpg",
-      "extra": "/limited/20260414_101.jpg"
+      "thumbnail": "/limited/20260420_101_tb.jpg",
+      "extra": "/limited/20260420_101.jpg"
     },
     {
-      "title": "賣場展示及試吃活動 20260413~20260419",
+      "title": "賣場展示及試吃活動 20260420~20260426",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260414_102_tb.jpg",
-      "extra": "/limited/20260414_102.jpg"
+      "thumbnail": "/limited/20260420_102_tb.jpg",
+      "extra": "/limited/20260420_102.jpg"
     },
     {
       "title": "商品特展活動 20260330~20260524",
@@ -4710,13 +4724,6 @@
       "type": "webview",
       "thumbnail": "/limited/20260414_103_tb.jpg",
       "extra": "/limited/20260414_103.jpg"
-    },
-    {
-      "title": "商品特展活動 20260316~20260416",
-      "subtitle": "20250113~20250119",
-      "type": "webview",
-      "thumbnail": "/limited/20260316_103_tb.jpg",
-      "extra": "/limited/20260316_103.jpg"
     },
     {
       "title": "延伸植感生活",
