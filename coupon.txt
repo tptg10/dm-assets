@@ -1,5 +1,5 @@
 {
-  "version": "20260115",
+  "version": "20260116",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,16 +7,16 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場商品精選優惠 20260427~20260503",
-      "subtitle": "20260427~20260503",
+      "title": "賣場商品精選優惠 20260427~20260501",
+      "subtitle": "20260427~20260501",
       "type": "sub",
       "thumbnail": "/limited/20260427.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20260427~20260503",
-            "subtitle": "20260427~20260503",
+            "title": "20260427~20260501",
+            "subtitle": "20260427~20260501",
             "type": "sub|textonly",
             "thumbnail": "/limited/20260427_1_tb.jpg",
             "extra": {
@@ -32,7 +32,7 @@
                   ],
                   "type": "product",
                   "thumbnail": "/limited/20260427_01.jpg",
-                  "subtitle": "20260427~20260503",
+                  "subtitle": "20260427~20260501",
                   "extra": ""
                 },
                 {
@@ -46,7 +46,7 @@
                   ],
                   "type": "product",
                   "thumbnail": "/limited/20260427_02.jpg",
-                  "subtitle": "20260427~20260503",
+                  "subtitle": "20260427~20260501",
                   "extra": ""
                 },
                 {
@@ -60,7 +60,7 @@
                   ],
                   "type": "product",
                   "thumbnail": "/limited/20260427_03.jpg",
-                  "subtitle": "20260427~20260503",
+                  "subtitle": "20260427~20260501",
                   "extra": ""
                 },
                 {
@@ -74,7 +74,7 @@
                   ],
                   "type": "product",
                   "thumbnail": "/limited/20260427_04.jpg",
-                  "subtitle": "20260427~20260503",
+                  "subtitle": "20260427~20260501",
                   "extra": ""
                 },
                 {
@@ -88,7 +88,7 @@
                   ],
                   "type": "product",
                   "thumbnail": "/limited/20260427_05.jpg",
-                  "subtitle": "20260427~20260503",
+                  "subtitle": "20260427~20260501",
                   "extra": ""
                 },
                 {
@@ -102,7 +102,7 @@
                   ],
                   "type": "product",
                   "thumbnail": "/limited/20260427_06.jpg",
-                  "subtitle": "20260427~20260503",
+                  "subtitle": "20260427~20260501",
                   "extra": ""
                 },
                 {
@@ -116,7 +116,7 @@
                   ],
                   "type": "product",
                   "thumbnail": "/limited/20260427_07.jpg",
-                  "subtitle": "20260427~20260503",
+                  "subtitle": "20260427~20260501",
                   "extra": ""
                 },
                 {
@@ -130,7 +130,7 @@
                   ],
                   "type": "product",
                   "thumbnail": "/limited/20260427_08.jpg",
-                  "subtitle": "20260427~20260503",
+                  "subtitle": "20260427~20260501",
                   "extra": ""
                 },
                 {
@@ -144,7 +144,7 @@
                   ],
                   "type": "product",
                   "thumbnail": "/limited/20260427_09.jpg",
-                  "subtitle": "20260427~20260503",
+                  "subtitle": "20260427~20260501",
                   "extra": ""
                 },
                 {
@@ -158,7 +158,7 @@
                   ],
                   "type": "product",
                   "thumbnail": "/limited/20260427_10.jpg",
-                  "subtitle": "20260427~20260503",
+                  "subtitle": "20260427~20260501",
                   "extra": ""
                 }
               ]
@@ -2091,14 +2091,14 @@
       }
     },
     {
-      "title": "新商品預告 20260427~20260503",
+      "title": "新商品預告 20260427~20260501",
       "subtitle": "20250113~20250119",
       "type": "webview",
       "thumbnail": "/limited/20260427_101_tb.jpg",
       "extra": "/limited/20260427_101.jpg"
     },
     {
-      "title": "賣場展示及試吃活動 20260427~20260503",
+      "title": "賣場展示及試吃活動 20260427~20260501",
       "subtitle": "20250113~20250119",
       "type": "webview",
       "thumbnail": "/limited/20260427_102_tb.jpg",
