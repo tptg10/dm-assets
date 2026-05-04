@@ -1,5 +1,5 @@
 {
-  "version": "20260119",
+  "version": "20260120",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,166 +7,126 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場商品精選優惠 20260427~20260501",
-      "subtitle": "20260427~20260501",
-      "type": "sub",
-      "thumbnail": "/limited/20260427.jpg",
-      "extra": {
-        "display": "passport",
-        "extra": [
-          {
-            "title": "20260427~20260501",
-            "subtitle": "20260427~20260501",
-            "type": "sub|textonly",
-            "thumbnail": "/limited/20260428_1_tb.jpg",
-            "extra": {
-              "extra": [
-                {
-                  "title": "DON HOME 涼感素色雙人床包枕套 3件組 尺寸約152 x 190公分",
-                  "id": "158966-158968",
-                  "price": [
-                    899
-                  ],
-                  "discount": [
-                    180
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260428_01.jpg",
-                  "subtitle": "20260427~20260501",
-                  "extra": ""
-                },
-                {
-                  "title": "DON HOME 涼感素色雙人加大床包枕套 3件組 尺寸約182 x 190公分",
-                  "id": "258966-258967",
-                  "price": [
-                    999
-                  ],
-                  "discount": [
-                    200
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260428_02.jpg",
-                  "subtitle": "20260427~20260501",
-                  "extra": ""
-                },
-                {
-                  "title": "MOUNTAIN DEW 激浪 汽水 每瓶330毫升 24瓶入",
-                  "id": "109171",
-                  "price": [
-                    299
-                  ],
-                  "discount": [
-                    60
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260428_03.jpg",
-                  "subtitle": "20260427~20260501",
-                  "extra": ""
-                },
-                {
-                  "title": "FRANCESCO CAPETTA 義大利微甜紅葡萄酒 750毫升",
-                  "id": "131201",
-                  "price": [
-                    279
-                  ],
-                  "discount": [
-                    60
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260428_04.jpg",
-                  "subtitle": "20260427~20260501",
-                  "extra": ""
-                },
-                {
-                  "title": "CP 卜蜂 冷藏義式雞胸 共840公克 6個入",
-                  "id": "118308",
-                  "price": [
-                    309
-                  ],
-                  "discount": [
-                    64
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260428_05.jpg",
-                  "subtitle": "20260427~20260501",
-                  "extra": ""
-                },
-                {
-                  "title": "JIN YU YUAN 金御園 冷凍紅豆煎餅 每片120公克 12片入",
-                  "id": "154429",
-                  "price": [
-                    289
-                  ],
-                  "discount": [
-                    60
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260428_06.jpg",
-                  "subtitle": "20260427~20260501",
-                  "extra": ""
-                },
-                {
-                  "title": "POCKY 百奇 巧克力棒 每包40公克 12包入",
-                  "id": "103454",
-                  "price": [
-                    369
-                  ],
-                  "discount": [
-                    74
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260428_07.jpg",
-                  "subtitle": "20260427~20260501",
-                  "extra": ""
-                },
-                {
-                  "title": "VIOLANTA 希臘優格夾心燕麥餅 共540公克 3包入",
-                  "id": "551051",
-                  "price": [
-                    279
-                  ],
-                  "discount": [
-                    60
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260428_08.jpg",
-                  "subtitle": "20260427~20260501",
-                  "extra": ""
-                },
-                {
-                  "title": "VILSON 米森 有機漢方養氣茶 每包6公克 30包入",
-                  "id": "108612",
-                  "price": [
-                    459
-                  ],
-                  "discount": [
-                    100
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260428_09.jpg",
-                  "subtitle": "20260427~20260501",
-                  "extra": ""
-                },
-                {
-                  "title": "SCOTT BARBER 男經典直筒牛仔褲 腰圍30-38吋",
-                  "id": "1967472",
-                  "price": [
-                    599
-                  ],
-                  "discount": [
-                    120
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260428_10.jpg",
-                  "subtitle": "20260427~20260501",
-                  "extra": ""
-                }
-              ]
+  "title": "賣場商品精選優惠 20260504~20260508",
+  "subtitle": "20260504~20260508",
+  "type": "sub",
+  "thumbnail": "/limited/20260504.jpg",
+  "extra": {
+    "display": "passport",
+    "extra": [
+      {
+        "title": "20260504~20260508",
+        "subtitle": "20260504~20260508",
+        "type": "sub|textonly",
+        "thumbnail": "/limited/20260504_1_tb.jpg",
+        "extra": {
+          "extra": [
+            {
+              "title": "添云 肩頸按摩器 BP-PJ01",
+              "id": "8522539",
+              "price": [969],
+              "discount": [210],
+              "type": "product",
+              "thumbnail": "/limited/20260504_01.jpg",
+              "subtitle": "20260504~20260508",
+              "extra": ""
+            },
+            {
+              "title": "CETAPHIL 舒特膚 舒新雪潤 B5 安心霜 每瓶45毫升 2瓶入",
+              "id": "150734",
+              "price": [1199],
+              "discount": [240],
+              "type": "product",
+              "thumbnail": "/limited/20260504_02.jpg",
+              "subtitle": "20260504~20260508",
+              "extra": ""
+            },
+            {
+              "title": "SANHO 三禾 鐵炒鍋含蓋 & 不鏽鋼鍋鏟 約32公分",
+              "id": "8524474",
+              "price": [2459],
+              "discount": [500],
+              "type": "product",
+              "thumbnail": "/limited/20260504_03.jpg",
+              "subtitle": "20260504~20260508",
+              "extra": ""
+            },
+            {
+              "title": "SCOTCH-BRITE 百利 木漿棉菜瓜布 14入",
+              "id": "100550",
+              "price": [319],
+              "discount": [64],
+              "type": "product",
+              "thumbnail": "/limited/20260504_04.jpg",
+              "subtitle": "20260504~20260508",
+              "extra": ""
+            },
+            {
+              "title": "DELICIOUS IDEA 鮮煮藝 冷藏香滷牛腱 1公斤",
+              "id": "84351",
+              "price": [739],
+              "discount": [150],
+              "type": "product",
+              "thumbnail": "/limited/20260504_05.jpg",
+              "subtitle": "20260504~20260508",
+              "extra": ""
+            },
+            {
+              "title": "CALIFORNIA PIZZA KITCHEN 加州廚房 冷凍經典 BBQ 雞肉披薩 每個270公克 3個入",
+              "id": "153837",
+              "price": [499],
+              "discount": [100],
+              "type": "product",
+              "thumbnail": "/limited/20260504_06.jpg",
+              "subtitle": "20260504~20260508",
+              "extra": ""
+            },
+            {
+              "title": "SANRITSU 三立 源氏派家庭包 每包240公克 3包入",
+              "id": "153830",
+              "price": [289],
+              "discount": [60],
+              "type": "product",
+              "thumbnail": "/limited/20260504_07.jpg",
+              "subtitle": "20260504~20260508",
+              "extra": ""
+            },
+            {
+              "title": "I-MEI 義美 減糖糙米奶 每瓶250毫升 24瓶入",
+              "id": "157266",
+              "price": [215],
+              "discount": [45],
+              "type": "product",
+              "thumbnail": "/limited/20260504_08.jpg",
+              "subtitle": "20260504~20260508",
+              "extra": ""
+            },
+            {
+              "title": "TRUNATURE 德國專利 水解膠原蛋白膠囊 240粒",
+              "id": "1073205",
+              "price": [799],
+              "discount": [160],
+              "type": "product",
+              "thumbnail": "/limited/20260504_09.jpg",
+              "subtitle": "20260504~20260508",
+              "extra": ""
+            },
+            {
+              "title": "HSU'S 美國許氏 粉光濃參精 每包15毫升 30包入",
+              "id": "242970",
+              "price": [999],
+              "discount": [200],
+              "type": "product",
+              "thumbnail": "/limited/20260504_10.jpg",
+              "subtitle": "20260504~20260508",
+              "extra": ""
             }
-          }
-        ]
+          ]
+        }
       }
-    },
+    ]
+  }
+},
     {
       "title": "會員護照(一) 20260413~20260607",
       "subtitle": "20260413~20260510",
@@ -2091,18 +2051,18 @@
       }
     },
     {
-      "title": "新商品預告 20260427~20260503",
+      "title": "新商品預告 20260504~20260510",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260427_101_tb.jpg",
-      "extra": "/limited/20260427_101.jpg"
+      "thumbnail": "/limited/20260504_101_tb.jpg",
+      "extra": "/limited/20260504_101.jpg"
     },
     {
-      "title": "賣場展示及試吃活動 20260427~20260503",
+      "title": "賣場展示及試吃活動 20260504~20260510",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260427_102_tb.jpg",
-      "extra": "/limited/20260427_102.jpg"
+      "thumbnail": "/limited/20260504_102_tb.jpg",
+      "extra": "/limited/20260504_102.jpg"
     },
     {
       "title": "商品特展活動 20260330~20260524",
@@ -2117,13 +2077,6 @@
       "type": "webview",
       "thumbnail": "/limited/20260414_103_tb.jpg",
       "extra": "/limited/20260414_103.jpg"
-    },
-    {
-      "title": "延伸植感生活",
-      "subtitle": "20250113~20250119",
-      "type": "webview",
-      "thumbnail": "/limited/20260330_103_tb.jpg",
-      "extra": "/limited/20260330_103.jpg"
     }
   ],
   "promotion": [
