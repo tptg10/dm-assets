@@ -1,5 +1,5 @@
 {
-  "version": "20260120",
+  "version": "20260121",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,126 +7,222 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-  "title": "賣場商品精選優惠 20260504~20260508",
-  "subtitle": "20260504~20260508",
-  "type": "sub",
-  "thumbnail": "/limited/20260504.jpg",
-  "extra": {
-    "display": "passport",
-    "extra": [
-      {
-        "title": "20260504~20260508",
-        "subtitle": "20260504~20260508",
-        "type": "sub|textonly",
-        "thumbnail": "/limited/20260504_1_tb.jpg",
-        "extra": {
-          "extra": [
-            {
-              "title": "添云 肩頸按摩器 BP-PJ01",
-              "id": "8522539",
-              "price": [969],
-              "discount": [210],
-              "type": "product",
-              "thumbnail": "/limited/20260504_01.jpg",
-              "subtitle": "20260504~20260508",
-              "extra": ""
-            },
-            {
-              "title": "CETAPHIL 舒特膚 舒新雪潤 B5 安心霜 每瓶45毫升 2瓶入",
-              "id": "150734",
-              "price": [1199],
-              "discount": [240],
-              "type": "product",
-              "thumbnail": "/limited/20260504_02.jpg",
-              "subtitle": "20260504~20260508",
-              "extra": ""
-            },
-            {
-              "title": "SANHO 三禾 鐵炒鍋含蓋 & 不鏽鋼鍋鏟 約32公分",
-              "id": "8524474",
-              "price": [2459],
-              "discount": [500],
-              "type": "product",
-              "thumbnail": "/limited/20260504_03.jpg",
-              "subtitle": "20260504~20260508",
-              "extra": ""
-            },
-            {
-              "title": "SCOTCH-BRITE 百利 木漿棉菜瓜布 14入",
-              "id": "100550",
-              "price": [319],
-              "discount": [64],
-              "type": "product",
-              "thumbnail": "/limited/20260504_04.jpg",
-              "subtitle": "20260504~20260508",
-              "extra": ""
-            },
-            {
-              "title": "DELICIOUS IDEA 鮮煮藝 冷藏香滷牛腱 1公斤",
-              "id": "84351",
-              "price": [739],
-              "discount": [150],
-              "type": "product",
-              "thumbnail": "/limited/20260504_05.jpg",
-              "subtitle": "20260504~20260508",
-              "extra": ""
-            },
-            {
-              "title": "CALIFORNIA PIZZA KITCHEN 加州廚房 冷凍經典 BBQ 雞肉披薩 每個270公克 3個入",
-              "id": "153837",
-              "price": [499],
-              "discount": [100],
-              "type": "product",
-              "thumbnail": "/limited/20260504_06.jpg",
-              "subtitle": "20260504~20260508",
-              "extra": ""
-            },
-            {
-              "title": "SANRITSU 三立 源氏派家庭包 每包240公克 3包入",
-              "id": "153830",
-              "price": [289],
-              "discount": [60],
-              "type": "product",
-              "thumbnail": "/limited/20260504_07.jpg",
-              "subtitle": "20260504~20260508",
-              "extra": ""
-            },
-            {
-              "title": "I-MEI 義美 減糖糙米奶 每瓶250毫升 24瓶入",
-              "id": "157266",
-              "price": [215],
-              "discount": [45],
-              "type": "product",
-              "thumbnail": "/limited/20260504_08.jpg",
-              "subtitle": "20260504~20260508",
-              "extra": ""
-            },
-            {
-              "title": "TRUNATURE 德國專利 水解膠原蛋白膠囊 240粒",
-              "id": "1073205",
-              "price": [799],
-              "discount": [160],
-              "type": "product",
-              "thumbnail": "/limited/20260504_09.jpg",
-              "subtitle": "20260504~20260508",
-              "extra": ""
-            },
-            {
-              "title": "HSU'S 美國許氏 粉光濃參精 每包15毫升 30包入",
-              "id": "242970",
-              "price": [999],
-              "discount": [200],
-              "type": "product",
-              "thumbnail": "/limited/20260504_10.jpg",
-              "subtitle": "20260504~20260508",
-              "extra": ""
+      "title": "賣場商品精選優惠 20260511~20260517",
+      "subtitle": "20260511~20260517",
+      "type": "sub",
+      "thumbnail": "/limited/20260511.jpg",
+      "extra": {
+        "display": "passport",
+        "extra": [
+          {
+            "title": "20260511~20260517",
+            "subtitle": "20260511~20260517",
+            "type": "sub|textonly",
+            "thumbnail": "/limited/20260511_1_tb.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "SAMSUNG 75吋8K NEO QLED顯示器 QA75QN800DXXZW",
+                  "id": "146905",
+                  "price": [
+                    77999
+                  ],
+                  "discount": [
+                    18000
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260511_01.jpg",
+                  "subtitle": "20260511~20260517",
+                  "extra": ""
+                },
+                {
+                  "title": "SAMSUNG 65吋 OLED 顯示器 QA65S90FAEXZW",
+                  "id": "160875",
+                  "price": [
+                    64499
+                  ],
+                  "discount": [
+                    12900
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260511_02.jpg",
+                  "subtitle": "20260511~20260517",
+                  "extra": ""
+                },
+                {
+                  "title": "SAMSUNG 55吋 OLED 顯示器 QA55S90FAXXZW",
+                  "id": "160876",
+                  "price": [
+                    47799
+                  ],
+                  "discount": [
+                    9800
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260511_03.jpg",
+                  "subtitle": "20260511~20260517",
+                  "extra": ""
+                },
+                {
+                  "title": "SAMSUNG 50吋 QLED 顯示器 QA50Q7FAAXXZW",
+                  "id": "160878",
+                  "price": [
+                    17499
+                  ],
+                  "discount": [
+                    3500
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260511_04.jpg",
+                  "subtitle": "20260511~20260517",
+                  "extra": ""
+                },
+                {
+                  "title": "ORAL-B 歐樂B IO 電動牙刷刷頭 微震清潔/溫和 8入組",
+                  "id": "144257/155548",
+                  "price": [
+                    1869
+                  ],
+                  "discount": [
+                    390
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260511_05.jpg",
+                  "subtitle": "20260511~20260517",
+                  "extra": ""
+                },
+                {
+                  "title": "ORAL-B 歐樂B 電動牙刷刷頭 深層清潔/超細毛護齦 8入組",
+                  "id": "144120",
+                  "price": [
+                    899
+                  ],
+                  "discount": [
+                    200
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260511_06.jpg",
+                  "subtitle": "20260511~20260517",
+                  "extra": ""
+                },
+                {
+                  "title": "MON PETIT 貓倍麗 雙拼主食罐組 每罐85公克 24罐入",
+                  "id": "147228",
+                  "price": [
+                    569
+                  ],
+                  "discount": [
+                    120
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260511_07.jpg",
+                  "subtitle": "20260511~20260517",
+                  "extra": ""
+                },
+                {
+                  "title": "SHARP 夏普 12公升 自動除菌離子空氣清淨除濕機 DW-CA12FT-S",
+                  "id": "158448",
+                  "price": [
+                    14399
+                  ],
+                  "discount": [
+                    2900
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260511_08.jpg",
+                  "subtitle": "20260511~20260517",
+                  "extra": ""
+                },
+                {
+                  "title": "GREEN GIANT 綠巨人 脆甜玉米粒 每罐340公克 12罐入",
+                  "id": "12944",
+                  "price": [
+                    559
+                  ],
+                  "discount": [
+                    114
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260511_09.jpg",
+                  "subtitle": "20260511~20260517",
+                  "extra": ""
+                },
+                {
+                  "title": "JOOSTENBERG 南非紅葡萄酒 750毫升",
+                  "id": "56912",
+                  "price": [
+                    249
+                  ],
+                  "discount": [
+                    50
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260511_10.jpg",
+                  "subtitle": "20260511~20260517",
+                  "extra": ""
+                },
+                {
+                  "title": "COASTAL 海岸 英式切達乾酪 360公克",
+                  "id": "149693",
+                  "price": [
+                    269
+                  ],
+                  "discount": [
+                    60
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260511_11.jpg",
+                  "subtitle": "20260511~20260517",
+                  "extra": ""
+                },
+                {
+                  "title": "KID-O 奶油三明治家庭號 90包入 共1530公克",
+                  "id": "156970",
+                  "price": [
+                    339
+                  ],
+                  "discount": [
+                    70
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260511_12.jpg",
+                  "subtitle": "20260511~20260517",
+                  "extra": ""
+                },
+                {
+                  "title": "SHJ 盛香珍 濃厚紫菜青蔥蘇打 50包入 共1525公克",
+                  "id": "143895",
+                  "price": [
+                    329
+                  ],
+                  "discount": [
+                    70
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260511_13.jpg",
+                  "subtitle": "20260511~20260517",
+                  "extra": ""
+                },
+                {
+                  "title": "NORTH SEA 北海 鱈魚香絲青花椒辣味 600公克",
+                  "id": "336249",
+                  "price": [
+                    329
+                  ],
+                  "discount": [
+                    54
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260511_14.jpg",
+                  "subtitle": "20260511~20260517",
+                  "extra": ""
+                }
+              ]
             }
-          ]
-        }
+          }
+        ]
       }
-    ]
-  }
-},
+    },
     {
       "title": "會員護照(一) 20260413~20260607",
       "subtitle": "20260413~20260510",
@@ -2051,32 +2147,32 @@
       }
     },
     {
-      "title": "新商品預告 20260504~20260510",
+      "title": "賣場展示及試吃活動 20260511~20260517",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260504_101_tb.jpg",
-      "extra": "/limited/20260504_101.jpg"
+      "thumbnail": "/limited/20260511_102_tb.jpg",
+      "extra": "/limited/20260511_102.jpg"
     },
     {
-      "title": "賣場展示及試吃活動 20260504~20260510",
+      "title": "商品特展活動 20260511~20260607",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260504_102_tb.jpg",
-      "extra": "/limited/20260504_102.jpg"
+      "thumbnail": "/limited/20260511_104_tb.jpg",
+      "extra": "/limited/20260511_104.jpg"
     },
     {
-      "title": "商品特展活動 20260330~20260524",
+      "title": "輪胎精選優惠 20260511~20260607",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260414_104_tb.jpg",
-      "extra": "/limited/20260414_104.jpg"
+      "thumbnail": "/limited/20260511_103_tb.jpg",
+      "extra": "/limited/20260511_103.jpg"
     },
     {
-      "title": "德國馬牌 輪胎優惠活動 20260413~20260510",
+      "title": "黑鑽會員可享提前入場購物",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260414_103_tb.jpg",
-      "extra": "/limited/20260414_103.jpg"
+      "thumbnail": "/limited/20260511_105.jpg",
+      "extra": "/limited/20260511_105.jpg"
     }
   ],
   "promotion": [
