@@ -1,5 +1,5 @@
 {
-  "version": "20260121",
+  "version": "20260122",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -2164,7 +2164,7 @@
       "title": "輪胎精選優惠 20260511~20260607",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260511_103_tb.jpg",
+      "thumbnail": "/limited/20260511_103_1_tb.jpg",
       "extra": "/limited/20260511_103.jpg"
     },
     {
