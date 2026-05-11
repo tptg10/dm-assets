@@ -1,5 +1,5 @@
 {
-  "version": "20260130",
+  "version": "20260131",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -2154,7 +2154,7 @@
       "extra": "/limited/20260511_102.jpg"
     },
     {
-      "title": "商品特展活動 20260511~20260607",
+      "title": "商品特展活動 20260511~20260611",
       "subtitle": "20250113~20250119",
       "type": "webview",
       "thumbnail": "/limited/20260511_104_tb.jpg",
