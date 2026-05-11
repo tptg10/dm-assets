@@ -1,5 +1,5 @@
 {
-  "version": "20260125",
+  "version": "20260126",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -2160,13 +2160,7 @@
       "thumbnail": "/limited/20260511_104_tb.jpg",
       "extra": "/limited/20260511_104.jpg"
     },
-    {
-      "title": "輪胎精選優惠 20260511~20260607",
-      "subtitle": "20250113~20250119",
-      "type": "webview",
-      "thumbnail": "/limited/20260511_106_tb.jpg",
-      "extra": "/limited/20260511_106.jpg"
-    },
+    
     {
       "title": "黑鑽會員可享提前入場購物",
       "subtitle": "20250113~20250119",
