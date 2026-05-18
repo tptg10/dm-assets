@@ -1,5 +1,5 @@
 {
-  "version": "20260132",
+  "version": "20260201",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -95,7 +95,7 @@
                   "title": "LEGO 多功能收納袋三入組",
                   "id": "157245",
                   "price": [
-                    300
+                    399
                   ],
                   "discount": [
                     100
