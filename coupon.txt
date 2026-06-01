@@ -1,5 +1,5 @@
 {
-  "version": "20260202",
+  "version": "20260205",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,102 +7,102 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場商品精選優惠 20260525~20260531",
-      "subtitle": "20260525~20260531",
+      "title": "賣場商品精選優惠 20260601~20260607",
+      "subtitle": "20260601~20260607",
       "type": "sub",
-      "thumbnail": "/limited/20260525.jpg",
+      "thumbnail": "/limited/20260601.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20260525~20260531",
-            "subtitle": "20260525~20260531",
+            "title": "20260601~20260607",
+            "subtitle": "20260601~20260607",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260525_1_tb.jpg",
+            "thumbnail": "/limited/20260601_1_tb.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "RITZ 麗滋 小圓餅乾 每包100公克 16包入",
-                  "id": "92026",
+                  "title": "DON HOME 萊賽爾雙人兩用被套六件組 300TC",
+                  "id": "158940 / 158941 / 158942 / 158943",
                   "price": [
-                    299
+                    2489
                   ],
                   "discount": [
-                    60
+                    500
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260525_01.jpg",
-                  "subtitle": "20260525~20260531",
+                  "thumbnail": "/limited/20260601_01.jpg",
+                  "subtitle": "20260601~20260607",
                   "extra": ""
                 },
                 {
-                  "title": "CADINA 95°C 卡迪那95°C 鮮脆芋頭條 每包40公克 10包入",
-                  "id": "886601",
+                  "title": "DON HOME 萊賽爾雙人加大兩用被套六件組 300TC",
+                  "id": "158952 / 158953 / 158954",
                   "price": [
-                    369
+                    2869
                   ],
                   "discount": [
-                    75
+                    580
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260525_02.jpg",
-                  "subtitle": "20260525~20260531",
+                  "thumbnail": "/limited/20260601_02.jpg",
+                  "subtitle": "20260601~20260607",
                   "extra": ""
                 },
                 {
-                  "title": "CLOROX 漂白清潔劑 946毫升 + 5.32公升補充",
-                  "id": "913437",
+                  "title": "WELLS LAMONT 乳膠工作手套 10雙入",
+                  "id": "1600320",
                   "price": [
-                    549
-                  ],
-                  "discount": [
-                    120
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260525_03.jpg",
-                  "subtitle": "20260525~20260531",
-                  "extra": ""
-                },
-                {
-                  "title": "PRECISION 美國納帕谷紅葡萄酒 750毫升",
-                  "id": "142487",
-                  "price": [
-                    699
-                  ],
-                  "discount": [
-                    150
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260525_04.jpg",
-                  "subtitle": "20260525~20260531",
-                  "extra": ""
-                },
-                {
-                  "title": "JONGGA 宗家府 冷藏特選泡菜 1.5公斤",
-                  "id": "154044",
-                  "price": [
-                    389
+                    349
                   ],
                   "discount": [
                     80
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260525_05.jpg",
-                  "subtitle": "20260525~20260531",
+                  "thumbnail": "/limited/20260601_03.jpg",
+                  "subtitle": "20260601~20260607",
                   "extra": ""
                 },
                 {
-                  "title": "STAUB 圓形琺瑯鑄鐵深湯鍋含蓋 24公分 / 4.8公升",
-                  "id": "154405",
+                  "title": "FARCENT 克潮靈 大容量吊掛式除濕袋 每個385毫升 15個入",
+                  "id": "157762",
                   "price": [
-                    5899
+                    369
                   ],
                   "discount": [
-                    1300
+                    74
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260525_06.jpg",
-                  "subtitle": "20260525~20260531",
+                  "thumbnail": "/limited/20260601_04.jpg",
+                  "subtitle": "20260601~20260607",
+                  "extra": ""
+                },
+                {
+                  "title": "RU-JIH 如記 冷藏麻婆豆腐 每包400公克 3包入",
+                  "id": "116498",
+                  "price": [
+                    359
+                  ],
+                  "discount": [
+                    74
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260601_05.jpg",
+                  "subtitle": "20260601~20260607",
+                  "extra": ""
+                },
+                {
+                  "title": "CHIVAS REGAL 起瓦士 18年蘇格蘭調和威士忌 1公升",
+                  "id": "56686",
+                  "price": [
+                    2269
+                  ],
+                  "discount": [
+                    470
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260601_06.jpg",
+                  "subtitle": "20260601~20260607",
                   "extra": ""
                 }
               ]
@@ -2035,11 +2035,18 @@
       }
     },
     {
-      "title": "賣場展示及試吃活動 20260525~20260531",
+      "title": "新商品預告 20260601~20260607",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260525_102_tb.jpg",
-      "extra": "/limited/20260525_102.jpg"
+      "thumbnail": "/limited/20260601_102_tb.jpg",
+      "extra": "/limited/20260601_102.jpg"
+    },
+    {
+      "title": "賣場展示及試吃活動 20260601~20260607",
+      "subtitle": "20250113~20250119",
+      "type": "webview",
+      "thumbnail": "/limited/20260602_102_tb.jpg",
+      "extra": "/limited/20260602_102.jpg"
     },
     {
       "title": "商品特展活動 20260511~20260611",
