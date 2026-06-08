@@ -1,5 +1,5 @@
 {
-  "version": "20260209",
+  "version": "20260211",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,102 +7,158 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場商品精選優惠 20260601~20260607",
-      "subtitle": "20260601~20260607",
+      "title": "賣場商品精選優惠 20260608~20260614",
+      "subtitle": "20260608~20260614",
       "type": "sub",
-      "thumbnail": "/limited/20260601.jpg",
+      "thumbnail": "/limited/20260609.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20260601~20260607",
-            "subtitle": "20260601~20260607",
+            "title": "20260608~20260614",
+            "subtitle": "20260608~20260614",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260601_1_tb.jpg",
+            "thumbnail": "/limited/20260609_1_tb.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "DON HOME 萊賽爾雙人兩用被套六件組 300TC",
-                  "id": "158940 / 158941 / 158942 / 158943",
+                  "title": "HISENSE 65吋 MINI QLED 顯示器 65U7Q",
+                  "id": "155012",
                   "price": [
-                    2489
+                    33999
                   ],
                   "discount": [
-                    500
+                    6800
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260601_01.jpg",
-                  "subtitle": "20260601~20260607",
+                  "thumbnail": "/limited/20260609_01.jpg",
+                  "subtitle": "20260608~20260614",
                   "extra": ""
                 },
                 {
-                  "title": "DON HOME 萊賽爾雙人加大兩用被套六件組 300TC",
-                  "id": "158952 / 158953 / 158954",
+                  "title": "HISENSE 55吋 QLED 顯示器 55E7K",
+                  "id": "147727",
                   "price": [
-                    2869
+                    14999
                   ],
                   "discount": [
-                    580
+                    3000
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260601_02.jpg",
-                  "subtitle": "20260601~20260607",
+                  "thumbnail": "/limited/20260609_02.jpg",
+                  "subtitle": "20260608~20260614",
                   "extra": ""
                 },
                 {
-                  "title": "WELLS LAMONT 乳膠工作手套 10雙入",
-                  "id": "1600320",
+                  "title": "YOUTHEORY 膠原蛋白生物素錠 390錠",
+                  "id": "554059",
                   "price": [
-                    349
+                    999
                   ],
                   "discount": [
-                    80
+                    200
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260601_03.jpg",
-                  "subtitle": "20260601~20260607",
+                  "thumbnail": "/limited/20260609_03.jpg",
+                  "subtitle": "20260608~20260614",
                   "extra": ""
                 },
                 {
-                  "title": "FARCENT 克潮靈 大容量吊掛式除濕袋 每個385毫升 15個入",
-                  "id": "157762",
+                  "title": "NESCAFE 雀巢 西西里風檸檬咖啡 40包入",
+                  "id": "150636",
                   "price": [
-                    369
+                    469
                   ],
                   "discount": [
-                    74
+                    95
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260601_04.jpg",
-                  "subtitle": "20260601~20260607",
+                  "thumbnail": "/limited/20260609_04.jpg",
+                  "subtitle": "20260608~20260614",
                   "extra": ""
                 },
                 {
-                  "title": "RU-JIH 如記 冷藏麻婆豆腐 每包400公克 3包入",
-                  "id": "116498",
+                  "title": "BARISTA 西雅圖 冰拿鐵濃焦糖風味 40包入",
+                  "id": "146963",
                   "price": [
-                    359
+                    449
                   ],
                   "discount": [
-                    74
+                    90
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260601_05.jpg",
-                  "subtitle": "20260601~20260607",
+                  "thumbnail": "/limited/20260609_05.jpg",
+                  "subtitle": "20260608~20260614",
                   "extra": ""
                 },
                 {
-                  "title": "CHIVAS REGAL 起瓦士 18年蘇格蘭調和威士忌 1公升",
-                  "id": "56686",
+                  "title": "VITALI 維大力 汽水 330毫升 24瓶入",
+                  "id": "141523",
                   "price": [
-                    2269
+                    249
                   ],
                   "discount": [
-                    470
+                    50
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260601_06.jpg",
-                  "subtitle": "20260601~20260607",
+                  "thumbnail": "/limited/20260609_06.jpg",
+                  "subtitle": "20260608~20260614",
+                  "extra": ""
+                },
+                {
+                  "title": "MENAGE A TROIS 美國甜白葡萄酒 MOSCATO 750毫升",
+                  "id": "129081",
+                  "price": [
+                    265
+                  ],
+                  "discount": [
+                    56
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260609_07.jpg",
+                  "subtitle": "20260608~20260614",
+                  "extra": ""
+                },
+                {
+                  "title": "LAUGHING COW 笑牛 迷你貝比貝爾乾酪 28粒入",
+                  "id": "68677",
+                  "price": [
+                    499
+                  ],
+                  "discount": [
+                    100
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260609_08.jpg",
+                  "subtitle": "20260608~20260614",
+                  "extra": ""
+                },
+                {
+                  "title": "HUGGIES 好奇 超厚倍柔嬰兒濕巾 72張 16包入",
+                  "id": "139234",
+                  "price": [
+                    799
+                  ],
+                  "discount": [
+                    160
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260609_09.jpg",
+                  "subtitle": "20260608~20260614",
+                  "extra": ""
+                },
+                {
+                  "title": "HISENSE 75吋 MINI QLED 顯示器 75U7Q",
+                  "id": "155013",
+                  "price": [
+                    43999
+                  ],
+                  "discount": [
+                    8800
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260609_10.jpg",
+                  "subtitle": "20260608~20260614",
                   "extra": ""
                 }
               ]
@@ -2102,9 +2158,7 @@
                   "title": "BAUSCH+LOMB 博士倫 輕水氧奧澈矽水膠日拋隱形眼鏡",
                   "id": "",
                   "price": [],
-                  "discount": [
-                    
-                  ],
+                  "discount": [],
                   "type": "product",
                   "thumbnail": "/dm/passport2026_2/20260803_15.jpg",
                   "subtitle": "20260803~20260830",
@@ -2113,9 +2167,7 @@
                 {
                   "title": "ALINAMIN 合利他命 合利他命-愛 糖衣錠25毫克",
                   "id": "886320",
-                  "price": [
-                    
-                  ],
+                  "price": [],
                   "discount": [],
                   "type": "product",
                   "thumbnail": "/dm/passport2026_2/20260803_16.jpg",
@@ -2689,18 +2741,18 @@
       }
     },
     {
-      "title": "新商品預告 20260601~20260607",
+      "title": "新商品預告 20260608~20260614",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260601_101_tb.jpg",
-      "extra": "/limited/20260601_101.jpg"
+      "thumbnail": "/limited/20260608_101_tb.jpg",
+      "extra": "/limited/20260608_101.jpg"
     },
     {
-      "title": "賣場展示及試吃活動 20260601~20260607",
+      "title": "賣場展示及試吃活動 20260608~20260614",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260601_102_tb.jpg",
-      "extra": "/limited/20260601_102.jpg"
+      "thumbnail": "/limited/20260608_102_tb.jpg",
+      "extra": "/limited/20260608_102.jpg"
     },
     {
       "title": "商品特展活動 20260511~20260611",
