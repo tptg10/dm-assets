@@ -1,5 +1,5 @@
 {
-  "version": "20260207",
+  "version": "20260208",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -115,7 +115,7 @@
       "title": "會員護照(二) 20260608~20260830",
       "subtitle": "20260413~20260510",
       "type": "sub",
-      "thumbnail": "/dm/passport2026/passport2026.jpg",
+      "thumbnail": "/dm/passport2026_2/passport2026_2.jpg",
       "extra": {
         "display": "passport",
         "extra": [
