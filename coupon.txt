@@ -1,5 +1,5 @@
 {
-  "version": "20260211",
+  "version": "20260213",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -21,6 +21,21 @@
             "thumbnail": "/limited/20260609_1_tb.jpg",
             "extra": {
               "extra": [
+                
+                {
+                  "title": "HISENSE 75吋 MINI QLED 顯示器 75U7Q",
+                  "id": "155013",
+                  "price": [
+                    43999
+                  ],
+                  "discount": [
+                    8800
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260610_01.jpg",
+                  "subtitle": "20260608~20260614",
+                  "extra": ""
+                },
                 {
                   "title": "HISENSE 65吋 MINI QLED 顯示器 65U7Q",
                   "id": "155012",
@@ -31,7 +46,7 @@
                     6800
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260609_01.jpg",
+                  "thumbnail": "/limited/20260610_02.jpg",
                   "subtitle": "20260608~20260614",
                   "extra": ""
                 },
@@ -45,7 +60,7 @@
                     3000
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260609_02.jpg",
+                  "thumbnail": "/limited/20260610_03.jpg",
                   "subtitle": "20260608~20260614",
                   "extra": ""
                 },
@@ -59,7 +74,7 @@
                     200
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260609_03.jpg",
+                  "thumbnail": "/limited/20260610_04.jpg",
                   "subtitle": "20260608~20260614",
                   "extra": ""
                 },
@@ -73,7 +88,7 @@
                     95
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260609_04.jpg",
+                  "thumbnail": "/limited/20260610_05.jpg",
                   "subtitle": "20260608~20260614",
                   "extra": ""
                 },
@@ -87,7 +102,7 @@
                     90
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260609_05.jpg",
+                  "thumbnail": "/limited/20260610_06.jpg",
                   "subtitle": "20260608~20260614",
                   "extra": ""
                 },
@@ -101,7 +116,7 @@
                     50
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260609_06.jpg",
+                  "thumbnail": "/limited/20260610_07.jpg",
                   "subtitle": "20260608~20260614",
                   "extra": ""
                 },
@@ -115,7 +130,7 @@
                     56
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260609_07.jpg",
+                  "thumbnail": "/limited/20260610_08.jpg",
                   "subtitle": "20260608~20260614",
                   "extra": ""
                 },
@@ -129,7 +144,7 @@
                     100
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260609_08.jpg",
+                  "thumbnail": "/limited/20260610_09.jpg",
                   "subtitle": "20260608~20260614",
                   "extra": ""
                 },
@@ -143,21 +158,7 @@
                     160
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260609_09.jpg",
-                  "subtitle": "20260608~20260614",
-                  "extra": ""
-                },
-                {
-                  "title": "HISENSE 75吋 MINI QLED 顯示器 75U7Q",
-                  "id": "155013",
-                  "price": [
-                    43999
-                  ],
-                  "discount": [
-                    8800
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260609_10.jpg",
+                  "thumbnail": "/limited/20260610_10.jpg",
                   "subtitle": "20260608~20260614",
                   "extra": ""
                 }
@@ -2668,7 +2669,7 @@
                   "title": "SKECHERS 女運動鞋",
                   "id": "1961240",
                   "price": [
-                    9125999
+                    1259
                   ],
                   "discount": [
                     260
