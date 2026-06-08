@@ -1,5 +1,5 @@
 {
-  "version": "20260213",
+  "version": "20260215",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -21,7 +21,6 @@
             "thumbnail": "/limited/20260609_1_tb.jpg",
             "extra": {
               "extra": [
-                
                 {
                   "title": "HISENSE 75吋 MINI QLED 顯示器 75U7Q",
                   "id": "155013",
@@ -160,6 +159,317 @@
                   "type": "product",
                   "thumbnail": "/limited/20260610_10.jpg",
                   "subtitle": "20260608~20260614",
+                  "extra": ""
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "title": "平日限定優惠 20260706~20260828",
+      "subtitle": "20260706~20260731",
+      "type": "sub",
+      "thumbnail": "/dm/passport2026_2/20260707.jpg",
+      "extra": {
+        "display": "passport",
+        "extra": [
+          {
+            "title": "20260706~20260731",
+            "subtitle": "20260706~20260731",
+            "type": "sub|textonly",
+            "thumbnail": "/dm/passport2026_2/20260707_1_tb.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "SENNHEISER 真無線半開放式耳機 奶油白色 ACCENTUM WIRELESS EARBUDS OTW1",
+                  "id": "156155",
+                  "price": [
+                    3699
+                  ],
+                  "discount": [
+                    740
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026_2/20260707_01.jpg",
+                  "subtitle": "20260706~20260731",
+                  "extra": ""
+                },
+                {
+                  "title": "MAX STAR 太星電工 延長線兩入組 1.2公尺+1.8公尺",
+                  "id": "146649",
+                  "price": [
+                    699
+                  ],
+                  "discount": [
+                    140
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026_2/20260707_02.jpg",
+                  "subtitle": "20260706~20260731",
+                  "extra": ""
+                },
+                {
+                  "title": "FUJIYA 不二家 千層派 57包入 共570公克",
+                  "id": "156869",
+                  "price": [
+                    299
+                  ],
+                  "discount": [
+                    60
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026_2/20260707_03.jpg",
+                  "subtitle": "20260706~20260731",
+                  "extra": ""
+                },
+                {
+                  "title": "ANTINORI 安蒂諾里莊園 義大利紅葡萄酒 CHIANTI CLASSICO RISERVA DOCG 750毫升",
+                  "id": "129791",
+                  "price": [
+                    949
+                  ],
+                  "discount": [
+                    190
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026_2/20260707_04.jpg",
+                  "subtitle": "20260706~20260731",
+                  "extra": ""
+                },
+                {
+                  "title": "MY HUMBLE HOUSE 請客樓 香菇麻油飯 200公克 8包入",
+                  "id": "150271",
+                  "price": [
+                    349
+                  ],
+                  "discount": [
+                    70
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026_2/20260707_05.jpg",
+                  "subtitle": "20260706~20260731",
+                  "extra": ""
+                },
+                {
+                  "title": "KWANGDONG 韓國廣東製藥 玉米鬚茶 1.5公升 6瓶入",
+                  "id": "154421",
+                  "price": [
+                    349
+                  ],
+                  "discount": [
+                    70
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026_2/20260707_06.jpg",
+                  "subtitle": "20260706~20260731",
+                  "extra": ""
+                },
+                {
+                  "title": "MAY FLOWER 五月花 三層抽取式廚房紙巾 80抽 12包入",
+                  "id": "139289",
+                  "price": [
+                    419
+                  ],
+                  "discount": [
+                    84
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026_2/20260707_07.jpg",
+                  "subtitle": "20260706~20260731",
+                  "extra": ""
+                },
+                {
+                  "title": "SIMPLY 新普利 超濃代謝夜酵素錠 EX 30錠 2盒入",
+                  "id": "153709",
+                  "price": [
+                    769
+                  ],
+                  "discount": [
+                    155
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026_2/20260707_08.jpg",
+                  "subtitle": "20260706~20260731",
+                  "extra": ""
+                },
+                {
+                  "title": "COMBOS 冠寶 起司捲心餅 5包入 共893公克",
+                  "id": "8876836",
+                  "price": [
+                    439
+                  ],
+                  "discount": [
+                    90
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026_2/20260707_09.jpg",
+                  "subtitle": "20260706~20260731",
+                  "extra": ""
+                },
+                {
+                  "title": "REDOXON 力度伸 維他命B群發泡錠 柳橙口味 15錠 3條入",
+                  "id": "990856",
+                  "price": [
+                    839
+                  ],
+                  "discount": [
+                    230
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026_2/20260707_10.jpg",
+                  "subtitle": "20260706~20260731",
+                  "extra": ""
+                }
+              ]
+            }
+          },
+          {
+            "title": "20260803~20260828",
+            "subtitle": "20260803~20260828",
+            "type": "sub|textonly",
+            "thumbnail": "/dm/passport2026_2/20260804_1_tb.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "MONBANA 巧克力法蘭酥 60入 共660公克",
+                  "id": "136250",
+                  "price": [
+                    399
+                  ],
+                  "discount": [
+                    80
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026_2/20260804_01.jpg",
+                  "subtitle": "20260803~20260828",
+                  "extra": ""
+                },
+                {
+                  "title": "MAGNUM 藍山調合咖啡豆 907公克",
+                  "id": "468577",
+                  "price": [
+                    699
+                  ],
+                  "discount": [
+                    140
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026_2/20260804_02.jpg",
+                  "subtitle": "20260803~20260828",
+                  "extra": ""
+                },
+                {
+                  "title": "QUAKER 桂格 有機大燕麥片 935公克 2包入",
+                  "id": "116958",
+                  "price": [
+                    415
+                  ],
+                  "discount": [
+                    85
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026_2/20260804_03.jpg",
+                  "subtitle": "20260803~20260828",
+                  "extra": ""
+                },
+                {
+                  "title": "SCOTCH-BRITE 百利 菜瓜布組 22片入",
+                  "id": "85392",
+                  "price": [
+                    315
+                  ],
+                  "discount": [
+                    65
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026_2/20260804_04.jpg",
+                  "subtitle": "20260803~20260828",
+                  "extra": ""
+                },
+                {
+                  "title": "RIIVAN 45W GAN 迷你充電器兩入組 黑色／白色",
+                  "id": "156967",
+                  "price": [
+                    699
+                  ],
+                  "discount": [
+                    160
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026_2/20260804_05.jpg",
+                  "subtitle": "20260803~20260828",
+                  "extra": ""
+                },
+                {
+                  "title": "CONO SUR 鑑賞家 自行車混釀紅葡萄酒 750毫升",
+                  "id": "161351",
+                  "price": [
+                    375
+                  ],
+                  "discount": [
+                    76
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026_2/20260804_06.jpg",
+                  "subtitle": "20260803~20260828",
+                  "extra": ""
+                },
+                {
+                  "title": "COMBAT 威滅 滅蟻隊-2 每盒12入 2盒入",
+                  "id": "1111348",
+                  "price": [
+                    349
+                  ],
+                  "discount": [
+                    70
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026_2/20260804_07.jpg",
+                  "subtitle": "20260803~20260828",
+                  "extra": ""
+                },
+                {
+                  "title": "STARBUCKS 星巴克 咖啡膠囊探索經典組 60顆",
+                  "id": "158898",
+                  "price": [
+                    1189
+                  ],
+                  "discount": [
+                    260
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026_2/20260804_08.jpg",
+                  "subtitle": "20260803~20260828",
+                  "extra": ""
+                },
+                {
+                  "title": "KIRKLAND SIGNATURE 科克蘭 綜合舒芙蕾夾心捲 12入",
+                  "id": "160988",
+                  "price": [
+                    349
+                  ],
+                  "discount": [
+                    70
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026_2/20260804_09.jpg",
+                  "subtitle": "20260803~20260828",
+                  "extra": ""
+                },
+                {
+                  "title": "KIRKLAND SIGNATURE 科克蘭 蒜辣薄皮脆雞桶 6入",
+                  "id": "376688",
+                  "price": [
+                    289
+                  ],
+                  "discount": [
+                    60
+                  ],
+                  "type": "product",
+                  "thumbnail": "/dm/passport2026_2/20260804_10.jpg",
+                  "subtitle": "20260803~20260828",
                   "extra": ""
                 }
               ]
