@@ -1,5 +1,5 @@
 {
-  "version": "20260215",
+  "version": "20260216",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,158 +7,116 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場商品精選優惠 20260608~20260614",
-      "subtitle": "20260608~20260614",
+      "title": "賣場商品精選優惠 20260615~20260621",
+      "subtitle": "20260615~20260621",
       "type": "sub",
-      "thumbnail": "/limited/20260609.jpg",
+      "thumbnail": "/limited/20260615.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20260608~20260614",
-            "subtitle": "20260608~20260614",
+            "title": "20260615~20260621",
+            "subtitle": "20260615~20260621",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260609_1_tb.jpg",
+            "thumbnail": "/limited/20260615_1_tb.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "HISENSE 75吋 MINI QLED 顯示器 75U7Q",
-                  "id": "155013",
+                  "title": "GILMAN CREEK 牛皮躺椅",
+                  "id": "1987641",
                   "price": [
-                    43999
+                    11999
                   ],
                   "discount": [
-                    8800
+                    2500
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260610_01.jpg",
-                  "subtitle": "20260608~20260614",
+                  "thumbnail": "/limited/20260615_01.jpg",
+                  "subtitle": "20260615~20260621",
                   "extra": ""
                 },
                 {
-                  "title": "HISENSE 65吋 MINI QLED 顯示器 65U7Q",
-                  "id": "155012",
+                  "title": "CLOROX 萬用清潔擦拭濕巾 85抽 5罐入",
+                  "id": "2189436",
                   "price": [
-                    33999
+                    679
                   ],
                   "discount": [
-                    6800
+                    140
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260610_02.jpg",
-                  "subtitle": "20260608~20260614",
+                  "thumbnail": "/limited/20260615_02.jpg",
+                  "subtitle": "20260615~20260621",
                   "extra": ""
                 },
                 {
-                  "title": "HISENSE 55吋 QLED 顯示器 55E7K",
-                  "id": "147727",
+                  "title": "PIAA 車用遮陽傘 M/L",
+                  "id": "158979",
                   "price": [
-                    14999
-                  ],
-                  "discount": [
-                    3000
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260610_03.jpg",
-                  "subtitle": "20260608~20260614",
-                  "extra": ""
-                },
-                {
-                  "title": "YOUTHEORY 膠原蛋白生物素錠 390錠",
-                  "id": "554059",
-                  "price": [
-                    999
-                  ],
-                  "discount": [
-                    200
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260610_04.jpg",
-                  "subtitle": "20260608~20260614",
-                  "extra": ""
-                },
-                {
-                  "title": "NESCAFE 雀巢 西西里風檸檬咖啡 40包入",
-                  "id": "150636",
-                  "price": [
-                    469
-                  ],
-                  "discount": [
-                    95
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260610_05.jpg",
-                  "subtitle": "20260608~20260614",
-                  "extra": ""
-                },
-                {
-                  "title": "BARISTA 西雅圖 冰拿鐵濃焦糖風味 40包入",
-                  "id": "146963",
-                  "price": [
-                    449
+                    439
                   ],
                   "discount": [
                     90
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260610_06.jpg",
-                  "subtitle": "20260608~20260614",
+                  "thumbnail": "/limited/20260615_03.jpg",
+                  "subtitle": "20260615~20260621",
                   "extra": ""
                 },
                 {
-                  "title": "VITALI 維大力 汽水 330毫升 24瓶入",
-                  "id": "141523",
+                  "title": "CASTROL 嘉實多 極致 5W-30 全合成機油 946毫升 6瓶入",
+                  "id": "125482",
                   "price": [
-                    249
+                    1369
                   ],
                   "discount": [
-                    50
+                    300
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260610_07.jpg",
-                  "subtitle": "20260608~20260614",
+                  "thumbnail": "/limited/20260615_04.jpg",
+                  "subtitle": "20260615~20260621",
                   "extra": ""
                 },
                 {
-                  "title": "MENAGE A TROIS 美國甜白葡萄酒 MOSCATO 750毫升",
-                  "id": "129081",
+                  "title": "CP 卜蜂 冷藏紅燒棒腿 1200公克",
+                  "id": "144759",
                   "price": [
-                    265
+                    399
                   ],
                   "discount": [
-                    56
+                    80
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260610_08.jpg",
-                  "subtitle": "20260608~20260614",
+                  "thumbnail": "/limited/20260615_05.jpg",
+                  "subtitle": "20260615~20260621",
                   "extra": ""
                 },
                 {
-                  "title": "LAUGHING COW 笑牛 迷你貝比貝爾乾酪 28粒入",
-                  "id": "68677",
+                  "title": "ASAHI 朝日 十六茶零咖啡因複方茶 990毫升 12罐入",
+                  "id": "160080",
                   "price": [
-                    499
+                    399
                   ],
                   "discount": [
-                    100
+                    80
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260610_09.jpg",
-                  "subtitle": "20260608~20260614",
+                  "thumbnail": "/limited/20260615_06.jpg",
+                  "subtitle": "20260615~20260621",
                   "extra": ""
                 },
                 {
-                  "title": "HUGGIES 好奇 超厚倍柔嬰兒濕巾 72張 16包入",
-                  "id": "139234",
+                  "title": "NATIONAL VITA 顧可飛 DHA 魚油晶球膠囊 30包入",
+                  "id": "328912",
                   "price": [
-                    799
+                    599
                   ],
                   "discount": [
-                    160
+                    120
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260610_10.jpg",
-                  "subtitle": "20260608~20260614",
+                  "thumbnail": "/limited/20260615_07.jpg",
+                  "subtitle": "20260615~20260621",
                   "extra": ""
                 }
               ]
@@ -3052,25 +3010,32 @@
       }
     },
     {
-      "title": "新商品預告 20260608~20260614",
+      "title": "新商品預告 20260615~20260621",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260608_101_tb.jpg",
-      "extra": "/limited/20260608_101.jpg"
+      "thumbnail": "/limited/20260615_101_tb.jpg",
+      "extra": "/limited/20260615_101.jpg"
     },
     {
-      "title": "賣場展示及試吃活動 20260608~20260614",
+      "title": "賣場展示及試吃活動 20260615~20260621",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260608_102_tb.jpg",
-      "extra": "/limited/20260608_102.jpg"
+      "thumbnail": "/limited/20260615_102_tb.jpg",
+      "extra": "/limited/20260615_102.jpg"
     },
     {
-      "title": "商品特展活動 20260511~20260611",
+      "title": "商品特展活動 20260608~20260802",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260511_104_tb.jpg",
-      "extra": "/limited/20260511_104.jpg"
+      "thumbnail": "/limited/20260615_104_tb.jpg",
+      "extra": "/limited/20260615_104.jpg"
+    },
+    {
+      "title": "黑鑽限定折上折就在今日！ 滿$8,800折$618",
+      "subtitle": "20250113~20250119",
+      "type": "eUrl",
+      "thumbnail": "/limited/20260615_103_tb.jpg",
+      "extra": "https://www.costco.com.tw/c/hot-buys"
     },
     {
       "title": "黑鑽會員可享提前入場購物",
