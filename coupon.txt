@@ -1,5 +1,5 @@
 {
-  "version": "20260216",
+  "version": "20260218",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -3010,6 +3010,13 @@
       }
     },
     {
+      "title": "黑鑽限定折上折就在今日！ 滿$8,800折$618",
+      "subtitle": "20250113~20250119",
+      "type": "eUrl",
+      "thumbnail": "/limited/20260615_103_tb.jpg",
+      "extra": "https://www.costco.com.tw/c/hot-buys"
+    },
+    {
       "title": "新商品預告 20260615~20260621",
       "subtitle": "20250113~20250119",
       "type": "webview",
@@ -3029,13 +3036,6 @@
       "type": "webview",
       "thumbnail": "/limited/20260615_104_tb.jpg",
       "extra": "/limited/20260615_104.jpg"
-    },
-    {
-      "title": "黑鑽限定折上折就在今日！ 滿$8,800折$618",
-      "subtitle": "20250113~20250119",
-      "type": "eUrl",
-      "thumbnail": "/limited/20260615_103_tb.jpg",
-      "extra": "https://www.costco.com.tw/c/hot-buys"
     },
     {
       "title": "黑鑽會員可享提前入場購物",
