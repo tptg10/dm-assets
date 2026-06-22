@@ -1,5 +1,5 @@
 {
-  "version": "20260219",
+  "version": "20260220",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,107 +7,65 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場商品精選優惠 20260615~20260621",
-      "subtitle": "20260615~20260621",
+      "title": "賣場商品精選優惠 20260622~20260628",
+      "subtitle": "20260622~20260628",
       "type": "sub",
-      "thumbnail": "/limited/20260615.jpg",
+      "thumbnail": "/limited/20260622.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20260615~20260621",
-            "subtitle": "20260615~20260621",
+            "title": "20260622~20260628",
+            "subtitle": "20260622~20260628",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260615_1_tb.jpg",
+            "thumbnail": "/limited/20260622_1_tb.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "GILMAN CREEK 牛皮躺椅",
-                  "id": "1987641",
+                  "title": "PHILIPS 飛利浦 充電式護齦音波牙刷（單入組二刷頭）HX3792",
+                  "id": "160016",
                   "price": [
-                    11999
+                    4299
                   ],
                   "discount": [
-                    2500
+                    1000
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260615_01.jpg",
-                  "subtitle": "20260615~20260621",
+                  "thumbnail": "/limited/20260622_01.jpg",
+                  "subtitle": "20260622~20260628",
                   "extra": ""
                 },
                 {
-                  "title": "CLOROX 萬用清潔擦拭濕巾 85抽 5罐入",
-                  "id": "2189436",
+                  "title": "PHILIPS 飛利浦 護齦牙刷刷頭 6入組 HX9053/67",
+                  "id": "151105",
                   "price": [
-                    679
+                    1499
                   ],
                   "discount": [
-                    140
+                    320
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260615_02.jpg",
-                  "subtitle": "20260615~20260621",
+                  "thumbnail": "/limited/20260622_02.jpg",
+                  "subtitle": "20260622~20260628",
                   "extra": ""
                 },
                 {
-                  "title": "PIAA 車用遮陽傘 M/L",
-                  "id": "158979",
+                  "title": "PHILIPS 飛利浦 兒童音波電動牙刷 HX3603/03",
+                  "id": "146322",
                   "price": [
-                    439
+                    1989
                   ],
                   "discount": [
-                    90
+                    410
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260615_03.jpg",
-                  "subtitle": "20260615~20260621",
+                  "thumbnail": "/limited/20260622_03.jpg",
+                  "subtitle": "20260622~20260628",
                   "extra": ""
                 },
                 {
-                  "title": "CASTROL 嘉實多 極致 5W-30 全合成機油 946毫升 6瓶入",
-                  "id": "125482",
-                  "price": [
-                    1369
-                  ],
-                  "discount": [
-                    300
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260615_04.jpg",
-                  "subtitle": "20260615~20260621",
-                  "extra": ""
-                },
-                {
-                  "title": "CP 卜蜂 冷藏紅燒棒腿 1200公克",
-                  "id": "144759",
-                  "price": [
-                    399
-                  ],
-                  "discount": [
-                    80
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260615_05.jpg",
-                  "subtitle": "20260615~20260621",
-                  "extra": ""
-                },
-                {
-                  "title": "ASAHI 朝日 十六茶零咖啡因複方茶 990毫升 12罐入",
-                  "id": "160080",
-                  "price": [
-                    399
-                  ],
-                  "discount": [
-                    80
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260615_06.jpg",
-                  "subtitle": "20260615~20260621",
-                  "extra": ""
-                },
-                {
-                  "title": "NATIONAL VITA 顧可飛 DHA 魚油晶球膠囊 30包入",
-                  "id": "328912",
+                  "title": "SENSODYNE 舒酸定 強健琺瑯質多效牙膏 130公克 6條入",
+                  "id": "240952",
                   "price": [
                     599
                   ],
@@ -115,8 +73,120 @@
                     120
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260615_07.jpg",
-                  "subtitle": "20260615~20260621",
+                  "thumbnail": "/limited/20260622_04.jpg",
+                  "subtitle": "20260622~20260628",
+                  "extra": ""
+                },
+                {
+                  "title": "LISTERINE 李施德霖 全效無酒精漱口水 750毫升 4瓶入",
+                  "id": "341516",
+                  "price": [
+                    649
+                  ],
+                  "discount": [
+                    130
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260622_05.jpg",
+                  "subtitle": "20260622~20260628",
+                  "extra": ""
+                },
+                {
+                  "title": "SOUNDCORE LIBERTY 4 主動降噪真無線藍牙耳機 A3953",
+                  "id": "146926",
+                  "price": [
+                    2499
+                  ],
+                  "discount": [
+                    520
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260622_06.jpg",
+                  "subtitle": "20260622~20260628",
+                  "extra": ""
+                },
+                {
+                  "title": "LG 65吋 OLED 顯示器 OLED65B5PTA",
+                  "id": "153509",
+                  "price": [
+                    49999
+                  ],
+                  "discount": [
+                    12500
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260622_07.jpg",
+                  "subtitle": "20260622~20260628",
+                  "extra": ""
+                },
+                {
+                  "title": "SAMSUNG 55吋 4K NEO QLED 顯示器 QA55QN87DAXXZW",
+                  "id": "152564",
+                  "price": [
+                    29999
+                  ],
+                  "discount": [
+                    6000
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260622_08.jpg",
+                  "subtitle": "20260622~20260628",
+                  "extra": ""
+                },
+                {
+                  "title": "RODEO JOE'S 冷凍綜合炸物組 1.14公斤",
+                  "id": "1786475",
+                  "price": [
+                    559
+                  ],
+                  "discount": [
+                    114
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260622_09.jpg",
+                  "subtitle": "20260622~20260628",
+                  "extra": ""
+                },
+                {
+                  "title": "JOY 十樂 冷藏豚骨拉麵 210公克 6包入",
+                  "id": "177996",
+                  "price": [
+                    259
+                  ],
+                  "discount": [
+                    60
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260622_10.jpg",
+                  "subtitle": "20260622~20260628",
+                  "extra": ""
+                },
+                {
+                  "title": "KIRIN 麒麟 一番搾啤酒 350毫升 24罐入",
+                  "id": "3055",
+                  "price": [
+                    715
+                  ],
+                  "discount": [
+                    110
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260622_11.jpg",
+                  "subtitle": "20260622~20260628",
+                  "extra": ""
+                },
+                {
+                  "title": "WEIDER 威德 輕暢酵素飲纖暢配方 30毫升 30包入",
+                  "id": "940510",
+                  "price": [
+                    999
+                  ],
+                  "discount": [
+                    200
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260622_12.jpg",
+                  "subtitle": "20260622~20260628",
                   "extra": ""
                 }
               ]
@@ -3010,18 +3080,18 @@
       }
     },
     {
-      "title": "新商品預告 20260615~20260621",
+      "title": "新商品預告 20260622~20260628",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260615_101_tb.jpg",
-      "extra": "/limited/20260615_101.jpg"
+      "thumbnail": "/limited/20260622_101_tb.jpg",
+      "extra": "/limited/20260622_101.jpg"
     },
     {
-      "title": "賣場展示及試吃活動 20260615~20260621",
+      "title": "賣場展示及試吃活動 20260622~20260628",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260615_102_tb.jpg",
-      "extra": "/limited/20260615_102.jpg"
+      "thumbnail": "/limited/20260622_102_tb.jpg",
+      "extra": "/limited/20260622_102.jpg"
     },
     {
       "title": "商品特展活動 20260608~20260802",
