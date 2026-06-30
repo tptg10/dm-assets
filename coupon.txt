@@ -1,5 +1,5 @@
 {
-  "version": "20260229",
+  "version": "20260230",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -704,7 +704,7 @@
                   "title": "NATURAL BENEFITS 純在 雪梨酪梨綜合果蔬汁 1.2公升",
                   "id": "153170",
                   "price": [
-                    119545
+                    195
                   ],
                   "discount": [
                     50
