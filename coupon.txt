@@ -1,5 +1,5 @@
 {
-  "version": "20260230",
+  "version": "20260301",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -98,7 +98,7 @@
       }
     },
     {
-      "title": "新高雄店開幕專屬優惠 20260703~20260705",
+      "title": "新高雄店開幕專屬優惠 20260703~20260830",
       "subtitle": "20260703~20260705",
       "type": "sub",
       "thumbnail": "/limited/20260703.jpg",
