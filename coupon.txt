@@ -1,5 +1,5 @@
 {
-  "version": "20260225",
+  "version": "20260226",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -324,10 +324,10 @@
             }
           },
           {
-            "title": "20260706~20260731",
-            "subtitle": "20260706~20260731",
+            "title": "20260706~20260802",
+            "subtitle": "20260706~20260802",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260704_1_tb.jpg",
+            "thumbnail": "/limited/20260704_1_1_tb.jpg",
             "extra": {
               "extra": [
                 {
@@ -340,8 +340,8 @@
                     9000
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_01.jpg",
-                  "subtitle": "20260706~20260731",
+                  "thumbnail": "/limited/20260704_1_01.jpg",
+                  "subtitle": "20260706~20260802",
                   "extra": ""
                 },
                 {
@@ -354,20 +354,20 @@
                     256
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_02.jpg",
-                  "subtitle": "20260706~20260731",
+                  "thumbnail": "/limited/20260704_1_02.jpg",
+                  "subtitle": "20260706~20260802",
                   "extra": "尺寸約45×35×60公分"
                 },
                 {
                   "title": "VIARTRIL-S 維骨力 加強型口服溶液用粉劑 30包入 2盒",
                   "id": "146969",
                   "price": [
-                    2699
+                    
                   ],
                   "discount": [],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_03.jpg",
-                  "subtitle": "20260706~20260731",
+                  "thumbnail": "/limited/20260704_1_03.jpg",
+                  "subtitle": "20260706~20260802",
                   "extra": ""
                 },
                 {
@@ -380,8 +380,8 @@
                     180
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_04.jpg",
-                  "subtitle": "20260706~20260731",
+                  "thumbnail": "/limited/20260704_1_04.jpg",
+                  "subtitle": "20260706~20260802",
                   "extra": "尺寸約180×210公分"
                 },
                 {
@@ -394,8 +394,8 @@
                     150
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_05.jpg",
-                  "subtitle": "20260706~20260731",
+                  "thumbnail": "/limited/20260704_1_05.jpg",
+                  "subtitle": "20260706~20260802",
                   "extra": "美國尺寸XS-L"
                 },
                 {
@@ -408,20 +408,20 @@
                     80
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_06.jpg",
-                  "subtitle": "20260706~20260731",
+                  "thumbnail": "/limited/20260704_1_06.jpg",
+                  "subtitle": "20260706~20260802",
                   "extra": ""
                 },
                 {
                   "title": "NIZORAL 仁山利舒 洗髮精2% 200毫升",
                   "id": "68088",
                   "price": [
-                    559
+                    
                   ],
                   "discount": [],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_07.jpg",
-                  "subtitle": "20260706~20260731",
+                  "thumbnail": "/limited/20260704_1_07.jpg",
+                  "subtitle": "20260706~20260802",
                   "extra": ""
                 },
                 {
@@ -434,8 +434,8 @@
                     320
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_08.jpg",
-                  "subtitle": "20260706~20260731",
+                  "thumbnail": "/limited/20260704_1_08.jpg",
+                  "subtitle": "20260706~20260802",
                   "extra": ""
                 },
                 {
@@ -448,8 +448,8 @@
                     120
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_09.jpg",
-                  "subtitle": "20260706~20260731",
+                  "thumbnail": "/limited/20260704_1_09.jpg",
+                  "subtitle": "20260706~20260802",
                   "extra": ""
                 },
                 {
@@ -462,8 +462,8 @@
                     74
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_10.jpg",
-                  "subtitle": "20260706~20260731",
+                  "thumbnail": "/limited/20260704_1_10.jpg",
+                  "subtitle": "20260706~20260802",
                   "extra": ""
                 },
                 {
@@ -476,8 +476,8 @@
                     90
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_11.jpg",
-                  "subtitle": "20260706~20260731",
+                  "thumbnail": "/limited/20260704_1_11.jpg",
+                  "subtitle": "20260706~20260802",
                   "extra": ""
                 },
                 {
@@ -490,8 +490,8 @@
                     110
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_12.jpg",
-                  "subtitle": "20260706~20260731",
+                  "thumbnail": "/limited/20260704_1_12.jpg",
+                  "subtitle": "20260706~20260802",
                   "extra": ""
                 },
                 {
@@ -504,8 +504,8 @@
                     76
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_13.jpg",
-                  "subtitle": "20260706~20260731",
+                  "thumbnail": "/limited/20260704_1_13.jpg",
+                  "subtitle": "20260706~20260802",
                   "extra": ""
                 },
                 {
@@ -518,8 +518,8 @@
                     130
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_14.jpg",
-                  "subtitle": "20260706~20260731",
+                  "thumbnail": "/limited/20260704_1_14.jpg",
+                  "subtitle": "20260706~20260802",
                   "extra": ""
                 },
                 {
@@ -532,8 +532,8 @@
                     120
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_15.jpg",
-                  "subtitle": "20260706~20260731",
+                  "thumbnail": "/limited/20260704_1_15.jpg",
+                  "subtitle": "20260706~20260802",
                   "extra": ""
                 }
               ]
