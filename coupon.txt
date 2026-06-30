@@ -1,5 +1,5 @@
 {
-  "version": "20260226",
+  "version": "20260229",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -327,7 +327,7 @@
             "title": "20260706~20260802",
             "subtitle": "20260706~20260802",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260704_1_1_tb.jpg",
+            "thumbnail": "/limited/20260704_2_1_tb.jpg",
             "extra": {
               "extra": [
                 {
@@ -340,7 +340,7 @@
                     9000
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_1_01.jpg",
+                  "thumbnail": "/limited/20260704_2_01.jpg",
                   "subtitle": "20260706~20260802",
                   "extra": ""
                 },
@@ -354,7 +354,7 @@
                     256
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_1_02.jpg",
+                  "thumbnail": "/limited/20260704_2_02.jpg",
                   "subtitle": "20260706~20260802",
                   "extra": "尺寸約45×35×60公分"
                 },
@@ -366,7 +366,7 @@
                   ],
                   "discount": [],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_1_03.jpg",
+                  "thumbnail": "/limited/20260704_2_03.jpg",
                   "subtitle": "20260706~20260802",
                   "extra": ""
                 },
@@ -380,7 +380,7 @@
                     180
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_1_04.jpg",
+                  "thumbnail": "/limited/20260704_2_04.jpg",
                   "subtitle": "20260706~20260802",
                   "extra": "尺寸約180×210公分"
                 },
@@ -394,7 +394,7 @@
                     150
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_1_05.jpg",
+                  "thumbnail": "/limited/20260704_2_05.jpg",
                   "subtitle": "20260706~20260802",
                   "extra": "美國尺寸XS-L"
                 },
@@ -408,7 +408,7 @@
                     80
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_1_06.jpg",
+                  "thumbnail": "/limited/20260704_2_06.jpg",
                   "subtitle": "20260706~20260802",
                   "extra": ""
                 },
@@ -420,7 +420,7 @@
                   ],
                   "discount": [],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_1_07.jpg",
+                  "thumbnail": "/limited/20260704_2_07.jpg",
                   "subtitle": "20260706~20260802",
                   "extra": ""
                 },
@@ -434,7 +434,7 @@
                     320
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_1_08.jpg",
+                  "thumbnail": "/limited/20260704_2_08.jpg",
                   "subtitle": "20260706~20260802",
                   "extra": ""
                 },
@@ -448,7 +448,7 @@
                     120
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_1_09.jpg",
+                  "thumbnail": "/limited/20260704_2_09.jpg",
                   "subtitle": "20260706~20260802",
                   "extra": ""
                 },
@@ -462,7 +462,7 @@
                     74
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_1_10.jpg",
+                  "thumbnail": "/limited/20260704_2_10.jpg",
                   "subtitle": "20260706~20260802",
                   "extra": ""
                 },
@@ -476,7 +476,7 @@
                     90
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_1_11.jpg",
+                  "thumbnail": "/limited/20260704_2_11.jpg",
                   "subtitle": "20260706~20260802",
                   "extra": ""
                 },
@@ -490,7 +490,7 @@
                     110
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_1_12.jpg",
+                  "thumbnail": "/limited/20260704_2_12.jpg",
                   "subtitle": "20260706~20260802",
                   "extra": ""
                 },
@@ -504,7 +504,7 @@
                     76
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_1_13.jpg",
+                  "thumbnail": "/limited/20260704_2_13.jpg",
                   "subtitle": "20260706~20260802",
                   "extra": ""
                 },
@@ -518,7 +518,7 @@
                     130
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_1_14.jpg",
+                  "thumbnail": "/limited/20260704_2_14.jpg",
                   "subtitle": "20260706~20260802",
                   "extra": ""
                 },
@@ -532,7 +532,7 @@
                     120
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260704_1_15.jpg",
+                  "thumbnail": "/limited/20260704_2_15.jpg",
                   "subtitle": "20260706~20260802",
                   "extra": ""
                 }
@@ -550,7 +550,7 @@
                   "title": "GILMAN CREEK 牛皮電動躺椅",
                   "id": "1987838",
                   "price": [
-                    8999
+                    12399
                   ],
                   "discount": [
                     3400
@@ -564,7 +564,7 @@
                   "title": "NINJA 雙層氣炸鍋 7.6公升",
                   "id": "158553",
                   "price": [
-                    6699
+                    8399
                   ],
                   "discount": [
                     1700
@@ -578,7 +578,7 @@
                   "title": "COCA-COLA 4公升迷你冰箱",
                   "id": "578758",
                   "price": [
-                    999
+                    1399
                   ],
                   "discount": [
                     400
@@ -592,7 +592,7 @@
                   "title": "CNP 綠蜂膠奇蹟能量安瓶組",
                   "id": "219174",
                   "price": [
-                    1089
+                    1369
                   ],
                   "discount": [
                     280
@@ -606,7 +606,7 @@
                   "title": "經典卡通涼被(附收納袋)",
                   "id": "449366/649366/749366",
                   "price": [
-                    949
+                    1189
                   ],
                   "discount": [
                     240
@@ -620,7 +620,7 @@
                   "title": "BANANA REPUBLIC 男平織寬版內褲三件組",
                   "id": "1965984",
                   "price": [
-                    399
+                    499
                   ],
                   "discount": [
                     100
@@ -634,7 +634,7 @@
                   "title": "ENERGIZER 勁量 四合一多功能救車電源",
                   "id": "154389",
                   "price": [
-                    2149
+                    2899
                   ],
                   "discount": [
                     750
@@ -648,7 +648,7 @@
                   "title": "MRS CHANG'S 張媽媽 冷凍川味牛肉麵 3包入",
                   "id": "138416",
                   "price": [
-                    439
+                    589
                   ],
                   "discount": [
                     150
@@ -662,7 +662,7 @@
                   "title": "JEN YUAN FOOD 珍苑 香辣五仁堅果醬 2罐入",
                   "id": "255299",
                   "price": [
-                    219
+                    299
                   ],
                   "discount": [
                     80
@@ -676,7 +676,7 @@
                   "title": "CAPTAIN DANNY 丹尼船長 米的洋芋片松露味 8包入",
                   "id": "246249",
                   "price": [
-                    199
+                    269
                   ],
                   "discount": [
                     70
@@ -690,7 +690,7 @@
                   "title": "MR. MUSCLE 威猛先生 潔廁清香凍",
                   "id": "505570",
                   "price": [
-                    289
+                    369
                   ],
                   "discount": [
                     80
@@ -704,7 +704,7 @@
                   "title": "NATURAL BENEFITS 純在 雪梨酪梨綜合果蔬汁 1.2公升",
                   "id": "153170",
                   "price": [
-                    145
+                    119545
                   ],
                   "discount": [
                     50
@@ -718,7 +718,7 @@
                   "title": "CSD 中衛 醫療口罩(未滅菌) 200入",
                   "id": "133133",
                   "price": [
-                    379
+                    499
                   ],
                   "discount": [
                     120
@@ -732,10 +732,10 @@
                   "title": "WAKAMOTO 若元 益生菌錠 350錠",
                   "id": "150594",
                   "price": [
-                    899
+                    
                   ],
                   "discount": [
-                    0
+                    
                   ],
                   "type": "product",
                   "thumbnail": "/limited/20260705_14.jpg",
@@ -746,7 +746,7 @@
                   "title": "BLINK 冰藍 高水份隱形眼鏡潤濕液 4瓶入",
                   "id": "555321",
                   "price": [
-                    549
+                    649
                   ],
                   "discount": [
                     100
