@@ -1,5 +1,5 @@
 {
-  "version": "20260221",
+  "version": "20260225",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,65 +7,440 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場商品精選優惠 20260622~20260628",
-      "subtitle": "20260622~20260628",
+      "title": "賣場商品精選優惠 20260629~20260705",
+      "subtitle": "20260629~20260705",
       "type": "sub",
-      "thumbnail": "/limited/20260622.jpg",
+      "thumbnail": "/limited/20260629.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20260622~20260628",
-            "subtitle": "20260622~20260628",
+            "title": "20260629~20260705",
+            "subtitle": "20260629~20260705",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260622_1_tb.jpg",
+            "thumbnail": "/limited/20260629_1_tb.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "PHILIPS 飛利浦 充電式護齦音波牙刷（單入組二刷頭）HX3792",
-                  "id": "160016",
+                  "title": "HOYACASA 純棉床包兩用被四件組雙人",
+                  "id": "158962/158963/158964/158965",
                   "price": [
-                    4299
+                    1999
                   ],
                   "discount": [
-                    1000
+                    400
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260622_01.jpg",
-                  "subtitle": "20260622~20260628",
+                  "thumbnail": "/limited/20260629_01.jpg",
+                  "subtitle": "20260629~20260705",
                   "extra": ""
                 },
                 {
-                  "title": "PHILIPS 飛利浦 護齦牙刷刷頭 6入組 HX9053/67",
-                  "id": "151105",
+                  "title": "CETAPHIL 舒特膚 寶寶溫和洗髮沐浴乳 400毫升 2瓶入",
+                  "id": "108722",
+                  "price": [
+                    549
+                  ],
+                  "discount": [
+                    120
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260629_02.jpg",
+                  "subtitle": "20260629~20260705",
+                  "extra": ""
+                },
+                {
+                  "title": "PERRIER 沛綠雅 氣泡礦泉水 500毫升 24瓶入",
+                  "id": "34405",
+                  "price": [
+                    799
+                  ],
+                  "discount": [
+                    160
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260629_03.jpg",
+                  "subtitle": "20260629~20260705",
+                  "extra": ""
+                },
+                {
+                  "title": "GRAB-A-RAG 超細纖維擦拭布 80抽",
+                  "id": "148155",
+                  "price": [
+                    379
+                  ],
+                  "discount": [
+                    80
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260629_04.jpg",
+                  "subtitle": "20260629~20260705",
+                  "extra": ""
+                },
+                {
+                  "title": "FUJIYA 不二家 經典牛奶糖 520公克",
+                  "id": "155247",
+                  "price": [
+                    329
+                  ],
+                  "discount": [
+                    74
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260629_05.jpg",
+                  "subtitle": "20260629~20260705",
+                  "extra": ""
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "title": "新高雄店開幕專屬優惠 20260703~20260705",
+      "subtitle": "20260703~20260705",
+      "type": "sub",
+      "thumbnail": "/limited/20260703.jpg",
+      "extra": {
+        "display": "passport",
+        "extra": [
+          {
+            "title": "20260703~20260705",
+            "subtitle": "20260703~20260705",
+            "type": "sub|textonly",
+            "thumbnail": "/limited/20260703_1_tb.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "SAMSUNG 55吋 NEO QLED 顯示器 QA55QN80FAXXZW",
+                  "id": "158544",
+                  "price": [
+                    33999
+                  ],
+                  "discount": [
+                    10000
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260703_01.jpg",
+                  "subtitle": "20260703~20260705",
+                  "extra": ""
+                },
+                {
+                  "title": "0.3克拉圓形鑽石項鍊 14K白K金 VS2/I",
+                  "id": "2002064",
+                  "price": [
+                    42999
+                  ],
+                  "discount": [
+                    11000
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260703_02.jpg",
+                  "subtitle": "20260703~20260705",
+                  "extra": ""
+                },
+                {
+                  "title": "DYSON 強效極靜抗敏空氣清淨機 BP02",
+                  "id": "154675",
+                  "price": [
+                    16899
+                  ],
+                  "discount": [
+                    1500
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260703_03.jpg",
+                  "subtitle": "20260703~20260705",
+                  "extra": ""
+                },
+                {
+                  "title": "TEMPUR 丹普 時尚枕",
+                  "id": "159991",
+                  "price": [
+                    2999
+                  ],
+                  "discount": [
+                    750
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260703_04.jpg",
+                  "subtitle": "20260703~20260705",
+                  "extra": ""
+                },
+                {
+                  "title": "TTM 提提研 希俄斯乳香生物纖維面膜 12片入",
+                  "id": "159831",
                   "price": [
                     1499
+                  ],
+                  "discount": [
+                    380
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260703_05.jpg",
+                  "subtitle": "20260703~20260705",
+                  "extra": ""
+                },
+                {
+                  "title": "GREENMAX 馬玉山 有機純杏核仁粉 600公克",
+                  "id": "121941",
+                  "price": [
+                    589
+                  ],
+                  "discount": [
+                    150
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260703_06.jpg",
+                  "subtitle": "20260703~20260705",
+                  "extra": ""
+                },
+                {
+                  "title": "IMEI 義美 低糖豆奶 250毫升 24瓶入",
+                  "id": "146158",
+                  "price": [
+                    215
+                  ],
+                  "discount": [
+                    56
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260703_07.jpg",
+                  "subtitle": "20260703~20260705",
+                  "extra": ""
+                },
+                {
+                  "title": "KIRKLAND SIGNATURE 科克蘭 澳洲羊梅花里肌燒肉片",
+                  "id": "48803",
+                  "price": [
+                    899
+                  ],
+                  "discount": [
+                    210
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260703_08.jpg",
+                  "subtitle": "20260703~20260705",
+                  "extra": "單位：公斤"
+                },
+                {
+                  "title": "KIRKLAND SIGNATURE 科克蘭 超大熟蝦盤佐雞尾酒醬",
+                  "id": "148866",
+                  "price": [
+                    819
+                  ],
+                  "discount": [
+                    160
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260703_09.jpg",
+                  "subtitle": "20260703~20260705",
+                  "extra": "單位：公斤"
+                },
+                {
+                  "title": "日本山藥 950公克",
+                  "id": "41033",
+                  "price": [],
+                  "discount": [
+                    70
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260703_10.jpg",
+                  "subtitle": "20260703~20260705",
+                  "extra": "折價70元"
+                },
+                {
+                  "title": "LOTTE 樂天 雪見大福冰淇淋綜合組 36入",
+                  "id": "151245",
+                  "price": [
+                    399
+                  ],
+                  "discount": [
+                    100
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260703_11.jpg",
+                  "subtitle": "20260703~20260705",
+                  "extra": ""
+                },
+                {
+                  "title": "熟凍松葉蟹拼盤 600公克",
+                  "id": "515653",
+                  "price": [
+                    1699
+                  ],
+                  "discount": [
+                    400
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260703_12.jpg",
+                  "subtitle": "20260703~20260705",
+                  "extra": ""
+                },
+                {
+                  "title": "KIRKLAND SIGNATURE 科克蘭 桂圓核桃麵包 2入",
+                  "id": "141105",
+                  "price": [
+                    269
+                  ],
+                  "discount": [
+                    55
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260703_13.jpg",
+                  "subtitle": "20260703~20260705",
+                  "extra": ""
+                },
+                {
+                  "title": "TEMPTATIONS 喵愛餡 三重奏貓零食 75公克 6包入",
+                  "id": "150343",
+                  "price": [
+                    439
+                  ],
+                  "discount": [
+                    110
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260703_14.jpg",
+                  "subtitle": "20260703~20260705",
+                  "extra": ""
+                },
+                {
+                  "title": "KIRIN 麒麟 一番搾黑生啤酒 350毫升 24罐入",
+                  "id": "74265",
+                  "price": [
+                    949
+                  ],
+                  "discount": [
+                    250
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260703_15.jpg",
+                  "subtitle": "20260703~20260705",
+                  "extra": ""
+                }
+              ]
+            }
+          },
+          {
+            "title": "20260706~20260731",
+            "subtitle": "20260706~20260731",
+            "type": "sub|textonly",
+            "thumbnail": "/limited/20260704_1_tb.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "SAMSUNG 65吋 NEO QLED 顯示器 QA65QN80FAXXZW",
+                  "id": "158546",
+                  "price": [
+                    36999
+                  ],
+                  "discount": [
+                    9000
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260704_01.jpg",
+                  "subtitle": "20260706~20260731",
+                  "extra": ""
+                },
+                {
+                  "title": "CLEVERMADE 摺疊購物車",
+                  "id": "2796150",
+                  "price": [
+                    1155
+                  ],
+                  "discount": [
+                    256
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260704_02.jpg",
+                  "subtitle": "20260706~20260731",
+                  "extra": "尺寸約45×35×60公分"
+                },
+                {
+                  "title": "VIARTRIL-S 維骨力 加強型口服溶液用粉劑 30包入 2盒",
+                  "id": "146969",
+                  "price": [
+                    2699
+                  ],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/limited/20260704_03.jpg",
+                  "subtitle": "20260706~20260731",
+                  "extra": ""
+                },
+                {
+                  "title": "THERMATEC 涼感被",
+                  "id": "159001",
+                  "price": [
+                    849
+                  ],
+                  "discount": [
+                    180
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260704_04.jpg",
+                  "subtitle": "20260706~20260731",
+                  "extra": "尺寸約180×210公分"
+                },
+                {
+                  "title": "TOMMY HILFIGER 女無鋼圈內衣兩入組",
+                  "id": "1987631-34",
+                  "price": [
+                    729
+                  ],
+                  "discount": [
+                    150
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260704_05.jpg",
+                  "subtitle": "20260706~20260731",
+                  "extra": "美國尺寸XS-L"
+                },
+                {
+                  "title": "PALMOLIVE 棕欖 保濕沐浴乳 4公斤",
+                  "id": "146005",
+                  "price": [
+                    359
+                  ],
+                  "discount": [
+                    80
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260704_06.jpg",
+                  "subtitle": "20260706~20260731",
+                  "extra": ""
+                },
+                {
+                  "title": "NIZORAL 仁山利舒 洗髮精2% 200毫升",
+                  "id": "68088",
+                  "price": [
+                    559
+                  ],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/limited/20260704_07.jpg",
+                  "subtitle": "20260706~20260731",
+                  "extra": ""
+                },
+                {
+                  "title": "HOTO FLEXI 電動清潔刷",
+                  "id": "1959104",
+                  "price": [
+                    1599
                   ],
                   "discount": [
                     320
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260622_02.jpg",
-                  "subtitle": "20260622~20260628",
+                  "thumbnail": "/limited/20260704_08.jpg",
+                  "subtitle": "20260706~20260731",
                   "extra": ""
                 },
                 {
-                  "title": "PHILIPS 飛利浦 兒童音波電動牙刷 HX3603/03",
-                  "id": "146322",
-                  "price": [
-                    1989
-                  ],
-                  "discount": [
-                    410
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260622_03.jpg",
-                  "subtitle": "20260622~20260628",
-                  "extra": ""
-                },
-                {
-                  "title": "SENSODYNE 舒酸定 強健琺瑯質多效牙膏 130公克 6條入",
-                  "id": "240952",
+                  "title": "鱷魚 水性液體電蚊香 智能定時電蚊香器",
+                  "id": "160721",
                   "price": [
                     599
                   ],
@@ -73,120 +448,312 @@
                     120
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260622_04.jpg",
-                  "subtitle": "20260622~20260628",
+                  "thumbnail": "/limited/20260704_09.jpg",
+                  "subtitle": "20260706~20260731",
                   "extra": ""
                 },
                 {
-                  "title": "LISTERINE 李施德霖 全效無酒精漱口水 750毫升 4瓶入",
-                  "id": "341516",
+                  "title": "SHENG TIAN 昇田 黑糖麥芽餅 1008公克",
+                  "id": "157078",
                   "price": [
-                    649
+                    299
                   ],
                   "discount": [
-                    130
+                    74
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260622_05.jpg",
-                  "subtitle": "20260622~20260628",
+                  "thumbnail": "/limited/20260704_10.jpg",
+                  "subtitle": "20260706~20260731",
                   "extra": ""
                 },
                 {
-                  "title": "SOUNDCORE LIBERTY 4 主動降噪真無線藍牙耳機 A3953",
-                  "id": "146926",
+                  "title": "SIP PERFECT X 益昌 生椰拿鐵二合一 50包入",
+                  "id": "249178",
                   "price": [
-                    2499
+                    349
                   ],
                   "discount": [
-                    520
+                    90
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260622_06.jpg",
-                  "subtitle": "20260622~20260628",
+                  "thumbnail": "/limited/20260704_11.jpg",
+                  "subtitle": "20260706~20260731",
                   "extra": ""
                 },
                 {
-                  "title": "LG 65吋 OLED 顯示器 OLED65B5PTA",
-                  "id": "153509",
+                  "title": "ATTACK ZERO 噴槍型洗衣凝露 400公克+2100公克補充包",
+                  "id": "429229",
                   "price": [
-                    49999
-                  ],
-                  "discount": [
-                    12500
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260622_07.jpg",
-                  "subtitle": "20260622~20260628",
-                  "extra": ""
-                },
-                {
-                  "title": "SAMSUNG 55吋 4K NEO QLED 顯示器 QA55QN87DAXXZW",
-                  "id": "152564",
-                  "price": [
-                    29999
-                  ],
-                  "discount": [
-                    6000
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260622_08.jpg",
-                  "subtitle": "20260622~20260628",
-                  "extra": ""
-                },
-                {
-                  "title": "RODEO JOE'S 冷凍綜合炸物組 1.14公斤",
-                  "id": "1786475",
-                  "price": [
-                    559
-                  ],
-                  "discount": [
-                    114
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260622_09.jpg",
-                  "subtitle": "20260622~20260628",
-                  "extra": ""
-                },
-                {
-                  "title": "JOY 十樂 冷藏豚骨拉麵 210公克 6包入",
-                  "id": "177996",
-                  "price": [
-                    259
-                  ],
-                  "discount": [
-                    60
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260622_10.jpg",
-                  "subtitle": "20260622~20260628",
-                  "extra": ""
-                },
-                {
-                  "title": "KIRIN 麒麟 一番搾啤酒 350毫升 24罐入",
-                  "id": "3055",
-                  "price": [
-                    715
+                    529
                   ],
                   "discount": [
                     110
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260622_11.jpg",
-                  "subtitle": "20260622~20260628",
+                  "thumbnail": "/limited/20260704_12.jpg",
+                  "subtitle": "20260706~20260731",
                   "extra": ""
                 },
                 {
-                  "title": "WEIDER 威德 輕暢酵素飲纖暢配方 30毫升 30包入",
-                  "id": "940510",
+                  "title": "DAH TIEN 大田海洋 十三香辣鱈魚寬片 250公克 3包入",
+                  "id": "155744",
+                  "price": [
+                    295
+                  ],
+                  "discount": [
+                    76
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260704_13.jpg",
+                  "subtitle": "20260706~20260731",
+                  "extra": ""
+                },
+                {
+                  "title": "RED DRAGON 紅龍 冷凍香辣雞翅 2.3公斤",
+                  "id": "49192",
+                  "price": [
+                    499
+                  ],
+                  "discount": [
+                    130
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260704_14.jpg",
+                  "subtitle": "20260706~20260731",
+                  "extra": ""
+                },
+                {
+                  "title": "BELGIOIOSO 摩佐羅拉乾酪點心 680公克",
+                  "id": "1297419",
+                  "price": [
+                    465
+                  ],
+                  "discount": [
+                    120
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260704_15.jpg",
+                  "subtitle": "20260706~20260731",
+                  "extra": ""
+                }
+              ]
+            }
+          },
+          {
+            "title": "20260803~20260830",
+            "subtitle": "20260803~20260830",
+            "type": "sub|textonly",
+            "thumbnail": "/limited/20260705_1_tb.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "GILMAN CREEK 牛皮電動躺椅",
+                  "id": "1987838",
+                  "price": [
+                    8999
+                  ],
+                  "discount": [
+                    3400
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260705_01.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "NINJA 雙層氣炸鍋 7.6公升",
+                  "id": "158553",
+                  "price": [
+                    6699
+                  ],
+                  "discount": [
+                    1700
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260705_02.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "COCA-COLA 4公升迷你冰箱",
+                  "id": "578758",
                   "price": [
                     999
                   ],
                   "discount": [
-                    200
+                    400
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260622_12.jpg",
-                  "subtitle": "20260622~20260628",
+                  "thumbnail": "/limited/20260705_03.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "CNP 綠蜂膠奇蹟能量安瓶組",
+                  "id": "219174",
+                  "price": [
+                    1089
+                  ],
+                  "discount": [
+                    280
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260705_04.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "經典卡通涼被(附收納袋)",
+                  "id": "449366/649366/749366",
+                  "price": [
+                    949
+                  ],
+                  "discount": [
+                    240
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260705_05.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "BANANA REPUBLIC 男平織寬版內褲三件組",
+                  "id": "1965984",
+                  "price": [
+                    399
+                  ],
+                  "discount": [
+                    100
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260705_06.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "ENERGIZER 勁量 四合一多功能救車電源",
+                  "id": "154389",
+                  "price": [
+                    2149
+                  ],
+                  "discount": [
+                    750
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260705_07.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "MRS CHANG'S 張媽媽 冷凍川味牛肉麵 3包入",
+                  "id": "138416",
+                  "price": [
+                    439
+                  ],
+                  "discount": [
+                    150
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260705_08.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "JEN YUAN FOOD 珍苑 香辣五仁堅果醬 2罐入",
+                  "id": "255299",
+                  "price": [
+                    219
+                  ],
+                  "discount": [
+                    80
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260705_09.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "CAPTAIN DANNY 丹尼船長 米的洋芋片松露味 8包入",
+                  "id": "246249",
+                  "price": [
+                    199
+                  ],
+                  "discount": [
+                    70
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260705_10.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "MR. MUSCLE 威猛先生 潔廁清香凍",
+                  "id": "505570",
+                  "price": [
+                    289
+                  ],
+                  "discount": [
+                    80
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260705_11.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "NATURAL BENEFITS 純在 雪梨酪梨綜合果蔬汁 1.2公升",
+                  "id": "153170",
+                  "price": [
+                    145
+                  ],
+                  "discount": [
+                    50
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260705_12.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "CSD 中衛 醫療口罩(未滅菌) 200入",
+                  "id": "133133",
+                  "price": [
+                    379
+                  ],
+                  "discount": [
+                    120
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260705_13.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "WAKAMOTO 若元 益生菌錠 350錠",
+                  "id": "150594",
+                  "price": [
+                    899
+                  ],
+                  "discount": [
+                    0
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260705_14.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "BLINK 冰藍 高水份隱形眼鏡潤濕液 4瓶入",
+                  "id": "555321",
+                  "price": [
+                    549
+                  ],
+                  "discount": [
+                    100
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260705_15.jpg",
+                  "subtitle": "20260803~20260830",
                   "extra": ""
                 }
               ]
@@ -3080,18 +3647,11 @@
       }
     },
     {
-      "title": "新商品預告 20260622~20260628",
+      "title": "賣場展示及試吃活動 20260629~20260705",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260622_101_1_tb.jpg",
-      "extra": "/limited/20260622_101_1.jpg"
-    },
-    {
-      "title": "賣場展示及試吃活動 20260622~20260628",
-      "subtitle": "20250113~20250119",
-      "type": "webview",
-      "thumbnail": "/limited/20260622_102_tb.jpg",
-      "extra": "/limited/20260622_102.jpg"
+      "thumbnail": "/limited/20260629_102_tb.jpg",
+      "extra": "/limited/20260629_102.jpg"
     },
     {
       "title": "商品特展活動 20260608~20260802",
