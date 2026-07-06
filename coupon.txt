@@ -1,5 +1,5 @@
 {
-  "version": "20260301",
+  "version": "20260302",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,88 +7,186 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場商品精選優惠 20260629~20260705",
-      "subtitle": "20260629~20260705",
+      "title": "賣場精選商品限時優惠 20260706~20260712",
+      "subtitle": "20260706~20260712",
       "type": "sub",
-      "thumbnail": "/limited/20260629.jpg",
+      "thumbnail": "/limited/20260706_1001.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20260629~20260705",
-            "subtitle": "20260629~20260705",
+            "title": "20260706~20260712",
+            "subtitle": "20260706~20260712",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260629_1_tb.jpg",
+            "thumbnail": "/limited/20260706_1_1_tb.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "HOYACASA 純棉床包兩用被四件組雙人",
-                  "id": "158962/158963/158964/158965",
+                  "title": "PHILIPS 飛利浦 55吋 QLED 顯示器 55PQT8530",
+                  "id": "153526",
                   "price": [
-                    1999
+                    15799
                   ],
                   "discount": [
-                    400
+                    3200
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260629_01.jpg",
-                  "subtitle": "20260629~20260705",
+                  "thumbnail": "/limited/20260706_1_01.jpg",
+                  "subtitle": "20260706~20260712",
                   "extra": ""
                 },
                 {
-                  "title": "CETAPHIL 舒特膚 寶寶溫和洗髮沐浴乳 400毫升 2瓶入",
-                  "id": "108722",
+                  "title": "TCL 85吋 MINILED 顯示器 85C6K",
+                  "id": "153535",
                   "price": [
-                    549
+                    49999
                   ],
                   "discount": [
-                    120
+                    10000
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260629_02.jpg",
-                  "subtitle": "20260629~20260705",
+                  "thumbnail": "/limited/20260706_1_02.jpg",
+                  "subtitle": "20260706~20260712",
                   "extra": ""
                 },
                 {
-                  "title": "PERRIER 沛綠雅 氣泡礦泉水 500毫升 24瓶入",
-                  "id": "34405",
+                  "title": "SAMSUNG 75吋 QLED 顯示器 QA75QEF1AXXZW",
+                  "id": "153534",
                   "price": [
-                    799
+                    38999
                   ],
                   "discount": [
-                    160
+                    9000
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260629_03.jpg",
-                  "subtitle": "20260629~20260705",
+                  "thumbnail": "/limited/20260706_1_03.jpg",
+                  "subtitle": "20260706~20260712",
                   "extra": ""
                 },
                 {
-                  "title": "GRAB-A-RAG 超細纖維擦拭布 80抽",
-                  "id": "148155",
+                  "title": "BOSCH 60公分嵌入式洗碗機 SJU4EKW00W 220V",
+                  "id": "153805",
                   "price": [
-                    379
+                    34999
                   ],
                   "discount": [
-                    80
+                    7000
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260629_04.jpg",
-                  "subtitle": "20260629~20260705",
+                  "thumbnail": "/limited/20260706_1_04.jpg",
+                  "subtitle": "20260706~20260712",
                   "extra": ""
                 },
                 {
-                  "title": "FUJIYA 不二家 經典牛奶糖 520公克",
-                  "id": "155247",
+                  "title": "SHARP 夏普 觸控式微波爐34公升 R-TT34SS-S",
+                  "id": "157736",
                   "price": [
-                    329
+                    5299
+                  ],
+                  "discount": [
+                    1100
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260706_1_05.jpg",
+                  "subtitle": "20260706~20260712",
+                  "extra": ""
+                },
+                {
+                  "title": "YUMMY DOTS 享點子 泰式椰奶綠咖哩雞 520公克 2包入",
+                  "id": "146149",
+                  "price": [
+                    369
                   ],
                   "discount": [
                     74
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260629_05.jpg",
-                  "subtitle": "20260629~20260705",
+                  "thumbnail": "/limited/20260706_1_06.jpg",
+                  "subtitle": "20260706~20260712",
+                  "extra": ""
+                },
+                {
+                  "title": "HARIBO 哈瑞寶 明星總動員 Q 軟糖 1000公克",
+                  "id": "243456",
+                  "price": [
+                    439
+                  ],
+                  "discount": [
+                    90
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260706_1_07.jpg",
+                  "subtitle": "20260706~20260712",
+                  "extra": ""
+                },
+                {
+                  "title": "LOTTE 樂天 千層派濃厚巧克力風味 120.4公克 4包入",
+                  "id": "144897",
+                  "price": [
+                    299
+                  ],
+                  "discount": [
+                    60
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260706_1_08.jpg",
+                  "subtitle": "20260706~20260712",
+                  "extra": ""
+                },
+                {
+                  "title": "CARMIEN 南非博士茶 2.5公克 160包入",
+                  "id": "604255",
+                  "price": [
+                    299
+                  ],
+                  "discount": [
+                    60
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260706_1_09.jpg",
+                  "subtitle": "20260706~20260712",
+                  "extra": ""
+                },
+                {
+                  "title": "FIJI 斐濟 天然深層礦泉水 500毫升 24瓶入",
+                  "id": "89839",
+                  "price": [
+                    849
+                  ],
+                  "discount": [
+                    170
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260706_1_10.jpg",
+                  "subtitle": "20260706~20260712",
+                  "extra": ""
+                },
+                {
+                  "title": "CHESDALE 芝司樂 原味高鈣起司球 150公克 2包入",
+                  "id": "100531",
+                  "price": [
+                    299
+                  ],
+                  "discount": [
+                    60
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260706_1_11.jpg",
+                  "subtitle": "20260706~20260712",
+                  "extra": ""
+                },
+                {
+                  "title": "ASAHI 朝日 辛口啤酒 500毫升 16瓶入",
+                  "id": "140627",
+                  "price": [
+                    699
+                  ],
+                  "discount": [
+                    140
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260706_1_12.jpg",
+                  "subtitle": "20260706~20260712",
                   "extra": ""
                 }
               ]
@@ -361,9 +459,7 @@
                 {
                   "title": "VIARTRIL-S 維骨力 加強型口服溶液用粉劑 30包入 2盒",
                   "id": "146969",
-                  "price": [
-                    
-                  ],
+                  "price": [],
                   "discount": [],
                   "type": "product",
                   "thumbnail": "/limited/20260704_2_03.jpg",
@@ -415,9 +511,7 @@
                 {
                   "title": "NIZORAL 仁山利舒 洗髮精2% 200毫升",
                   "id": "68088",
-                  "price": [
-                    
-                  ],
+                  "price": [],
                   "discount": [],
                   "type": "product",
                   "thumbnail": "/limited/20260704_2_07.jpg",
@@ -731,12 +825,8 @@
                 {
                   "title": "WAKAMOTO 若元 益生菌錠 350錠",
                   "id": "150594",
-                  "price": [
-                    
-                  ],
-                  "discount": [
-                    
-                  ],
+                  "price": [],
+                  "discount": [],
                   "type": "product",
                   "thumbnail": "/limited/20260705_14.jpg",
                   "subtitle": "20260803~20260830",
@@ -3647,11 +3737,11 @@
       }
     },
     {
-      "title": "賣場展示及試吃活動 20260629~20260705",
+      "title": "賣場展示及試吃活動 20260706~20260712",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260629_102_tb.jpg",
-      "extra": "/limited/20260629_102.jpg"
+      "thumbnail": "/limited/20260706_102_tb.jpg",
+      "extra": "/limited/20260706_102.jpg"
     },
     {
       "title": "商品特展活動 20260608~20260802",
