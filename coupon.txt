@@ -1,5 +1,5 @@
 {
-  "version": "20260302",
+  "version": "20260305",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,177 +7,93 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場精選商品限時優惠 20260706~20260712",
-      "subtitle": "20260706~20260712",
+      "title": "賣場精選商品限時優惠 20260713~20260719",
+      "subtitle": "20260713~20260719",
       "type": "sub",
-      "thumbnail": "/limited/20260706_1001.jpg",
+      "thumbnail": "/limited/20260713.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20260706~20260712",
-            "subtitle": "20260706~20260712",
+            "title": "20260713~20260719",
+            "subtitle": "20260713~20260719",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260706_1_1_tb.jpg",
+            "thumbnail": "/limited/20260713_1_tb.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "PHILIPS 飛利浦 55吋 QLED 顯示器 55PQT8530",
-                  "id": "153526",
+                  "title": "SAMPO 聲寶 吸入式UV捕蚊燈 2入組",
+                  "id": "239152",
                   "price": [
-                    15799
+                    1699
                   ],
                   "discount": [
-                    3200
+                    360
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260706_1_01.jpg",
-                  "subtitle": "20260706~20260712",
+                  "thumbnail": "/limited/20260713_01.jpg",
+                  "subtitle": "20260713~20260719",
                   "extra": ""
                 },
                 {
-                  "title": "TCL 85吋 MINILED 顯示器 85C6K",
-                  "id": "153535",
+                  "title": "WILDLAND 速開帳篷",
+                  "id": "1872089",
                   "price": [
-                    49999
+                    1599
                   ],
                   "discount": [
-                    10000
+                    600
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260706_1_02.jpg",
-                  "subtitle": "20260706~20260712",
+                  "thumbnail": "/limited/20260713_02.jpg",
+                  "subtitle": "20260713~20260719",
                   "extra": ""
                 },
                 {
-                  "title": "SAMSUNG 75吋 QLED 顯示器 QA75QEF1AXXZW",
-                  "id": "153534",
+                  "title": "SODE 成人泳鏡 3入組",
+                  "id": "8524759",
                   "price": [
-                    38999
+                    399
                   ],
                   "discount": [
-                    9000
+                    100
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260706_1_03.jpg",
-                  "subtitle": "20260706~20260712",
+                  "thumbnail": "/limited/20260713_03.jpg",
+                  "subtitle": "20260713~20260719",
                   "extra": ""
                 },
                 {
-                  "title": "BOSCH 60公分嵌入式洗碗機 SJU4EKW00W 220V",
-                  "id": "153805",
+                  "title": "MONTES 蒙帝斯 智利精選紅葡萄酒",
+                  "id": "46306",
                   "price": [
-                    34999
+                    599
                   ],
                   "discount": [
-                    7000
+                    120
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260706_1_04.jpg",
-                  "subtitle": "20260706~20260712",
+                  "thumbnail": "/limited/20260713_04.jpg",
+                  "subtitle": "20260713~20260719",
                   "extra": ""
                 },
                 {
-                  "title": "SHARP 夏普 觸控式微波爐34公升 R-TT34SS-S",
-                  "id": "157736",
+                  "title": "PURITI 麥蘆卡蜂蜜 UMF12+ 1公斤",
+                  "id": "341664",
                   "price": [
-                    5299
+                    769
                   ],
                   "discount": [
-                    1100
+                    154
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260706_1_05.jpg",
-                  "subtitle": "20260706~20260712",
+                  "thumbnail": "/limited/20260713_05.jpg",
+                  "subtitle": "20260713~20260719",
                   "extra": ""
                 },
                 {
-                  "title": "YUMMY DOTS 享點子 泰式椰奶綠咖哩雞 520公克 2包入",
-                  "id": "146149",
-                  "price": [
-                    369
-                  ],
-                  "discount": [
-                    74
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260706_1_06.jpg",
-                  "subtitle": "20260706~20260712",
-                  "extra": ""
-                },
-                {
-                  "title": "HARIBO 哈瑞寶 明星總動員 Q 軟糖 1000公克",
-                  "id": "243456",
-                  "price": [
-                    439
-                  ],
-                  "discount": [
-                    90
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260706_1_07.jpg",
-                  "subtitle": "20260706~20260712",
-                  "extra": ""
-                },
-                {
-                  "title": "LOTTE 樂天 千層派濃厚巧克力風味 120.4公克 4包入",
-                  "id": "144897",
-                  "price": [
-                    299
-                  ],
-                  "discount": [
-                    60
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260706_1_08.jpg",
-                  "subtitle": "20260706~20260712",
-                  "extra": ""
-                },
-                {
-                  "title": "CARMIEN 南非博士茶 2.5公克 160包入",
-                  "id": "604255",
-                  "price": [
-                    299
-                  ],
-                  "discount": [
-                    60
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260706_1_09.jpg",
-                  "subtitle": "20260706~20260712",
-                  "extra": ""
-                },
-                {
-                  "title": "FIJI 斐濟 天然深層礦泉水 500毫升 24瓶入",
-                  "id": "89839",
-                  "price": [
-                    849
-                  ],
-                  "discount": [
-                    170
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260706_1_10.jpg",
-                  "subtitle": "20260706~20260712",
-                  "extra": ""
-                },
-                {
-                  "title": "CHESDALE 芝司樂 原味高鈣起司球 150公克 2包入",
-                  "id": "100531",
-                  "price": [
-                    299
-                  ],
-                  "discount": [
-                    60
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260706_1_11.jpg",
-                  "subtitle": "20260706~20260712",
-                  "extra": ""
-                },
-                {
-                  "title": "ASAHI 朝日 辛口啤酒 500毫升 16瓶入",
-                  "id": "140627",
+                  "title": "PERSIL 寶瀅 全效能新配方洗衣凝露 4公升",
+                  "id": "493577",
                   "price": [
                     699
                   ],
@@ -185,8 +101,22 @@
                     140
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260706_1_12.jpg",
-                  "subtitle": "20260706~20260712",
+                  "thumbnail": "/limited/20260713_06.jpg",
+                  "subtitle": "20260713~20260719",
+                  "extra": ""
+                },
+                {
+                  "title": "NESTLE 雀巢 美祿牛奶流心雪糕 14枝入",
+                  "id": "351256",
+                  "price": [
+                    339
+                  ],
+                  "discount": [
+                    70
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260713_07.jpg",
+                  "subtitle": "20260713~20260719",
                   "extra": ""
                 }
               ]
@@ -3737,11 +3667,18 @@
       }
     },
     {
-      "title": "賣場展示及試吃活動 20260706~20260712",
+      "title": "新商品預告 20260713~20260719",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260706_102_tb.jpg",
-      "extra": "/limited/20260706_102.jpg"
+      "thumbnail": "/limited/20260713_101_tb.jpg",
+      "extra": "/limited/20260713_101.jpg"
+    },
+    {
+      "title": "賣場展示及試吃活動 20260713~20260719",
+      "subtitle": "20250113~20250119",
+      "type": "webview",
+      "thumbnail": "/limited/20260713_102_tb.jpg",
+      "extra": "/limited/20260713_102.jpg"
     },
     {
       "title": "商品特展活動 20260608~20260802",
