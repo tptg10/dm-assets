@@ -1,5 +1,5 @@
 {
-  "version": "20260305",
+  "version": "20260306",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,124 +7,180 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場精選商品限時優惠 20260713~20260719",
-      "subtitle": "20260713~20260719",
-      "type": "sub",
-      "thumbnail": "/limited/20260713.jpg",
-      "extra": {
-        "display": "passport",
-        "extra": [
-          {
-            "title": "20260713~20260719",
-            "subtitle": "20260713~20260719",
-            "type": "sub|textonly",
-            "thumbnail": "/limited/20260713_1_tb.jpg",
-            "extra": {
-              "extra": [
-                {
-                  "title": "SAMPO 聲寶 吸入式UV捕蚊燈 2入組",
-                  "id": "239152",
-                  "price": [
-                    1699
-                  ],
-                  "discount": [
-                    360
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260713_01.jpg",
-                  "subtitle": "20260713~20260719",
-                  "extra": ""
-                },
-                {
-                  "title": "WILDLAND 速開帳篷",
-                  "id": "1872089",
-                  "price": [
-                    1599
-                  ],
-                  "discount": [
-                    600
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260713_02.jpg",
-                  "subtitle": "20260713~20260719",
-                  "extra": ""
-                },
-                {
-                  "title": "SODE 成人泳鏡 3入組",
-                  "id": "8524759",
-                  "price": [
-                    399
-                  ],
-                  "discount": [
-                    100
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260713_03.jpg",
-                  "subtitle": "20260713~20260719",
-                  "extra": ""
-                },
-                {
-                  "title": "MONTES 蒙帝斯 智利精選紅葡萄酒",
-                  "id": "46306",
-                  "price": [
-                    599
-                  ],
-                  "discount": [
-                    120
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260713_04.jpg",
-                  "subtitle": "20260713~20260719",
-                  "extra": ""
-                },
-                {
-                  "title": "PURITI 麥蘆卡蜂蜜 UMF12+ 1公斤",
-                  "id": "341664",
-                  "price": [
-                    769
-                  ],
-                  "discount": [
-                    154
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260713_05.jpg",
-                  "subtitle": "20260713~20260719",
-                  "extra": ""
-                },
-                {
-                  "title": "PERSIL 寶瀅 全效能新配方洗衣凝露 4公升",
-                  "id": "493577",
-                  "price": [
-                    699
-                  ],
-                  "discount": [
-                    140
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260713_06.jpg",
-                  "subtitle": "20260713~20260719",
-                  "extra": ""
-                },
-                {
-                  "title": "NESTLE 雀巢 美祿牛奶流心雪糕 14枝入",
-                  "id": "351256",
-                  "price": [
-                    339
-                  ],
-                  "discount": [
-                    70
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260713_07.jpg",
-                  "subtitle": "20260713~20260719",
-                  "extra": ""
-                }
-              ]
+  "title": "賣場精選商品限時優惠 20260720~20260726",
+  "subtitle": "20260720~20260726",
+  "type": "sub",
+  "thumbnail": "/limited/20260720.jpg",
+  "extra": {
+    "display": "passport",
+    "extra": [
+      {
+        "title": "20260720~20260726",
+        "subtitle": "20260720~20260726",
+        "type": "sub|textonly",
+        "thumbnail": "/limited/20260720_1_tb.jpg",
+        "extra": {
+          "extra": [
+            {
+              "title": "PHILIPS 飛利浦 75吋 MINILED 顯示器 75MLED800/96",
+              "id": "153514",
+              "price": [
+                44799
+              ],
+              "discount": [
+                9000
+              ],
+              "type": "product",
+              "thumbnail": "/limited/20260720_01.jpg",
+              "subtitle": "20260720~20260726",
+              "extra": ""
+            },
+            {
+              "title": "PHILIPS 飛利浦 攜帶式電鬍刀 RQ901/06",
+              "id": "153334",
+              "price": [
+                5699
+              ],
+              "discount": [
+                1200
+              ],
+              "type": "product",
+              "thumbnail": "/limited/20260720_02.jpg",
+              "subtitle": "20260720~20260726",
+              "extra": ""
+            },
+            {
+              "title": "BRITA 三麗鷗大耳狗 STYLE 純淨濾水壺 3.6公升 附3入 MAXTRA PRO 濾芯",
+              "id": "158746",
+              "price": [
+                1799
+              ],
+              "discount": [
+                360
+              ],
+              "type": "product",
+              "thumbnail": "/limited/20260720_03.jpg",
+              "subtitle": "20260720~20260726",
+              "extra": ""
+            },
+            {
+              "title": "YEBISU 惠比壽 啤酒 500毫升 24罐入",
+              "id": "130822",
+              "price": [
+                1299
+              ],
+              "discount": [
+                230
+              ],
+              "type": "product",
+              "thumbnail": "/limited/20260720_04.jpg",
+              "subtitle": "20260720~20260726",
+              "extra": ""
+            },
+            {
+              "title": "I-MEI MACROBIOTICS 義美生機 甜心草莓 160公克",
+              "id": "144658",
+              "price": [
+                299
+              ],
+              "discount": [
+                60
+              ],
+              "type": "product",
+              "thumbnail": "/limited/20260720_05.jpg",
+              "subtitle": "20260720~20260726",
+              "extra": ""
+            },
+            {
+              "title": "MIZKAN 味滋康 果香柚子醋醬汁 1公升",
+              "id": "132570",
+              "price": [
+                339
+              ],
+              "discount": [
+                70
+              ],
+              "type": "product",
+              "thumbnail": "/limited/20260720_06.jpg",
+              "subtitle": "20260720~20260726",
+              "extra": ""
+            },
+            {
+              "title": "BINGGRAE 草莓牛奶（保久調味乳）200毫升 24瓶入",
+              "id": "298720",
+              "price": [
+                639
+              ],
+              "discount": [
+                130
+              ],
+              "type": "product",
+              "thumbnail": "/limited/20260720_07.jpg",
+              "subtitle": "20260720~20260726",
+              "extra": ""
+            },
+            {
+              "title": "PEPSI 百事 可樂寶特瓶 500毫升 24瓶入",
+              "id": "182488",
+              "price": [
+                399
+              ],
+              "discount": [
+                80
+              ],
+              "type": "product",
+              "thumbnail": "/limited/20260720_08.jpg",
+              "subtitle": "20260720~20260726",
+              "extra": ""
+            },
+            {
+              "title": "SHIH AN FARM 石安牧場 日式茶碗蒸 167公克 10個入",
+              "id": "157485",
+              "price": [
+                289
+              ],
+              "discount": [
+                60
+              ],
+              "type": "product",
+              "thumbnail": "/limited/20260720_09.jpg",
+              "subtitle": "20260720~20260726",
+              "extra": ""
+            },
+            {
+              "title": "NAMCHOW 南僑 冷凍刀削麵 200公克 10包入",
+              "id": "157737",
+              "price": [
+                269
+              ],
+              "discount": [
+                54
+              ],
+              "type": "product",
+              "thumbnail": "/limited/20260720_10.jpg",
+              "subtitle": "20260720~20260726",
+              "extra": ""
+            },
+            {
+              "title": "T-HAM 台畜 冷藏泰式打拋風味豬 350公克 3包入",
+              "id": "140840",
+              "price": [
+                449
+              ],
+              "discount": [
+                90
+              ],
+              "type": "product",
+              "thumbnail": "/limited/20260720_11.jpg",
+              "subtitle": "20260720~20260726",
+              "extra": ""
             }
-          }
-        ]
+          ]
+        }
       }
-    },
+    ]
+  }
+},
     {
       "title": "新高雄店開幕專屬優惠 20260703~20260830",
       "subtitle": "20260703~20260705",
@@ -3667,25 +3723,25 @@
       }
     },
     {
-      "title": "新商品預告 20260713~20260719",
+      "title": "新商品預告 20260720~20260726",
       "subtitle": "20250113~20250119",
       "type": "webview",
       "thumbnail": "/limited/20260713_101_tb.jpg",
       "extra": "/limited/20260713_101.jpg"
     },
     {
-      "title": "賣場展示及試吃活動 20260713~20260719",
+      "title": "賣場展示及試吃活動 20260720~20260726",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260713_102_tb.jpg",
-      "extra": "/limited/20260713_102.jpg"
+      "thumbnail": "/limited/20260720_102_tb.jpg",
+      "extra": "/limited/20260720_102.jpg"
     },
     {
-      "title": "商品特展活動 20260608~20260802",
+      "title": "商品特展活動 20260706~20260806",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260615_104_tb.jpg",
-      "extra": "/limited/20260615_104.jpg"
+      "thumbnail": "/limited/20260720_103_tb.jpg",
+      "extra": "/limited/20260720_103.jpg"
     }
   ],
   "promotion": [
