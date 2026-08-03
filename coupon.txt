@@ -1,5 +1,5 @@
 {
-  "version": "20260311",
+  "version": "20260312",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -163,7 +163,7 @@
       "title": "中元普渡加檔優惠 20260803~20260830",
       "subtitle": "20260803~20260830",
       "type": "sub",
-      "thumbnail": "/limited/20260803_2000.jpg",
+      "thumbnail": "/limited/20260803_3000.jpg",
       "extra": {
         "display": "passport",
         "extra": [
@@ -171,7 +171,7 @@
             "title": "20260803~20260830",
             "subtitle": "20260803~20260830",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260803_2000_1_tb.jpg",
+            "thumbnail": "/limited/20260803_3000_1_tb.jpg",
             "extra": {
               "extra": [
                 {
@@ -198,7 +198,7 @@
                     80
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260803_2000_02.jpg",
+                  "thumbnail": "/limited/20260803_3000_02.jpg",
                   "subtitle": "20260803~20260830",
                   "extra": ""
                 },
@@ -212,7 +212,7 @@
                     70
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260803_2000_03.jpg",
+                  "thumbnail": "/limited/20260803_3000_03.jpg",
                   "subtitle": "20260803~20260830",
                   "extra": ""
                 },
@@ -226,7 +226,7 @@
                     60
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260803_2000_04.jpg",
+                  "thumbnail": "/limited/20260803_3000_04.jpg",
                   "subtitle": "20260803~20260830",
                   "extra": ""
                 },
@@ -240,7 +240,7 @@
                     80
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260803_2000_05.jpg",
+                  "thumbnail": "/limited/20260803_3000_05.jpg",
                   "subtitle": "20260803~20260830",
                   "extra": ""
                 },
@@ -254,7 +254,7 @@
                     100
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260803_2000_06.jpg",
+                  "thumbnail": "/limited/20260803_3000_06.jpg",
                   "subtitle": "20260803~20260830",
                   "extra": ""
                 },
@@ -268,7 +268,7 @@
                     110
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260803_2000_07.jpg",
+                  "thumbnail": "/limited/20260803_3000_07.jpg",
                   "subtitle": "20260803~20260830",
                   "extra": ""
                 },
@@ -282,7 +282,7 @@
                     110
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260803_2000_08.jpg",
+                  "thumbnail": "/limited/20260803_3000_08.jpg",
                   "subtitle": "20260803~20260830",
                   "extra": ""
                 },
@@ -296,7 +296,7 @@
                     60
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260803_2000_09.jpg",
+                  "thumbnail": "/limited/20260803_3000_09.jpg",
                   "subtitle": "20260803~20260830",
                   "extra": ""
                 },
@@ -310,7 +310,7 @@
                     110
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260803_2000_10.jpg",
+                  "thumbnail": "/limited/20260803_3000_10.jpg",
                   "subtitle": "20260803~20260830",
                   "extra": ""
                 },
@@ -324,7 +324,7 @@
                     110
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260803_2000_11.jpg",
+                  "thumbnail": "/limited/20260803_3000_11.jpg",
                   "subtitle": "20260803~20260830",
                   "extra": ""
                 },
@@ -338,7 +338,7 @@
                     60
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260803_2000_12.jpg",
+                  "thumbnail": "/limited/20260803_3000_12.jpg",
                   "subtitle": "20260803~20260830",
                   "extra": ""
                 },
@@ -352,7 +352,7 @@
                     300
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260803_2000_13.jpg",
+                  "thumbnail": "/limited/20260803_3000_13.jpg",
                   "subtitle": "20260803~20260830",
                   "extra": ""
                 }
@@ -366,7 +366,7 @@
       "title": "中秋加檔優惠 20260831~20260927",
       "subtitle": "20260831~20260927",
       "type": "sub",
-      "thumbnail": "/limited/20260831_2000.jpg",
+      "thumbnail": "/limited/20260831_3000.jpg",
       "extra": {
         "display": "passport",
         "extra": [
@@ -387,7 +387,7 @@
                     50
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260831_2000_01.jpg",
+                  "thumbnail": "/limited/20260831_3000_01.jpg",
                   "subtitle": "20260831~20260927",
                   "extra": ""
                 },
@@ -401,7 +401,7 @@
                     80
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260831_2000_02.jpg",
+                  "thumbnail": "/limited/20260831_3000_02.jpg",
                   "subtitle": "20260831~20260927",
                   "extra": ""
                 },
@@ -415,7 +415,7 @@
                     100
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260831_2000_03.jpg",
+                  "thumbnail": "/limited/20260831_3000_03.jpg",
                   "subtitle": "20260831~20260927",
                   "extra": ""
                 },
@@ -429,7 +429,7 @@
                     95
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260831_2000_04.jpg",
+                  "thumbnail": "/limited/20260831_3000_04.jpg",
                   "subtitle": "20260831~20260927",
                   "extra": ""
                 },
@@ -443,7 +443,7 @@
                     100
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260831_2000_05.jpg",
+                  "thumbnail": "/limited/20260831_3000_05.jpg",
                   "subtitle": "20260831~20260927",
                   "extra": ""
                 },
@@ -457,7 +457,7 @@
                     70
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260831_2000_06.jpg",
+                  "thumbnail": "/limited/20260831_3000_06.jpg",
                   "subtitle": "20260831~20260927",
                   "extra": ""
                 },
@@ -471,7 +471,7 @@
                     70
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260831_2000_07.jpg",
+                  "thumbnail": "/limited/20260831_3000_07.jpg",
                   "subtitle": "20260831~20260927",
                   "extra": ""
                 },
@@ -485,7 +485,7 @@
                     140
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260831_2000_08.jpg",
+                  "thumbnail": "/limited/20260831_3000_08.jpg",
                   "subtitle": "20260831~20260927",
                   "extra": ""
                 },
@@ -497,7 +497,7 @@
                     150
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260831_2000_09.jpg",
+                  "thumbnail": "/limited/20260831_3000_09.jpg",
                   "subtitle": "20260831~20260927",
                   "extra": "每公斤省下150元，圖片未標示原價"
                 },
@@ -511,7 +511,7 @@
                     80
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260831_2000_10.jpg",
+                  "thumbnail": "/limited/20260831_3000_10.jpg",
                   "subtitle": "20260831~20260927",
                   "extra": "每公斤計價"
                 },
@@ -525,7 +525,7 @@
                     51
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260831_2000_11.jpg",
+                  "thumbnail": "/limited/20260831_3000_11.jpg",
                   "subtitle": "20260831~20260927",
                   "extra": "每公斤計價"
                 },
@@ -539,7 +539,7 @@
                     100
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260831_2000_12.jpg",
+                  "thumbnail": "/limited/20260831_3000_12.jpg",
                   "subtitle": "20260831~20260927",
                   "extra": ""
                 },
@@ -553,7 +553,7 @@
                     400
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260831_2000_13.jpg",
+                  "thumbnail": "/limited/20260831_3000_13.jpg",
                   "subtitle": "20260831~20260927",
                   "extra": ""
                 },
@@ -567,7 +567,7 @@
                     100
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260831_2000_14.jpg",
+                  "thumbnail": "/limited/20260831_3000_14.jpg",
                   "subtitle": "20260831~20260927",
                   "extra": ""
                 },
@@ -581,7 +581,7 @@
                     140
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260831_2000_15.jpg",
+                  "thumbnail": "/limited/20260831_3000_15.jpg",
                   "subtitle": "20260831~20260927",
                   "extra": ""
                 },
@@ -593,7 +593,7 @@
                     70
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260831_2000_16.jpg",
+                  "thumbnail": "/limited/20260831_3000_16.jpg",
                   "subtitle": "20260831~20260927",
                   "extra": "省下70元，圖片未標示原價"
                 },
@@ -607,7 +607,7 @@
                     200
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260831_2000_17.jpg",
+                  "thumbnail": "/limited/20260831_3000_17.jpg",
                   "subtitle": "20260831~20260927",
                   "extra": ""
                 }
