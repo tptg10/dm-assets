@@ -1,5 +1,5 @@
 {
-  "version": "20260312",
+  "version": "20260313",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -184,7 +184,7 @@
                     60
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260803_1001.jpg",
+                  "thumbnail": "/limited/20260803_3000_01.jpg",
                   "subtitle": "20260803~20260830",
                   "extra": ""
                 },
