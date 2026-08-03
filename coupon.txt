@@ -1,5 +1,5 @@
 {
-  "version": "20260308",
+  "version": "20260309",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,65 +7,127 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場精選商品限時優惠 20260727~20260802",
-      "subtitle": "20260727~20260802",
+      "title": "賣場精選商品限時優惠 20260803~20260809",
+      "subtitle": "20260803~20260809",
       "type": "sub",
-      "thumbnail": "/limited/20260727.jpg",
+      "thumbnail": "/limited/20260803.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20260727~20260802",
-            "subtitle": "20260727~20260802",
+            "title": "20260803~20260809",
+            "subtitle": "20260803~20260809",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260727_1_tb.jpg",
+            "thumbnail": "/limited/20260803_1_tb.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "PHILIPS 飛利浦 品玥 SELENE 檯燈 LED DESK LAMP",
-                  "id": "155117",
+                  "title": "CARRIER 開利 變頻冷暖一對一分離式冷氣 2.8KW",
+                  "id": "147774",
                   "price": [
-                    1499
+                    23999,
+                    30499,
+                    37499,
+                    53299
                   ],
                   "discount": [
-                    310
+                    3600,
+                    4600,
+                    5700,
+                    8000
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260727_01.jpg",
-                  "subtitle": "20260727~20260802",
+                  "thumbnail": "/limited/20260803_01.jpg",
+                  "subtitle": "20260803~20260809",
                   "extra": ""
                 },
                 {
-                  "title": "PANASONIC 光電式煙霧偵測警報器 2入組",
-                  "id": "132217",
+                  "title": "SAMPO 聲寶 16吋 AC 電扇",
+                  "id": "158738",
                   "price": [
-                    1569
+                    1289
                   ],
                   "discount": [
-                    400
+                    300
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260727_02.jpg",
-                  "subtitle": "20260727~20260802",
+                  "thumbnail": "/limited/20260803_02.jpg",
+                  "subtitle": "20260803~20260809",
                   "extra": ""
                 },
                 {
-                  "title": "VILSON 米森 乳酸菌咬咬草莓優格 每包10公克 12包入",
-                  "id": "860660",
+                  "title": "PHILIPS 飛利浦 65吋 4K 螢幕喇叭組",
+                  "id": "153517",
                   "price": [
-                    399
+                    20899
                   ],
                   "discount": [
-                    80
+                    4200
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260727_03.jpg",
-                  "subtitle": "20260727~20260802",
+                  "thumbnail": "/limited/20260803_03.jpg",
+                  "subtitle": "20260803~20260809",
                   "extra": ""
                 },
                 {
-                  "title": "CUNE 庫尼 珍藏紅酒 RIOJA RESERVE 750毫升",
-                  "id": "113033",
+                  "title": "SAMSUNG 三星 50吋 QLED 顯示器",
+                  "id": "153530",
+                  "price": [
+                    14999
+                  ],
+                  "discount": [
+                    3000
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260803_04.jpg",
+                  "subtitle": "20260803~20260809",
+                  "extra": ""
+                },
+                {
+                  "title": "IWATANI 岩谷 無煙燒烤卡式爐",
+                  "id": "160067",
+                  "price": [
+                    1899
+                  ],
+                  "discount": [
+                    500
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260803_05.jpg",
+                  "subtitle": "20260803~20260809",
+                  "extra": ""
+                },
+                {
+                  "title": "ORION 奧利恩 啤酒組麥職人 + THE DRAFT 24罐",
+                  "id": "161149",
+                  "price": [
+                    999
+                  ],
+                  "discount": [
+                    200
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260803_06.jpg",
+                  "subtitle": "20260803~20260809",
+                  "extra": ""
+                },
+                {
+                  "title": "MAN FAMILY WINES 南非紅葡萄酒 SHIRAZ 750毫升",
+                  "id": "74940",
+                  "price": [
+                    249
+                  ],
+                  "discount": [
+                    50
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260803_07.jpg",
+                  "subtitle": "20260803~20260809",
+                  "extra": ""
+                },
+                {
+                  "title": "A&W 沙士汽水 325毫升 24罐",
+                  "id": "316384",
                   "price": [
                     549
                   ],
@@ -73,22 +135,480 @@
                     110
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260727_04.jpg",
-                  "subtitle": "20260727~20260802",
+                  "thumbnail": "/limited/20260803_08.jpg",
+                  "subtitle": "20260803~20260809",
                   "extra": ""
                 },
                 {
-                  "title": "SEEDS 惜時 雞肉里肌長片 每包250公克 4包入",
-                  "id": "60574",
+                  "title": "MEGARED 濃縮純淨藻油 OMEGA-3 軟膠囊 50顆",
+                  "id": "142926",
                   "price": [
-                    879
+                    1279
                   ],
                   "discount": [
-                    180
+                    260
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260727_05.jpg",
-                  "subtitle": "20260727~20260802",
+                  "thumbnail": "/limited/20260803_09.jpg",
+                  "subtitle": "20260803~20260809",
+                  "extra": ""
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "title": "中元普渡加檔優惠 20260803~20260830",
+      "subtitle": "20260803~20260830",
+      "type": "sub",
+      "thumbnail": "/limited/20260803_1000.jpg",
+      "extra": {
+        "display": "passport",
+        "extra": [
+          {
+            "title": "20260803~20260830",
+            "subtitle": "20260803~20260830",
+            "type": "sub|textonly",
+            "thumbnail": "/limited/20260803_1000_1_tb.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "TRYGOODZ 翠菓子 古早味手工黑芝麻糕 共480公克",
+                  "id": "888688",
+                  "price": [
+                    299
+                  ],
+                  "discount": [
+                    60
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260803_1001.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "星太郎 點心麵雞汁口味 每包100公克 15包入",
+                  "id": "132416",
+                  "price": [
+                    399
+                  ],
+                  "discount": [
+                    80
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260803_1000_02.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "WANT WANT 旺旺 嚴選米果 共827公克",
+                  "id": "120108",
+                  "price": [
+                    345
+                  ],
+                  "discount": [
+                    70
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260803_1000_03.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "KUNG FU 大拙匠人 青花椒香麻麵 每包110公克 10包入",
+                  "id": "153418",
+                  "price": [
+                    299
+                  ],
+                  "discount": [
+                    60
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260803_1000_04.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "KOH 西瓜椰子水 每瓶1公升 6瓶入",
+                  "id": "223326",
+                  "price": [
+                    399
+                  ],
+                  "discount": [
+                    80
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260803_1000_05.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "FRESCAFINA 嘉紛娜 100%橙香多酚蔬果汁 每瓶250毫升 24瓶入",
+                  "id": "111424",
+                  "price": [
+                    499
+                  ],
+                  "discount": [
+                    100
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260803_1000_06.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "LIN TSUNG MING 林聰明 沙鍋菜豆腐煲 每包800公克 3包入",
+                  "id": "154468",
+                  "price": [
+                    539
+                  ],
+                  "discount": [
+                    110
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260803_1000_07.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "VIRTUES WORSHIP 崇德發 黑麥汁易開罐 每罐500毫升 18罐入",
+                  "id": "206346",
+                  "price": [
+                    549
+                  ],
+                  "discount": [
+                    110
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260803_1000_08.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "BESSIE BYER 貝思寶兒 蜜桃果茶 每瓶330毫升 24瓶入",
+                  "id": "124420",
+                  "price": [
+                    299
+                  ],
+                  "discount": [
+                    60
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260803_1000_09.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "GEORGIA 喬亞 阿拉比卡無糖黑咖啡 每瓶350毫升 24瓶入",
+                  "id": "153892",
+                  "price": [
+                    529
+                  ],
+                  "discount": [
+                    110
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260803_1000_10.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "GLAD 佳能 PE保鮮膜 2入",
+                  "id": "210732",
+                  "price": [
+                    549
+                  ],
+                  "discount": [
+                    110
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260803_1000_11.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "SCHWEPPES 舒味思 萊姆口味氣泡水 每瓶330毫升 24瓶入",
+                  "id": "338901",
+                  "price": [
+                    299
+                  ],
+                  "discount": [
+                    60
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260803_1000_12.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                },
+                {
+                  "title": "LIFETIME 工業級六呎折疊桌 尺寸約183 × 76 × 74公分",
+                  "id": "1375005",
+                  "price": [
+                    1499
+                  ],
+                  "discount": [
+                    300
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260803_1000_13.jpg",
+                  "subtitle": "20260803~20260830",
+                  "extra": ""
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "title": "中秋加檔優惠 20260831~20260927",
+      "subtitle": "20260831~20260927",
+      "type": "sub",
+      "thumbnail": "/limited/20260831_1000.jpg",
+      "extra": {
+        "display": "passport",
+        "extra": [
+          {
+            "title": "20260831~20260927",
+            "subtitle": "20260831~20260927",
+            "type": "sub|textonly",
+            "thumbnail": "/limited/20260831_1_tb.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "CJ 韓式醃烤調味醬 每瓶840公克 2瓶入",
+                  "id": "39053",
+                  "price": [
+                    229
+                  ],
+                  "discount": [
+                    50
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260831_1000_01.jpg",
+                  "subtitle": "20260831~20260927",
+                  "extra": ""
+                },
+                {
+                  "title": "IF 純椰子汁 每瓶1公升 6瓶入",
+                  "id": "145957",
+                  "price": [
+                    389
+                  ],
+                  "discount": [
+                    80
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260831_1000_02.jpg",
+                  "subtitle": "20260831~20260927",
+                  "extra": ""
+                },
+                {
+                  "title": "CHA WU LE 茶屋樂 將軍牛蒡茶 每包5公克 60包入",
+                  "id": "106150",
+                  "price": [
+                    459
+                  ],
+                  "discount": [
+                    100
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260831_1000_03.jpg",
+                  "subtitle": "20260831~20260927",
+                  "extra": ""
+                },
+                {
+                  "title": "DACHAN 大成 冷凍炙烤雞肉串 480公克",
+                  "id": "8500806",
+                  "price": [
+                    459
+                  ],
+                  "discount": [
+                    95
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260831_1000_04.jpg",
+                  "subtitle": "20260831~20260927",
+                  "extra": ""
+                },
+                {
+                  "title": "E BEN 一本 有機生康普茶綜合組 檸萃與黃金柚 每瓶475毫升 8瓶入",
+                  "id": "158986",
+                  "price": [
+                    469
+                  ],
+                  "discount": [
+                    100
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260831_1000_05.jpg",
+                  "subtitle": "20260831~20260927",
+                  "extra": ""
+                },
+                {
+                  "title": "T-HAM 台畜 冷藏豬肉香腸 1公斤",
+                  "id": "42452",
+                  "price": [
+                    349
+                  ],
+                  "discount": [
+                    70
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260831_1000_06.jpg",
+                  "subtitle": "20260831~20260927",
+                  "extra": ""
+                },
+                {
+                  "title": "T-HAM 台畜 蒜味豬肉香腸 1公斤",
+                  "id": "42175",
+                  "price": [
+                    349
+                  ],
+                  "discount": [
+                    70
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260831_1000_07.jpg",
+                  "subtitle": "20260831~20260927",
+                  "extra": ""
+                },
+                {
+                  "title": "戀戀蚵仔寮 冷藏即食炭烤烏魚子 150公克",
+                  "id": "128957",
+                  "price": [
+                    639
+                  ],
+                  "discount": [
+                    140
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260831_1000_08.jpg",
+                  "subtitle": "20260831~20260927",
+                  "extra": ""
+                },
+                {
+                  "title": "KIRKLAND SIGNATURE 科克蘭 美國特選無骨牛小排燒烤片",
+                  "id": "10727",
+                  "price": [],
+                  "discount": [
+                    150
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260831_1000_09.jpg",
+                  "subtitle": "20260831~20260927",
+                  "extra": "每公斤省下150元，圖片未標示原價"
+                },
+                {
+                  "title": "TAIAN 泰安 T-HAM 台畜 台灣冷凍豬五花厚切燒烤片",
+                  "id": "146501",
+                  "price": [
+                    379
+                  ],
+                  "discount": [
+                    80
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260831_1000_10.jpg",
+                  "subtitle": "20260831~20260927",
+                  "extra": "每公斤計價"
+                },
+                {
+                  "title": "KIRKLAND SIGNATURE 科克蘭 辣味醋蘿蔔",
+                  "id": "116666",
+                  "price": [
+                    249
+                  ],
+                  "discount": [
+                    51
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260831_1000_11.jpg",
+                  "subtitle": "20260831~20260927",
+                  "extra": "每公斤計價"
+                },
+                {
+                  "title": "薄鹽白腹鯖魚片 800公克",
+                  "id": "463663",
+                  "price": [
+                    499
+                  ],
+                  "discount": [
+                    100
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260831_1000_12.jpg",
+                  "subtitle": "20260831~20260927",
+                  "extra": ""
+                },
+                {
+                  "title": "熟凍松葉蟹拼盤 600公克",
+                  "id": "415653/515653",
+                  "price": [
+                    1699
+                  ],
+                  "discount": [
+                    400
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260831_1000_13.jpg",
+                  "subtitle": "20260831~20260927",
+                  "extra": ""
+                },
+                {
+                  "title": "魷魚串 6入",
+                  "id": "101333",
+                  "price": [
+                    499
+                  ],
+                  "discount": [
+                    100
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260831_1000_14.jpg",
+                  "subtitle": "20260831~20260927",
+                  "extra": ""
+                },
+                {
+                  "title": "ASC 冷凍吳郭魚片 1.3公斤",
+                  "id": "484596",
+                  "price": [
+                    699
+                  ],
+                  "discount": [
+                    140
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260831_1000_15.jpg",
+                  "subtitle": "20260831~20260927",
+                  "extra": ""
+                },
+                {
+                  "title": "產銷履歷文旦 3公斤",
+                  "id": "84283",
+                  "price": [],
+                  "discount": [
+                    70
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260831_1000_16.jpg",
+                  "subtitle": "20260831~20260927",
+                  "extra": "省下70元，圖片未標示原價"
+                },
+                {
+                  "title": "SUNMAI 金色三麥 蜂蜜啤酒綜合組 每瓶350毫升 12瓶入",
+                  "id": "146031",
+                  "price": [
+                    999
+                  ],
+                  "discount": [
+                    200
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260831_1000_17.jpg",
+                  "subtitle": "20260831~20260927",
                   "extra": ""
                 }
               ]
@@ -3639,25 +4159,25 @@
       }
     },
     {
-      "title": "新商品預告 20260727~20260802",
+      "title": "新商品預告 20260803~20260809",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260727_101_tb.jpg",
-      "extra": "/limited/20260727_101.jpg"
+      "thumbnail": "/limited/20260803_101_tb.jpg",
+      "extra": "/limited/20260803_101.jpg"
     },
     {
-      "title": "賣場展示及試吃活動 20260727~20260802",
+      "title": "賣場展示及試吃活動 20260803~20260809",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260727_102_tb.jpg",
-      "extra": "/limited/20260727_102.jpg"
+      "thumbnail": "/limited/20260803_102_tb.jpg",
+      "extra": "/limited/20260803_102.jpg"
     },
     {
-      "title": "商品特展活動 20260706~20260806",
+      "title": "商品特展活動 20260803~20260903",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260720_103_tb.jpg",
-      "extra": "/limited/20260720_103.jpg"
+      "thumbnail": "/limited/20260803_103_tb.jpg",
+      "extra": "/limited/20260803_103.jpg"
     }
   ],
   "promotion": [
