@@ -1,5 +1,5 @@
 {
-  "version": "20260316",
+  "version": "20260317",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,127 +7,65 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場精選商品限時優惠 20260803~20260809",
-      "subtitle": "20260803~20260809",
+      "title": "賣場精選商品限時優惠 20260810~20260816",
+      "subtitle": "20260810~20260816",
       "type": "sub",
-      "thumbnail": "/limited/20260803.jpg",
+      "thumbnail": "/limited/20260810.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20260803~20260809",
-            "subtitle": "20260803~20260809",
+            "title": "20260810~20260816",
+            "subtitle": "20260810~20260816",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260803_1_tb.jpg",
+            "thumbnail": "/limited/20260810_1_tb.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "CARRIER 開利 變頻冷暖一對一分離式冷氣 2.8KW",
-                  "id": "147774",
+                  "title": "HADA LABO 肌研 H.A. 極致保濕精華 每瓶30毫升 2瓶入",
+                  "id": "158790",
                   "price": [
-                    23999,
-                    30499,
-                    37499,
-                    53299
+                    899
                   ],
                   "discount": [
-                    3600,
-                    4600,
-                    5700,
-                    8000
+                    180
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260803_01.jpg",
-                  "subtitle": "20260803~20260809",
+                  "thumbnail": "/limited/20260810_01.jpg",
+                  "subtitle": "20260810~20260816",
                   "extra": ""
                 },
                 {
-                  "title": "SAMPO 聲寶 16吋 AC 電扇",
-                  "id": "158738",
+                  "title": "WEIDER 威德 納豆紅麴 120粒",
+                  "id": "994805",
                   "price": [
-                    1289
+                    1049
                   ],
                   "discount": [
-                    300
+                    210
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260803_02.jpg",
-                  "subtitle": "20260803~20260809",
+                  "thumbnail": "/limited/20260810_02.jpg",
+                  "subtitle": "20260810~20260816",
                   "extra": ""
                 },
                 {
-                  "title": "PHILIPS 飛利浦 65吋 4K 螢幕喇叭組",
-                  "id": "153517",
+                  "title": "CASA 單人乳膠床墊 91×190公分",
+                  "id": "38429",
                   "price": [
-                    20899
+                    1339
                   ],
                   "discount": [
-                    4200
+                    270
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260803_03.jpg",
-                  "subtitle": "20260803~20260809",
-                  "extra": ""
+                  "thumbnail": "/limited/20260810_03.jpg",
+                  "subtitle": "20260810~20260816",
+                  "extra": "商品實際尺寸以賣場陳列為準。"
                 },
                 {
-                  "title": "SAMSUNG 三星 50吋 QLED 顯示器",
-                  "id": "153530",
-                  "price": [
-                    14999
-                  ],
-                  "discount": [
-                    3000
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260803_04.jpg",
-                  "subtitle": "20260803~20260809",
-                  "extra": ""
-                },
-                {
-                  "title": "IWATANI 岩谷 無煙燒烤卡式爐",
-                  "id": "160067",
-                  "price": [
-                    1899
-                  ],
-                  "discount": [
-                    500
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260803_05.jpg",
-                  "subtitle": "20260803~20260809",
-                  "extra": ""
-                },
-                {
-                  "title": "ORION 奧利恩 啤酒組麥職人 + THE DRAFT 24罐",
-                  "id": "161149",
-                  "price": [
-                    999
-                  ],
-                  "discount": [
-                    200
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260803_06.jpg",
-                  "subtitle": "20260803~20260809",
-                  "extra": ""
-                },
-                {
-                  "title": "MAN FAMILY WINES 南非紅葡萄酒 SHIRAZ 750毫升",
-                  "id": "74940",
-                  "price": [
-                    249
-                  ],
-                  "discount": [
-                    50
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260803_07.jpg",
-                  "subtitle": "20260803~20260809",
-                  "extra": ""
-                },
-                {
-                  "title": "A&W 沙士汽水 325毫升 24罐",
-                  "id": "316384",
+                  "title": "BEE CHENG HIANG 美珍香 休閒雞肉乾 400公克",
+                  "id": "143002",
                   "price": [
                     549
                   ],
@@ -135,22 +73,92 @@
                     110
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260803_08.jpg",
-                  "subtitle": "20260803~20260809",
+                  "thumbnail": "/limited/20260810_04.jpg",
+                  "subtitle": "20260810~20260816",
+                  "extra": "商品實際內容以賣場實物為準。"
+                },
+                {
+                  "title": "GREEN NUT 焦糖核桃 800公克",
+                  "id": "669820",
+                  "price": [
+                    499
+                  ],
+                  "discount": [
+                    100
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260810_05.jpg",
+                  "subtitle": "20260810~20260816",
                   "extra": ""
                 },
                 {
-                  "title": "MEGARED 濃縮純淨藻油 OMEGA-3 軟膠囊 50顆",
-                  "id": "142926",
+                  "title": "YJC 元進莊 冷藏麻辣綜合滷味 960公克",
+                  "id": "155601",
                   "price": [
-                    1279
+                    469
                   ],
                   "discount": [
-                    260
+                    100
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260803_09.jpg",
-                  "subtitle": "20260803~20260809",
+                  "thumbnail": "/limited/20260810_06.jpg",
+                  "subtitle": "20260810~20260816",
+                  "extra": ""
+                },
+                {
+                  "title": "MAN FAMILY WINES 南非白葡萄酒 CHENIN BLANC 750毫升",
+                  "id": "69378",
+                  "price": [
+                    239
+                  ],
+                  "discount": [
+                    50
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260810_07.jpg",
+                  "subtitle": "20260810~20260816",
+                  "extra": ""
+                },
+                {
+                  "title": "BREF 妙力 懸掛式馬桶清潔球 50公克×3入×6組",
+                  "id": "334160",
+                  "price": [
+                    699
+                  ],
+                  "discount": [
+                    140
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260810_08.jpg",
+                  "subtitle": "20260810~20260816",
+                  "extra": ""
+                },
+                {
+                  "title": "LET-GREEN 立得清 75% 酒精擦濕巾隨身包 12抽×36包入",
+                  "id": "154316",
+                  "price": [
+                    425
+                  ],
+                  "discount": [
+                    85
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260810_09.jpg",
+                  "subtitle": "20260810~20260816",
+                  "extra": ""
+                },
+                {
+                  "title": "VILSON 米森 好菌搖搖有機兒茶素綠茶 每包2公克 30包入",
+                  "id": "140811",
+                  "price": [
+                    459
+                  ],
+                  "discount": [
+                    100
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260810_10.jpg",
+                  "subtitle": "20260810~20260816",
                   "extra": ""
                 }
               ]
@@ -5967,18 +5975,18 @@
       }
     },
     {
-      "title": "新商品預告 20260803~20260809",
+      "title": "新商品預告 20260810~20260816",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260803_101_tb.jpg",
-      "extra": "/limited/20260803_101.jpg"
+      "thumbnail": "/limited/20260810_101_tb.jpg",
+      "extra": "/limited/20260810_101.jpg"
     },
     {
-      "title": "賣場展示及試吃活動 20260803~20260809",
+      "title": "賣場展示及試吃活動 20260810~20260816",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260803_102_tb.jpg",
-      "extra": "/limited/20260803_102.jpg"
+      "thumbnail": "/limited/20260810_102_tb.jpg",
+      "extra": "/limited/20260810_102.jpg"
     },
     {
       "title": "商品特展活動 20260803~20260903",
