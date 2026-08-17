@@ -1,5 +1,5 @@
 {
-  "version": "20260317",
+  "version": "20260319",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -7,23 +7,65 @@
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
     {
-      "title": "賣場精選商品限時優惠 20260810~20260816",
-      "subtitle": "20260810~20260816",
+      "title": "賣場精選商品限時優惠 20260817~20260823",
+      "subtitle": "20260817~20260823",
       "type": "sub",
-      "thumbnail": "/limited/20260810.jpg",
+      "thumbnail": "/limited/20260817.jpg",
       "extra": {
         "display": "passport",
         "extra": [
           {
-            "title": "20260810~20260816",
-            "subtitle": "20260810~20260816",
+            "title": "20260817~20260823",
+            "subtitle": "20260817~20260823",
             "type": "sub|textonly",
-            "thumbnail": "/limited/20260810_1_tb.jpg",
+            "thumbnail": "/limited/20260817_1_tb.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "HADA LABO 肌研 H.A. 極致保濕精華 每瓶30毫升 2瓶入",
-                  "id": "158790",
+                  "title": "SAMSUNG 三星 65吋 QLED 顯示器",
+                  "id": "153528",
+                  "price": [
+                    24999
+                  ],
+                  "discount": [
+                    5000
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260817_01.jpg",
+                  "subtitle": "20260817~20260823",
+                  "extra": ""
+                },
+                {
+                  "title": "NINJA 氣炸燒烤爐",
+                  "id": "157725",
+                  "price": [
+                    9879
+                  ],
+                  "discount": [
+                    2000
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260817_02.jpg",
+                  "subtitle": "20260817~20260823",
+                  "extra": ""
+                },
+                {
+                  "title": "PHILIPS 飛利浦 無線重低音杜比全景聲聲霸 2.1 CH SOUNDBAR",
+                  "id": "147918",
+                  "price": [
+                    7499
+                  ],
+                  "discount": [
+                    1560
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260817_03.jpg",
+                  "subtitle": "20260817~20260823",
+                  "extra": ""
+                },
+                {
+                  "title": "WEIDER 威德 雙茶花速崩錠 210錠",
+                  "id": "993600",
                   "price": [
                     899
                   ],
@@ -31,134 +73,50 @@
                     180
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260810_01.jpg",
-                  "subtitle": "20260810~20260816",
+                  "thumbnail": "/limited/20260817_04.jpg",
+                  "subtitle": "20260817~20260823",
                   "extra": ""
                 },
                 {
-                  "title": "WEIDER 威德 納豆紅麴 120粒",
-                  "id": "994805",
+                  "title": "XIMAI 興麥 牛奶醬菠蘿泡芙 96公克×6包入",
+                  "id": "149528",
                   "price": [
-                    1049
+                    339
                   ],
                   "discount": [
-                    210
+                    70
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260810_02.jpg",
-                  "subtitle": "20260810~20260816",
+                  "thumbnail": "/limited/20260817_05.jpg",
+                  "subtitle": "20260817~20260823",
                   "extra": ""
                 },
                 {
-                  "title": "CASA 單人乳膠床墊 91×190公分",
-                  "id": "38429",
+                  "title": "OVEJA NEGRA 智利紅葡萄酒 CARMENERE 750毫升",
+                  "id": "146045",
                   "price": [
-                    1339
+                    379
                   ],
                   "discount": [
-                    270
+                    80
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260810_03.jpg",
-                  "subtitle": "20260810~20260816",
-                  "extra": "商品實際尺寸以賣場陳列為準。"
-                },
-                {
-                  "title": "BEE CHENG HIANG 美珍香 休閒雞肉乾 400公克",
-                  "id": "143002",
-                  "price": [
-                    549
-                  ],
-                  "discount": [
-                    110
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260810_04.jpg",
-                  "subtitle": "20260810~20260816",
-                  "extra": "商品實際內容以賣場實物為準。"
-                },
-                {
-                  "title": "GREEN NUT 焦糖核桃 800公克",
-                  "id": "669820",
-                  "price": [
-                    499
-                  ],
-                  "discount": [
-                    100
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260810_05.jpg",
-                  "subtitle": "20260810~20260816",
+                  "thumbnail": "/limited/20260817_06.jpg",
+                  "subtitle": "20260817~20260823",
                   "extra": ""
                 },
                 {
-                  "title": "YJC 元進莊 冷藏麻辣綜合滷味 960公克",
-                  "id": "155601",
+                  "title": "FUTONG 富統 冷藏迷迭香雞腿排 1公斤",
+                  "id": "45181",
                   "price": [
-                    469
+                    329
                   ],
                   "discount": [
-                    100
+                    69
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260810_06.jpg",
-                  "subtitle": "20260810~20260816",
-                  "extra": ""
-                },
-                {
-                  "title": "MAN FAMILY WINES 南非白葡萄酒 CHENIN BLANC 750毫升",
-                  "id": "69378",
-                  "price": [
-                    239
-                  ],
-                  "discount": [
-                    50
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260810_07.jpg",
-                  "subtitle": "20260810~20260816",
-                  "extra": ""
-                },
-                {
-                  "title": "BREF 妙力 懸掛式馬桶清潔球 50公克×3入×6組",
-                  "id": "334160",
-                  "price": [
-                    699
-                  ],
-                  "discount": [
-                    140
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260810_08.jpg",
-                  "subtitle": "20260810~20260816",
-                  "extra": ""
-                },
-                {
-                  "title": "LET-GREEN 立得清 75% 酒精擦濕巾隨身包 12抽×36包入",
-                  "id": "154316",
-                  "price": [
-                    425
-                  ],
-                  "discount": [
-                    85
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260810_09.jpg",
-                  "subtitle": "20260810~20260816",
-                  "extra": ""
-                },
-                {
-                  "title": "VILSON 米森 好菌搖搖有機兒茶素綠茶 每包2公克 30包入",
-                  "id": "140811",
-                  "price": [
-                    459
-                  ],
-                  "discount": [
-                    100
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20260810_10.jpg",
-                  "subtitle": "20260810~20260816",
+                  "thumbnail": "/limited/20260817_07.jpg",
+                  "subtitle": "20260817~20260823",
                   "extra": ""
                 }
               ]
@@ -5975,18 +5933,18 @@
       }
     },
     {
-      "title": "新商品預告 20260810~20260816",
+      "title": "新商品預告 20260817~20260823",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260810_101_tb.jpg",
-      "extra": "/limited/20260810_101.jpg"
+      "thumbnail": "/limited/20260817_101_tb.jpg",
+      "extra": "/limited/20260817_101.jpg"
     },
     {
-      "title": "賣場展示及試吃活動 20260810~20260816",
+      "title": "賣場展示及試吃活動 20260817~20260823",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20260810_102_tb.jpg",
-      "extra": "/limited/20260810_102.jpg"
+      "thumbnail": "/limited/20260817_102_tb.jpg",
+      "extra": "/limited/20260817_102.jpg"
     },
     {
       "title": "商品特展活動 20260803~20260903",
