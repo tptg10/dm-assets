@@ -1,5 +1,5 @@
 {
-  "version": "20260328",
+  "version": "20260329",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -87,7 +87,7 @@
                     114
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260928_1000_5.jpg",
+                  "thumbnail": "/limited/20260928_1000_05.jpg",
                   "subtitle": "20260928~20261023",
                   "extra": "新高雄店專屬平日限定；活動數量有限，售完為止。"
                 },
@@ -95,7 +95,7 @@
                   "title": "KING TO NIN JIOM 京都念慈菴 複方川貝枇杷膏 每瓶456公克 2瓶入",
                   "id": "82699",
                   "price": [
-                    385
+                    
                   ],
                   "discount": [],
                   "type": "product",
@@ -322,7 +322,7 @@
                   "title": "LEGALON 利加隆 膠囊140毫克 每盒60顆 3盒入",
                   "id": "146970",
                   "price": [
-                    2399
+                    
                   ],
                   "discount": [],
                   "type": "product",
