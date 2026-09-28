@@ -1,5 +1,5 @@
 {
-  "version": "20260327",
+  "version": "20260328",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -31,7 +31,7 @@
                     80
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260928_1000_0``.jpg",
+                  "thumbnail": "/limited/20260928_1000_01.jpg",
                   "subtitle": "20260928~20261023",
                   "extra": "新高雄店專屬平日限定；活動數量有限，售完為止。"
                 },
