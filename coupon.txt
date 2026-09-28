@@ -1,5 +1,5 @@
 {
-  "version": "20260326",
+  "version": "20260327",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -22,6 +22,20 @@
             "extra": {
               "extra": [
                 {
+                  "title": "KUNG FU NOODLES 大拙匠人 匠拌麵鵝油金蒜拌麵 每包111公克 10包入",
+                  "id": "236652",
+                  "price": [
+                    399
+                  ],
+                  "discount": [
+                    80
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260928_1000_0``.jpg",
+                  "subtitle": "20260928~20261023",
+                  "extra": "新高雄店專屬平日限定；活動數量有限，售完為止。"
+                },
+                {
                   "title": "RED DRAGON 紅龍 冷藏椒麻雞丁 每包600公克 2包入",
                   "id": "71688",
                   "price": [
@@ -31,7 +45,7 @@
                     76
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260928_1000_01.jpg",
+                  "thumbnail": "/limited/20260928_1000_02.jpg",
                   "subtitle": "20260928~20261023",
                   "extra": "新高雄店專屬平日限定；活動數量有限，售完為止。"
                 },
@@ -45,7 +59,7 @@
                     156
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260928_1000_02.jpg",
+                  "thumbnail": "/limited/20260928_1000_03.jpg",
                   "subtitle": "20260928~20261023",
                   "extra": "新高雄店專屬平日限定；活動數量有限，售完為止。"
                 },
@@ -59,7 +73,7 @@
                     420
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260928_1000_03.jpg",
+                  "thumbnail": "/limited/20260928_1000_04.jpg",
                   "subtitle": "20260928~20261023",
                   "extra": "新高雄店專屬平日限定；活動數量有限，售完為止。"
                 },
@@ -73,7 +87,7 @@
                     114
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260928_1000_4.jpg",
+                  "thumbnail": "/limited/20260928_1000_5.jpg",
                   "subtitle": "20260928~20261023",
                   "extra": "新高雄店專屬平日限定；活動數量有限，售完為止。"
                 },
@@ -85,24 +99,11 @@
                   ],
                   "discount": [],
                   "type": "product",
-                  "thumbnail": "/limited/20260928_1000_05.jpg",
-                  "subtitle": "20260928~20261023",
-                  "extra": "新高雄店專屬平日限定；專案活動售價；活動數量有限，售完為止。"
-                },
-                {
-                  "title": "KUNG FU NOODLES 大拙匠人 匠拌麵鵝油金蒜拌麵 每包111公克 10包入",
-                  "id": "236652",
-                  "price": [
-                    399
-                  ],
-                  "discount": [
-                    80
-                  ],
-                  "type": "product",
                   "thumbnail": "/limited/20260928_1000_06.jpg",
                   "subtitle": "20260928~20261023",
-                  "extra": "新高雄店專屬平日限定；活動數量有限，售完為止。"
+                  "extra": "新高雄店專屬平日限定；專案活動售價；活動數量有限，售完為止。"
                 }
+                
               ]
             }
           },
@@ -113,6 +114,21 @@
             "thumbnail": "/limited/20261026_1_tb.jpg",
             "extra": {
               "extra": [
+                
+                {
+                  "title": "THE GUEST HOUSE 請客樓 香菇麻油飯 每包200公克 8包入",
+                  "id": "150271",
+                  "price": [
+                    349
+                  ],
+                  "discount": [
+                    70
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_1000_01.jpg",
+                  "subtitle": "20261026~20261120",
+                  "extra": "新高雄店專屬平日限定；活動數量有限，售完為止。"
+                },
                 {
                   "title": "CHEF HOKA 荷卡料理所 冷凍日式牛丼 每份167公克 6份入",
                   "id": "160666",
@@ -123,7 +139,7 @@
                     80
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20261026_1000_01.jpg",
+                  "thumbnail": "/limited/20261026_1000_02.jpg",
                   "subtitle": "20261026~20261120",
                   "extra": "新高雄店專屬平日限定；活動數量有限，售完為止。"
                 },
@@ -137,7 +153,7 @@
                     100
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20261026_1000_02.jpg",
+                  "thumbnail": "/limited/20261026_1000_03.jpg",
                   "subtitle": "20261026~20261120",
                   "extra": "新高雄店專屬平日限定；三號／四號皆為40入；活動數量有限，售完為止。"
                 },
@@ -151,7 +167,7 @@
                     40
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20261026_1000_03.jpg",
+                  "thumbnail": "/limited/20261026_1000_04.jpg",
                   "subtitle": "20261026~20261120",
                   "extra": "新高雄店專屬平日限定；活動數量有限，售完為止。"
                 },
@@ -165,7 +181,7 @@
                     60
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20261026_1000_04.jpg",
+                  "thumbnail": "/limited/20261026_1000_05.jpg",
                   "subtitle": "20261026~20261120",
                   "extra": "新高雄店專屬平日限定；活動數量有限，售完為止。"
                 },
@@ -177,20 +193,6 @@
                   ],
                   "discount": [
                     120
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20261026_1000_05.jpg",
-                  "subtitle": "20261026~20261120",
-                  "extra": "新高雄店專屬平日限定；活動數量有限，售完為止。"
-                },
-                {
-                  "title": "THE GUEST HOUSE 請客樓 香菇麻油飯 每包200公克 8包入",
-                  "id": "150271",
-                  "price": [
-                    349
-                  ],
-                  "discount": [
-                    70
                   ],
                   "type": "product",
                   "thumbnail": "/limited/20261026_1000_06.jpg",
@@ -219,6 +221,20 @@
             "extra": {
               "extra": [
                 {
+                  "title": "I-MEI 義美 益生菌果汁QQ糖 每包40公克 18包入",
+                  "id": "330043",
+                  "price": [
+                    299
+                  ],
+                  "discount": [
+                    60
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20260928_2000_01.jpg",
+                  "subtitle": "20260928~20261025",
+                  "extra": "新高雄店專屬；活動數量有限，售完為止。"
+                },
+                {
                   "title": "ALL ORGANIC 有機穀典 有機黃豆 每包1000公克 2包入",
                   "id": "110971",
                   "price": [
@@ -228,7 +244,7 @@
                     60
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260928_2000_01.jpg",
+                  "thumbnail": "/limited/20260928_2000_02.jpg",
                   "subtitle": "20260928~20261025",
                   "extra": "新高雄店專屬；活動數量有限，售完為止。"
                 },
@@ -242,7 +258,7 @@
                     24
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260928_2000_02.jpg",
+                  "thumbnail": "/limited/20260928_2000_03.jpg",
                   "subtitle": "20260928~20261025",
                   "extra": "新高雄店專屬；活動數量有限，售完為止。"
                 },
@@ -256,7 +272,7 @@
                     76
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260928_2000_03.jpg",
+                  "thumbnail": "/limited/20260928_2000_04.jpg",
                   "subtitle": "20260928~20261025",
                   "extra": "新高雄店專屬；活動數量有限，售完為止。"
                 },
@@ -270,7 +286,7 @@
                     4010
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260928_2000_04.jpg",
+                  "thumbnail": "/limited/20260928_2000_05.jpg",
                   "subtitle": "20260928~20261025",
                   "extra": "新高雄店專屬；活動數量有限，售完為止。"
                 },
@@ -284,7 +300,7 @@
                     100
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260928_2000_05.jpg",
+                  "thumbnail": "/limited/20260928_2000_06.jpg",
                   "subtitle": "20260928~20261025",
                   "extra": "新高雄店專屬；活動數量有限，售完為止；商品實際尺寸及顏色以賣場陳列為準。"
                 },
@@ -298,7 +314,7 @@
                     70
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20260928_2000_06.jpg",
+                  "thumbnail": "/limited/20260928_2000_07.jpg",
                   "subtitle": "20260928~20261025",
                   "extra": "新高雄店專屬；每公斤計價；本商品為秤重商品，商品實際內容以賣場實物為準；活動數量有限，售完為止。"
                 },
@@ -310,23 +326,9 @@
                   ],
                   "discount": [],
                   "type": "product",
-                  "thumbnail": "/limited/20260928_2000_07.jpg",
-                  "subtitle": "20260928~20261025",
-                  "extra": "新高雄店專屬；專案活動售價；活動數量有限，售完為止。"
-                },
-                {
-                  "title": "I-MEI 義美 益生菌果汁QQ糖 每包40公克 18包入",
-                  "id": "330043",
-                  "price": [
-                    299
-                  ],
-                  "discount": [
-                    60
-                  ],
-                  "type": "product",
                   "thumbnail": "/limited/20260928_2000_08.jpg",
                   "subtitle": "20260928~20261025",
-                  "extra": "新高雄店專屬；活動數量有限，售完為止。"
+                  "extra": "新高雄店專屬；專案活動售價；活動數量有限，售完為止。"
                 }
               ]
             }
@@ -339,6 +341,20 @@
             "extra": {
               "extra": [
                 {
+                  "title": "PRINGLES 品客 章魚燒風味洋芋片 每罐48公克 12罐入",
+                  "id": "436011",
+                  "price": [
+                    299
+                  ],
+                  "discount": [
+                    60
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_2000_01.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "新高雄店專屬；活動數量有限，售完為止。"
+                },
+                {
                   "title": "FRESCAFINA 嘉紛娜 100%多酚葡萄汁 每瓶250毫升 24瓶入",
                   "id": "311426",
                   "price": [
@@ -348,7 +364,7 @@
                     100
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20261026_2000_01.jpg",
+                  "thumbnail": "/limited/20261026_2000_02.jpg",
                   "subtitle": "20261026~20261122",
                   "extra": "新高雄店專屬；活動數量有限，售完為止。"
                 },
@@ -362,7 +378,7 @@
                     70
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20261026_2000_02.jpg",
+                  "thumbnail": "/limited/20261026_2000_03.jpg",
                   "subtitle": "20261026~20261122",
                   "extra": "新高雄店專屬；活動數量有限，售完為止；商品實際內容以賣場實物為準。"
                 },
@@ -376,7 +392,7 @@
                     25
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20261026_2000_03.jpg",
+                  "thumbnail": "/limited/20261026_2000_04.jpg",
                   "subtitle": "20261026~20261122",
                   "extra": "新高雄店專屬；活動數量有限，售完為止；商品實際內容以賣場實物為準。"
                 },
@@ -390,7 +406,7 @@
                     880
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20261026_2000_04.jpg",
+                  "thumbnail": "/limited/20261026_2000_05.jpg",
                   "subtitle": "20261026~20261122",
                   "extra": "新高雄店專屬；活動數量有限，售完為止。"
                 },
@@ -404,7 +420,7 @@
                     120
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20261026_2000_05.jpg",
+                  "thumbnail": "/limited/20261026_2000_06.jpg",
                   "subtitle": "20261026~20261122",
                   "extra": "新高雄店專屬；活動數量有限，售完為止；商品實際顏色及尺寸以賣場陳列為準。"
                 },
@@ -418,7 +434,7 @@
                     110
                   ],
                   "type": "product",
-                  "thumbnail": "/limited/20261026_2000_06.jpg",
+                  "thumbnail": "/limited/20261026_2000_07.jpg",
                   "subtitle": "20261026~20261122",
                   "extra": "新高雄店專屬；活動數量有限，售完為止。"
                 },
@@ -430,20 +446,6 @@
                   ],
                   "discount": [
                     200
-                  ],
-                  "type": "product",
-                  "thumbnail": "/limited/20261026_2000_07.jpg",
-                  "subtitle": "20261026~20261122",
-                  "extra": "新高雄店專屬；活動數量有限，售完為止。"
-                },
-                {
-                  "title": "PRINGLES 品客 章魚燒風味洋芋片 每罐48公克 12罐入",
-                  "id": "436011",
-                  "price": [
-                    299
-                  ],
-                  "discount": [
-                    60
                   ],
                   "type": "product",
                   "thumbnail": "/limited/20261026_2000_08.jpg",
