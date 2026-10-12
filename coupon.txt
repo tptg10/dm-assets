@@ -1,5 +1,5 @@
 {
-  "version": "20260330",
+  "version": "20260331",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -1385,22 +1385,22 @@
       "title": "輪胎精選優惠 20260929~20261025",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20261012_103_tb.jpg",
-      "extra": "/limited/20261012_103_tb.jpg"
+      "thumbnail": "/limited/20261012_1103_tb.jpg",
+      "extra": "/limited/20261012_1103.jpg"
     },
     {
       "title": "新商品預告 20261012~20261018",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20261012_101_tb.jpg",
-      "extra": "/limited/20260928_101.jpg"
+      "thumbnail": "/limited/20261012_1101_tb.jpg",
+      "extra": "/limited/20260928_1101.jpg"
     },
     {
       "title": "賣場展示及試吃活動 20261012~20261018",
       "subtitle": "20250113~20250119",
       "type": "webview",
-      "thumbnail": "/limited/20261012_102_tb.jpg",
-      "extra": "/limited/20261012_102_tb.jpg"
+      "thumbnail": "/limited/20261012_1102_tb.jpg",
+      "extra": "/limited/20261012_1102_tb.jpg"
     },
     {
       "title": "商品特展活動 20260928~20261029",
