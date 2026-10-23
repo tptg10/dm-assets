@@ -1,11 +1,1545 @@
 {
-  "version": "20260403",
+  "version": "20260405",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
   "title": "2024 會員護照",
   "prefix": "https://dm-assets.pages.dev",
   "extra": [
+    {
+      "title": "會員皮夾第一波優惠 20261026~20261122",
+      "subtitle": "20261026~20261122",
+      "type": "sub",
+      "thumbnail": "/limited/20261026_5000_01.jpg",
+      "extra": {
+        "display": "passport",
+        "extra": [
+          {
+            "title": "20261026~20261122",
+            "subtitle": "20261026~20261122",
+            "type": "sub|textonly",
+            "thumbnail": "/limited/20261026_5000_01.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "MICHELIN 米其林 一次購買及安裝四條相同規格米其林輪胎，即可享有優惠",
+                  "id": "",
+                  "price": [],
+                  "discount": [
+                    700,
+                    1600,
+                    2000
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_01.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；15吋折700元、16-17吋折1600元、18吋以上折2000元；四條輪胎安裝費每條150元，總省600元；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "SAMSUNG 65吋 MINILED 顯示器 IA65M1EHAXXTW",
+                  "id": "161519",
+                  "price": [
+                    24999
+                  ],
+                  "discount": [
+                    5000
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_02.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "LG 315公升雙頻雙門冰箱 GN-L312SV",
+                  "id": "159183",
+                  "price": [
+                    17999
+                  ],
+                  "discount": [
+                    3600
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_03.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "MAMYPOKO 滿意寶寶 瞬潔乾爽紙尿褲 M 228片／L 192片",
+                  "id": "165002/165003",
+                  "price": [
+                    1245
+                  ],
+                  "discount": [
+                    250
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_04.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "PHILIPS 飛利浦 智能系列三刀頭電鬍刀 S6830/95",
+                  "id": "157741",
+                  "price": [
+                    4389
+                  ],
+                  "discount": [
+                    900
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_05.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "ELECTROLUX 伊萊克斯 無線吸塵器 WQ71-2BSWF",
+                  "id": "153289",
+                  "price": [
+                    6899
+                  ],
+                  "discount": [
+                    1700
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_06.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "TCL 75吋 MINILED 顯示器 75C6K",
+                  "id": "153555",
+                  "price": [
+                    34799
+                  ],
+                  "discount": [
+                    7000
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_07.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "MAMYPOKO 滿意寶寶 哆啦A夢輕巧褲 L 176片／XL 152片／XXL 104片",
+                  "id": "626086/626087/626088",
+                  "price": [
+                    1049
+                  ],
+                  "discount": [
+                    210
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_08.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "BACKBONE 人體工學全網椅 MAMBA MESH ERGONOMIC CHAIR 尺寸約寬70×深63×高124-134公分",
+                  "id": "144129",
+                  "price": [
+                    5699
+                  ],
+                  "discount": [
+                    1200
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_09.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；商品實際尺寸以賣場陳列或官網為準；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "TRESANTI 電動升降桌 ADJUSTABLE DESK 尺寸約寬120×深60×高75-124公分",
+                  "id": "1646074",
+                  "price": [
+                    6299
+                  ],
+                  "discount": [
+                    1400
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_10.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；商品實際尺寸以賣場陳列或官網為準；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "OSRAM 歐司朗 白光20W LED燈泡 4入",
+                  "id": "147360",
+                  "price": [
+                    749
+                  ],
+                  "discount": [
+                    150
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_11.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "OSRAM 歐司朗 自然光20W LED燈泡 4入",
+                  "id": "147361",
+                  "price": [
+                    749
+                  ],
+                  "discount": [
+                    150
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_12.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "CETAPHIL 舒特膚 長效潤膚乳 每瓶591毫升 2瓶入",
+                  "id": "137176",
+                  "price": [
+                    615
+                  ],
+                  "discount": [
+                    150
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_13.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "LOOPLOOP 磁吸式傳輸充電線3入組 黑色",
+                  "id": "153378",
+                  "price": [
+                    699
+                  ],
+                  "discount": [
+                    160
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_14.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "LOOPLOOP 磁吸式傳輸充電線3入組 白色",
+                  "id": "153379",
+                  "price": [
+                    699
+                  ],
+                  "discount": [
+                    160
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_15.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "CALIPHIL 佳麗惠 紐西蘭羊毛被 雙人 尺寸約180×210公分",
+                  "id": "137368",
+                  "price": [
+                    2399
+                  ],
+                  "discount": [
+                    500
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_16.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；商品實際尺寸及包裝以賣場陳列或官網為準；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "CALIPHIL 佳麗惠 紐西蘭羊毛被 雙人加大 尺寸約210×240公分",
+                  "id": "137369",
+                  "price": [
+                    2999
+                  ],
+                  "discount": [
+                    650
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_17.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；商品實際尺寸及包裝以賣場陳列或官網為準；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "SENSODYNE 舒酸定 長效抗敏牙膏進階亮白 每條184公克 4條入",
+                  "id": "1450843",
+                  "price": [
+                    689
+                  ],
+                  "discount": [
+                    154
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_18.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "SENSODYNE 舒酸定 3D薄型軟毛牙刷 8入",
+                  "id": "139575",
+                  "price": [
+                    369
+                  ],
+                  "discount": [
+                    80
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_19.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "LENOR 蘭諾 衣物芳香豆 青檸紫羅蘭 885毫升+1810毫升補充包",
+                  "id": "159343",
+                  "price": [
+                    799
+                  ],
+                  "discount": [
+                    160
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_20.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "PERSIL 寶瀅 全效能新配方洗衣凝露 4公升 100蓋次",
+                  "id": "593577",
+                  "price": [
+                    699
+                  ],
+                  "discount": [
+                    160
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_21.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "KNORR 康寶 港式酸辣 每包46.6公克 10包入",
+                  "id": "115917",
+                  "price": [
+                    319
+                  ],
+                  "discount": [
+                    70
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_22.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "KNORR 康寶 金黃玉米濃湯 每包56.3公克 10包入",
+                  "id": "215918",
+                  "price": [
+                    319
+                  ],
+                  "discount": [
+                    70
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_23.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "QUAKER 桂格 黃金蕎麥多穀飲 每包28公克 50包入",
+                  "id": "101776",
+                  "price": [
+                    399
+                  ],
+                  "discount": [
+                    80
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_24.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "GOURMET 大拙匠人 冷凍鵝油雙蔥煎餅 每片100公克 每包4片 5包入",
+                  "id": "156747",
+                  "price": [
+                    399
+                  ],
+                  "discount": [
+                    80
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_25.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "KOLOKO & CADINA 可樂果+卡迪那 MINI經典美味雙享組 18包入 共774公克",
+                  "id": "143951",
+                  "price": [
+                    299
+                  ],
+                  "discount": [
+                    60
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_26.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；商品實際內容以賣場實物或官網為準；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "GAO DUAN SHI PIN 高端食品 藜麥椒鹽蘇打餅 每包80公克 10包入",
+                  "id": "108586",
+                  "price": [
+                    369
+                  ],
+                  "discount": [
+                    80
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_27.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "LAO SHI CUI 老食粹 有機枸杞 600公克",
+                  "id": "126818",
+                  "price": [
+                    499
+                  ],
+                  "discount": [
+                    100
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_28.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "LAO SHI CUI 老食粹 有機紅棗 600公克",
+                  "id": "126819",
+                  "price": [
+                    299
+                  ],
+                  "discount": [
+                    60
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_29.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "STARBUCKS 星巴克 中度烘焙即溶咖啡 每包2.33公克 30包入",
+                  "id": "225971",
+                  "price": [
+                    499
+                  ],
+                  "discount": [
+                    100
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_30.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "WITOR'S 綜合含餡松露造型巧克力 1公斤",
+                  "id": "246280",
+                  "price": [
+                    539
+                  ],
+                  "discount": [
+                    114
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_31.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "SHU SHIN BOU 手信坊 含餡蛋捲 24條入 共480公克",
+                  "id": "144711",
+                  "price": [
+                    339
+                  ],
+                  "discount": [
+                    70
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_32.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "FERNLEAF 豐力富 頂級純濃奶粉 2.6公斤",
+                  "id": "79922",
+                  "price": [
+                    769
+                  ],
+                  "discount": [
+                    154
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_33.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "QUAKER 桂格 北海道風味特濃燕麥 每包42公克 48包入",
+                  "id": "78299",
+                  "price": [
+                    499
+                  ],
+                  "discount": [
+                    100
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_34.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "CAPTAIN DANNY 丹尼船長 米的洋芋片黑松露風味 每包50公克 8包入",
+                  "id": "246249",
+                  "price": [
+                    269
+                  ],
+                  "discount": [
+                    54
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_35.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "BARISTA 西雅圖 即品拿鐵咖啡 每包21公克 100包入",
+                  "id": "56879",
+                  "price": [
+                    749
+                  ],
+                  "discount": [
+                    150
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_36.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "DACHAN 大成 冷凍椒鹽薄皮炸雞 1.55公斤",
+                  "id": "143877",
+                  "price": [
+                    399
+                  ],
+                  "discount": [
+                    80
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_37.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "JACK DANIEL'S 傑克丹尼 田納西威士忌 1.75公升",
+                  "id": "85136",
+                  "price": [
+                    1259
+                  ],
+                  "discount": [
+                    260
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_38.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；禁止酒駕，未滿十八歲禁止飲酒；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "WOWPRIME 王品 冷凍青花驕經典麻辣鍋 1.6公斤",
+                  "id": "333404",
+                  "price": [
+                    569
+                  ],
+                  "discount": [
+                    120
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_39.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "CALTRATE 挺立 關鍵迷你錠 UC-II COLLAGEN 90錠",
+                  "id": "127189",
+                  "price": [
+                    1799
+                  ],
+                  "discount": [
+                    360
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_40.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "KGC 正官庄 高麗蔘精 EVERYTIME 每條10毫升 30條入",
+                  "id": "186999",
+                  "price": [
+                    1199
+                  ],
+                  "discount": [
+                    240
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_41.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "MOVE FREE 益節 葡萄糖胺6 IN 1精華飲 每包25毫升 30包入",
+                  "id": "142927",
+                  "price": [
+                    1299
+                  ],
+                  "discount": [
+                    260
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_42.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "WOWPRIME 王品 三大名店冷凍火鍋料 1公斤",
+                  "id": "131632",
+                  "price": [
+                    389
+                  ],
+                  "discount": [
+                    90
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_43.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "YUMMY DOTS 享點子 泰式椰奶綠咖哩雞 每包520公克 2包入",
+                  "id": "146149",
+                  "price": [
+                    369
+                  ],
+                  "discount": [
+                    80
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_44.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "MERIDLIFE 樂益活 菌護保健益生菌 食品 120顆",
+                  "id": "97716",
+                  "price": [
+                    999
+                  ],
+                  "discount": [
+                    200
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_45.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "CENTRUM 善存 葉黃素液態軟膠囊 140粒",
+                  "id": "217306",
+                  "price": [
+                    999
+                  ],
+                  "discount": [
+                    200
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_46.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "TAIAN 泰安／T-HAM 台畜／CHIA I SHAN 嘉一香 台灣冷凍豬梅花火鍋片",
+                  "id": "167247",
+                  "price": [],
+                  "discount": [
+                    86
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_47.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；每公斤省下金額86元；本商品為秤重商品，商品實際內容以賣場實物為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "KIRKLAND SIGNATURE 科克蘭 提拉米蘇",
+                  "id": "229516",
+                  "price": [
+                    259
+                  ],
+                  "discount": [
+                    54
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_48.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；商品實際內容以賣場實物為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "PROTISON 補體素 鉻100（糖尿病適用）均衡營養粉狀配方食品 1500公克",
+                  "id": "993999",
+                  "price": [
+                    1299
+                  ],
+                  "discount": [
+                    200
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_49.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "ACUVUE 安視優 超涵水每日拋棄式隱形眼鏡 每盒180片",
+                  "id": "",
+                  "price": [],
+                  "discount": [
+                    700
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_50.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；買2盒省下金額700元；限一次購買二盒才可享此優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "MAY FLOWER 五月花 厚棒抽取衛生紙 4PLY INTERFOLD TISSUE 每包100抽 每袋20包入×3袋裝",
+                  "id": "154795",
+                  "price": [
+                    1149
+                  ],
+                  "discount": [
+                    230
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_51.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；僅限好市多線上購物；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "MEIJI 明治 明倍適營養補充杯 草莓口味 每杯125毫升 36杯入",
+                  "id": "244328",
+                  "price": [
+                    1899
+                  ],
+                  "discount": [
+                    380
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_52.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；僅限好市多線上購物；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "MEIJI 明治 明倍適營養補充杯 香蕉口味 每杯125毫升 36杯入",
+                  "id": "144329",
+                  "price": [
+                    1899
+                  ],
+                  "discount": [
+                    380
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_53.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；僅限好市多線上購物；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "SCHICK 舒適牌 水次元5刮鬍刀組 刀架+刀片",
+                  "id": "208576",
+                  "price": [
+                    519
+                  ],
+                  "discount": [
+                    120
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_54.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；僅限好市多線上購物；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "KOHLER 電熱毛巾架 110V/29355TW-7",
+                  "id": "143489",
+                  "price": [
+                    8399
+                  ],
+                  "discount": [
+                    1700
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_55.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；僅限好市多線上購物；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "TCL 12公斤直立式洗衣機 P312TLG",
+                  "id": "149471",
+                  "price": [
+                    9999
+                  ],
+                  "discount": [
+                    2000
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_56.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；僅限好市多線上購物；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "LOOPLOOP TAG物品尋找器含配件 4入組+4配件／共四色／AT-10",
+                  "id": "147738",
+                  "price": [
+                    1499
+                  ],
+                  "discount": [
+                    300
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_57.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；僅限好市多線上購物；配件顏色以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "MIO MIVUE MP05 前後雙2K鏡頭1440P機車行車記錄器 附32GB記憶卡",
+                  "id": "152185",
+                  "price": [
+                    3489
+                  ],
+                  "discount": [
+                    700
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_58.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；僅限好市多線上購物；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "ADIDAS 女休閒鞋 美國尺寸6-9",
+                  "id": "158277-83",
+                  "price": [
+                    1259
+                  ],
+                  "discount": [
+                    260
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_59.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；僅限好市多線上購物；商品實際顏色及尺寸以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "NEOFLAM 雙耳四格多功能煎鍋含蓋 約28公分",
+                  "id": "124266",
+                  "price": [
+                    1769
+                  ],
+                  "discount": [
+                    400
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_60.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；僅限好市多線上購物；商品實際尺寸以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "CONAIR 美康雅 二合一掛燙刷熨斗 GS308TW",
+                  "id": "153085",
+                  "price": [
+                    2059
+                  ],
+                  "discount": [
+                    620
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_61.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；僅限好市多線上購物；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "ELECTROLUX 伊萊克斯 氣炸旋風烤箱 EOT3215XFG",
+                  "id": "138032",
+                  "price": [
+                    4699
+                  ],
+                  "discount": [
+                    940
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_62.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；僅限好市多線上購物；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "CASA 雙人記憶釋壓床墊 尺寸約152×190×5公分",
+                  "id": "111405",
+                  "price": [
+                    3999
+                  ],
+                  "discount": [
+                    800
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_63.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；僅限好市多線上購物；商品實際尺寸以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "BLACKMORES 澳佳寶 DHA精粹濃縮深海魚油膠囊食品 每瓶60粒 2瓶入",
+                  "id": "125360",
+                  "price": [
+                    1769
+                  ],
+                  "discount": [
+                    360
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_64.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；僅限好市多線上購物；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "WEIDER 威德 一日補給50+ 30包入",
+                  "id": "217619",
+                  "price": [
+                    1299
+                  ],
+                  "discount": [
+                    260
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_65.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；僅限好市多線上購物；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "CENTRUM 善存 舒眠益生菌膠囊 120粒",
+                  "id": "990255",
+                  "price": [
+                    1969
+                  ],
+                  "discount": [
+                    395
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261026_5000_66.jpg",
+                  "subtitle": "20261026~20261122",
+                  "extra": "會員皮夾第一波優惠；僅限好市多線上購物；活動數量有限，售完為止。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "title": "會員皮夾第二波優惠 20261130~20261220",
+      "subtitle": "20261130~20261220",
+      "type": "sub",
+      "thumbnail": "/limited/20261130_5000.jpg",
+      "extra": {
+        "display": "passport",
+        "extra": [
+          {
+            "title": "20261130~20261220",
+            "subtitle": "20261130~20261220",
+            "type": "sub|textonly",
+            "thumbnail": "/limited/20261130_5000_01.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "BOSE 藍芽揚聲器第二代 SOUNDLINK FLEX SE GEN 2",
+                  "id": "159899",
+                  "price": [
+                    4999
+                  ],
+                  "discount": [
+                    1020
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_01.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "LOGITECH 無線鍵盤滑鼠組 MK470",
+                  "id": "159714",
+                  "price": [
+                    1179
+                  ],
+                  "discount": [
+                    250
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_02.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "HADA LABO 肌研 極潤保濕化妝水組 400毫升×1+100毫升×2",
+                  "id": "406082",
+                  "price": [
+                    755
+                  ],
+                  "discount": [
+                    176
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_03.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "OLAY 緊緻空氣感面霜 每瓶48公克 2瓶入",
+                  "id": "135548",
+                  "price": [
+                    1439
+                  ],
+                  "discount": [
+                    310
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_04.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "IRIS OHYAMA 超靜音小型碎紙機 P6HCS",
+                  "id": "135871",
+                  "price": [
+                    2249
+                  ],
+                  "discount": [
+                    470
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_05.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；商品實際顏色以賣場陳列或官網為準；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "PHILIPS 飛利浦 全自動美式咖啡機 HD7781",
+                  "id": "162416",
+                  "price": [
+                    3999
+                  ],
+                  "discount": [
+                    860
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_06.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "STRIVECTIN 升級版淡紋面霜 SD MOISTURIZER 每條47毫升 2條入",
+                  "id": "1770258",
+                  "price": [
+                    2599
+                  ],
+                  "discount": [
+                    600
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_07.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "AVEENO 艾惟諾 燕麥保濕乳 1公升",
+                  "id": "1570816",
+                  "price": [
+                    369
+                  ],
+                  "discount": [
+                    80
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_08.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "BRITA 瞬熱滅菌智能冰溫熱開飲機 CUBE COOL-BE",
+                  "id": "162794",
+                  "price": [
+                    10999
+                  ],
+                  "discount": [
+                    2300
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_09.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "3M 極淨便捷替換濾心雙入組 DS03",
+                  "id": "96381",
+                  "price": [
+                    3099
+                  ],
+                  "discount": [
+                    630
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_10.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "MAY FLOWER 五月花 妙用綿柔抽取衛生紙輕巧包 每包130抽 36包入",
+                  "id": "87901",
+                  "price": [
+                    349
+                  ],
+                  "discount": [
+                    70
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_11.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "ASTONISH 英國潔 抑菌除污浴廁清潔劑 每瓶750毫升 2瓶入",
+                  "id": "132205",
+                  "price": [
+                    339
+                  ],
+                  "discount": [
+                    70
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_12.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "MIO MIVUE 906W 4K高解析安全預警九合一 GPS WIFI行車記錄器 附32GB記憶卡",
+                  "id": "162751",
+                  "price": [
+                    3599
+                  ],
+                  "discount": [
+                    740
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_13.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "TEFAL ULTIMATE系列 不沾炒鍋含玻璃上蓋 尺寸約32公分",
+                  "id": "145327",
+                  "price": [
+                    2289
+                  ],
+                  "discount": [
+                    500
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_14.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "ORANGE HOUSE 橘子工坊 除臭酵素洗衣精 4公升 100蓋次",
+                  "id": "218569",
+                  "price": [
+                    539
+                  ],
+                  "discount": [
+                    120
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_15.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "ORANGE HOUSE 橘子工坊 蔬果碗盤洗潔液 2.7公升",
+                  "id": "238003",
+                  "price": [
+                    399
+                  ],
+                  "discount": [
+                    80
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_16.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "HOTEL GRAND 涼感舒眠枕 尺寸約50×71公分 2入",
+                  "id": "1580004",
+                  "price": [
+                    749
+                  ],
+                  "discount": [
+                    170
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_17.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；商品實際尺寸以賣場陳列或官網為準；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "CASUAL LIVING 雙人舒適毯 尺寸約233×233公分",
+                  "id": "153200",
+                  "price": [
+                    649
+                  ],
+                  "discount": [
+                    150
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_18.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；商品實際顏色及尺寸以賣場陳列或官網為準；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "VIVA 萬歲牌 總匯點心包 每包42公克 20包入",
+                  "id": "229227",
+                  "price": [
+                    549
+                  ],
+                  "discount": [
+                    110
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_19.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；商品實際內容以賣場實物為準；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "NORTH SEA 北海 鱈魚香絲 600公克",
+                  "id": "78623",
+                  "price": [
+                    299
+                  ],
+                  "discount": [
+                    60
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_20.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "BARISTA PREMIUM 西雅圖 極品嚴焙大濾掛咖啡 每包12公克 50包入",
+                  "id": "101940",
+                  "price": [
+                    749
+                  ],
+                  "discount": [
+                    150
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_21.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "MY MOTTO 提拉米蘇風味威化餅 每包30公克 20包入",
+                  "id": "163941",
+                  "price": [
+                    299
+                  ],
+                  "discount": [
+                    60
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_22.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "GREENMAX 馬玉山 特濃核桃黑芝麻糊 每包37公克 50包入",
+                  "id": "130383",
+                  "price": [
+                    499
+                  ],
+                  "discount": [
+                    100
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_23.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "DARLING 親愛的 二合一白咖啡隨手包 每包30公克 80包入",
+                  "id": "179574",
+                  "price": [
+                    659
+                  ],
+                  "discount": [
+                    140
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_24.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "SI SHENG 喜生 牛肉米漢堡 每個170公克 12個入",
+                  "id": "64996",
+                  "price": [
+                    559
+                  ],
+                  "discount": [
+                    114
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_25.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "CP 卜蜂 / DACHAN 大成 台灣去骨清雞腿真空包",
+                  "id": "118583",
+                  "price": [
+                    245
+                  ],
+                  "discount": [
+                    50
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_26.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；每公斤原價245元，折扣50元，每公斤優惠價195元；本商品為秤重商品，商品實際內容以賣場實物為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "KIRKLAND SIGNATURE 科克蘭 起司巧巴達 6入",
+                  "id": "162502",
+                  "price": [
+                    269
+                  ],
+                  "discount": [
+                    54
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_27.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；商品實際內容以賣場實物為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "CHUN SHUI SELECTION 春水良品 椒麻豆乳鍋底 每包1200公克 2包入",
+                  "id": "157719",
+                  "price": [
+                    359
+                  ],
+                  "discount": [
+                    74
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_28.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "RED DRAGON 紅龍 冷凍紅燒牛肉麵 每包820公克 4包入",
+                  "id": "91855",
+                  "price": [
+                    669
+                  ],
+                  "discount": [
+                    134
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_29.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "WEIDER 威德 納豆紅麴 120粒",
+                  "id": "994805",
+                  "price": [
+                    1049
+                  ],
+                  "discount": [
+                    210
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_30.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "東北酸白菜鍋",
+                  "id": "165666",
+                  "price": [
+                    249
+                  ],
+                  "discount": [
+                    51
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_31.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；每公斤原價249元，折扣51元，每公斤優惠價198元；本商品為秤重商品，商品實際內容以賣場實物為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "STRESSTABS 克補 鋅加強錠 200錠",
+                  "id": "976575",
+                  "price": [
+                    999
+                  ],
+                  "discount": [
+                    200
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_32.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "STRESSTABS 克補 鐵加強錠 200錠",
+                  "id": "976577",
+                  "price": [
+                    999
+                  ],
+                  "discount": [
+                    200
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_33.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "WEIDER 威德 益生菌睡前專用 每包3公克 60包入",
+                  "id": "242036",
+                  "price": [
+                    1869
+                  ],
+                  "discount": [
+                    375
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_34.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；線上購物亦有優惠，售價以官網為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "COOPERVISION 酷柏 寶睛日拋軟式隱形眼鏡 PROCLEAR 1 DAY SOFT CONTACT LENSES 150片裝",
+                  "id": "",
+                  "price": [],
+                  "discount": [
+                    700
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_35.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；買2盒省下金額700元；限一次購買二盒才可享此優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "DOG CAT STAR 汪喵星球 寵物骰子牛凍乾零食 348公克",
+                  "id": "151524",
+                  "price": [
+                    1289
+                  ],
+                  "discount": [
+                    320
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_36.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；僅限好市多線上購物；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "MAY FLOWER 五月花 妙用綿柔抽取衛生紙輕巧包 每包130抽 108包入",
+                  "id": "187901",
+                  "price": [
+                    1129
+                  ],
+                  "discount": [
+                    230
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_37.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；僅限好市多線上購物；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "JAMIESON 複合益生菌 120粒",
+                  "id": "123200",
+                  "price": [
+                    1579
+                  ],
+                  "discount": [
+                    320
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_38.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；僅限好市多線上購物；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "CALTRATE 挺立 葡萄糖胺強力錠 300粒",
+                  "id": "125579",
+                  "price": [
+                    1429
+                  ],
+                  "discount": [
+                    290
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_39.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；僅限好市多線上購物；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "LIPOVITAN 力保美達 能量補給飲料 每瓶150毫升 24瓶入",
+                  "id": "99894",
+                  "price": [
+                    599
+                  ],
+                  "discount": [
+                    120
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_40.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；僅限好市多線上購物；因原商品#99894力保美達能量飲因供貨問題，將在同優惠期間提供新優惠商品#926599鐘根堂六年根紅蔘液；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "CHONG KUN DANG 鐘根堂 六年根紅蔘液 每包70毫升 30包入",
+                  "id": "926599",
+                  "price": [
+                    729
+                  ],
+                  "discount": [
+                    150
+                  ],
+                  "type": "product",
+                  "thumbnail": "/limited/20261130_5000_41.jpg",
+                  "subtitle": "20261130~20261220",
+                  "extra": "會員皮夾第二波優惠；僅限好市多線上購物；因原商品#99894力保美達能量飲因供貨問題，將在同優惠期間提供新優惠商品#926599鐘根堂六年根紅蔘液；活動數量有限，售完為止。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
     {
       "title": "會員皮夾平日限定優惠 20261026~20261120",
       "subtitle": "20261026~20261120",
