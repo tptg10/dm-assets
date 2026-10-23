@@ -1,5 +1,5 @@
 {
-  "version": "20260405",
+  "version": "20260406",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -10,7 +10,7 @@
       "title": "會員皮夾第一波優惠 20261026~20261122",
       "subtitle": "20261026~20261122",
       "type": "sub",
-      "thumbnail": "/limited/20261026_5000_01.jpg",
+      "thumbnail": "/limited/20261026_5000.jpg",
       "extra": {
         "display": "passport",
         "extra": [
