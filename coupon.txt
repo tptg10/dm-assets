@@ -1,5 +1,5 @@
 {
-  "version": "20260415",
+  "version": "20260416",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -375,8 +375,8 @@
             }
           },
           {
-            "title": "線上 20261129~20261129",
-            "subtitle": "20261129~20261129",
+            "title": "線上 20261123~20261129",
+            "subtitle": "20261123~20261129",
             "type": "sub|textonly",
             "thumbnail": "/black2026/20261122_01.jpg",
             "extra": {
@@ -388,7 +388,7 @@
                   "discount": [],
                   "type": "product",
                   "thumbnail": "/black2026/20261122_2001.jpg",
-                  "subtitle": "20261123~20261123",
+                  "subtitle": "20261123~20261129",
                   "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；商品實際內容以賣場實物為準。"
                 },
                 {
@@ -398,7 +398,7 @@
                   "discount": [],
                   "type": "product",
                   "thumbnail": "/black2026/20261122_2002.jpg",
-                  "subtitle": "20261123~20261123",
+                  "subtitle": "20261123~20261129",
                   "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；商品實際內容以賣場實物為準。"
                 },
                 {
@@ -408,7 +408,7 @@
                   "discount": [],
                   "type": "product",
                   "thumbnail": "/black2026/20261122_2003.jpg",
-                  "subtitle": "20261123~20261123",
+                  "subtitle": "20261123~20261129",
                   "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；商品實際內容以賣場實物為準。"
                 }
               ]
