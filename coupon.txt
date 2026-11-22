@@ -1,5 +1,5 @@
 {
-  "version": "20260411",
+  "version": "20260412",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -48,7 +48,7 @@
                   "discount": [],
                   "type": "product",
                   "thumbnail": "/black2026/20261122_1002.jpg",
-                  "subtitle": "20261123~20261123",
+                  "subtitle": "20261123~20261126",
                   "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；商品實際內容以賣場實物為準。"
                 }
               ]
