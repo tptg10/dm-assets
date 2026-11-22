@@ -1,5 +1,5 @@
 {
-  "version": "20260412",
+  "version": "20260413",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -1311,6 +1311,46 @@
                   "thumbnail": "/limited/20261026_5000_66.jpg",
                   "subtitle": "20261026~20261122",
                   "extra": "會員皮夾第一波優惠；僅限好市多線上購物；活動數量有限，售完為止。"
+                }
+              ]
+            }
+          },
+          {
+            "title": "線上 20261129~20261129",
+            "subtitle": "20261129~20261129",
+            "type": "sub|textonly",
+            "thumbnail": "/black2026/20261122_01.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "倍耐力輪胎",
+                  "id": "",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261122_2001.jpg",
+                  "subtitle": "20261123~20261123",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；商品實際內容以賣場實物為準。"
+                },
+                {
+                  "title": "HP ELITEBOOK 635 AERO G11 13.3吋商用筆記型電腦",
+                  "id": "",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261122_2002.jpg",
+                  "subtitle": "20261123~20261123",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；商品實際內容以賣場實物為準。"
+                },
+                {
+                  "title": "SOUNDCORE AI卡拉 OK 派對音箱",
+                  "id": "",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261122_2003.jpg",
+                  "subtitle": "20261123~20261123",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；商品實際內容以賣場實物為準。"
                 }
               ]
             }
