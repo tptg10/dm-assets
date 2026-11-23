@@ -15,21 +15,301 @@
         "display": "passport",
         "extra": [
           {
-            "title": "20261123~20261123",
-            "subtitle": "20261123~20261123",
+            "title": "20261124~20261206",
+            "subtitle": "20261124~20261206",
             "type": "sub|textonly",
-            "thumbnail": "/black2026/20261122_01.jpg",
+            "thumbnail": "/black2026/20261123_01.jpg",
             "extra": {
               "extra": [
                 {
-                  "title": "美國頂級嫩肩里肌真空包",
-                  "id": "",
+                  "title": "CUISINART 美膳雅 17公升氣炸烤箱 CTOA-130PC3TW",
+                  "id": "136546",
                   "price": [],
                   "discount": [],
                   "type": "product",
-                  "thumbnail": "/black2026/20261122_1001.jpg",
-                  "subtitle": "20261123~20261123",
+                  "thumbnail": "/black2026/20261123_01.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "SIDIZ 人體工學網布辦公椅 尺寸約寬65×深67×高114.5公分",
+                  "id": "158418",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_02.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；商品實際尺寸以賣場陳列為準。"
+                },
+                {
+                  "title": "LAIFEN 徠芬 高速吹風機 MINI",
+                  "id": "163035",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_03.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "ZOJIRUSHI 象印 不鏽鋼真空保冷保溫瓶 每個600毫升 2入",
+                  "id": "146824",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_04.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；商品實際顏色以賣場陳列為準。"
+                },
+                {
+                  "title": "ASTON MARTIN F1兒童電動玩具車",
+                  "id": "150557",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_05.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "MCLAREN 兒童電動卡丁車",
+                  "id": "150989",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_06.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "BOSCH 60公分獨立式洗碗機 SMS4ITW00X",
+                  "id": "154940",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_07.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "TRYALL 分離豌豆植物蛋白芝麻奶風味 2.5公斤",
+                  "id": "155642",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_08.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "ORAL-B 歐樂B IO GUMCARE 微震科技充電式電動牙刷 兩刷柄／六刷頭",
+                  "id": "161458",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_09.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "CREST 隨身牙齒美白筆 每支2毫升 2支入",
+                  "id": "161599",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_10.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "SAMSUNG 75吋 NEO QLED 顯示器 QA75QN70HAXXZW",
+                  "id": "163016",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_11.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "寶可夢／酷洛米後背包 尺寸約26×14×38公分",
+                  "id": "163121",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_12.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "TCL 55吋 MINILED 顯示器 55A400M",
+                  "id": "163129",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_13.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "LEGO 樂高 暗黑插花擺飾 BOTANICALS 11513",
+                  "id": "163209",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_14.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "LEGO 樂高 猛毒胸像 SUPER HEROES 76356",
+                  "id": "163210",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_15.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "LEGO 樂高 協和號超音速客機／回到未來時光機 10318／10300",
+                  "id": "163211",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_16.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "LEGO 樂高 101忠狗小狗 DISNEY 43269",
+                  "id": "163213",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_17.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "MSI 23.8吋平面電競螢幕 G242L E14",
+                  "id": "163462",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_18.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "ROG 無線藍牙耳機 SPEEDNOVA",
+                  "id": "163533",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_19.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "MAMYPOKO 滿意寶寶 三麗鷗輕巧褲 L 186片／XL 162片",
+                  "id": "160901/160902",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_20.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "PANASONIC 國際牌 18公升變頻除濕機 F-YV36QNS",
+                  "id": "164153",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_21.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "ELECTROLUX 伊萊克斯 45公分獨立式洗碗機 EFS3060VWB",
+                  "id": "164606",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_22.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "0.6克拉圓形鑽石項鍊 14K白K金 VS2/I",
+                  "id": "2070172",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_23.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "1.0克拉圓形鑽石戒指 鉑金 VS2/I",
+                  "id": "2078692",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_24.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "BIODERMA 貝膚黛瑪 舒敏潔膚液組 850毫升×3入＋100毫升×2入",
+                  "id": "236795",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_25.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "M2 美度 超能膠原新生組 膠原飲50毫升×8包＋新生飲50毫升×8包＋水光飲35毫升×8包",
+                  "id": "249523",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_26.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "熟凍松葉蟹拼盤 600公克",
+                  "id": "415653/515653",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_27.jpg",
+                  "subtitle": "20261124~20261206",
                   "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；商品實際內容以賣場實物為準。"
+                },
+                {
+                  "title": "BEURER 博依 床墊型電毯 雙人雙控長效型 TS26XXL 尺寸約140×150公分",
+                  "id": "592906",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_28.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；商品實際款式及尺寸以賣場陳列為準。"
+                },
+                {
+                  "title": "L’OREAL 巴黎萊雅 金緻護髮精油組 茉莉小蒼蘭100毫升×2入＋金色款30毫升×1入",
+                  "id": "1328989",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261123_29.jpg",
+                  "subtitle": "20261124~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
                 }
               ]
             }
