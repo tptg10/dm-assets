@@ -1,5 +1,5 @@
 {
-  "version": "20260417",
+  "version": "20260420",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -14,6 +14,256 @@
       "extra": {
         "display": "passport",
         "extra": [
+          {
+            "title": "20261125~20261125",
+            "subtitle": "20261125~20261125",
+            "type": "sub|textonly",
+            "thumbnail": "/black2026/20261124_01.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "日本A4和牛 紐約客真空包",
+                  "id": "118497",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261124_1001.jpg",
+                  "subtitle": "20261125~20261125",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；2026/11/25（三）每公斤省下金額550元；本商品為秤重商品，商品實際內容以賣場實物為準；活動數量有限，售完為止。"
+                }
+              ]
+            }
+          },
+          {
+            "title": "20261125~20261206",
+            "subtitle": "20261125~20261206",
+            "type": "sub|textonly",
+            "thumbnail": "/black2026/20261124_01.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "M2R 全罩式雙鏡安全帽 ST-303 尺寸L/XL",
+                  "id": "148152",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261124_01.jpg",
+                  "subtitle": "20261125~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "MATSU 馬祖 高粱酒58度 600毫升",
+                  "id": "132202",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261124_02.jpg",
+                  "subtitle": "20261125~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；禁止酒駕，未滿十八歲禁止飲酒。"
+                },
+                {
+                  "title": "KOHLER 瞬熱電腦馬桶座",
+                  "id": "143848",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261124_03.jpg",
+                  "subtitle": "20261125~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "ACER 電動滑板車 ES SERIES 7",
+                  "id": "151497",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261124_04.jpg",
+                  "subtitle": "20261125~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "LISTERINE 李施德霖 全效無酒精漱口水 1公升×3瓶＋250毫升",
+                  "id": "141516",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261124_05.jpg",
+                  "subtitle": "20261125~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "SOODATEK GAN PD 140W 氮化鎵急速充電USB-C套裝",
+                  "id": "157488",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261124_06.jpg",
+                  "subtitle": "20261125~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "PREDATOR 有線青軸鍵盤 中文注音 AETHON 303",
+                  "id": "159185",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261124_07.jpg",
+                  "subtitle": "20261125~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "TP-LINK 旋轉式WI-FI攝影機 C212",
+                  "id": "154100",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261124_08.jpg",
+                  "subtitle": "20261125~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "SAMSONITE 22＋29吋行李箱二入組",
+                  "id": "154097",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261124_09.jpg",
+                  "subtitle": "20261125~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "TEMPUR 丹普 星動枕 尺寸50×31×11.5公分",
+                  "id": "159280",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261124_10.jpg",
+                  "subtitle": "20261125~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；商品實際款式及尺寸以賣場陳列為準。"
+                },
+                {
+                  "title": "AHC 保濕B5微導化妝水 300毫升",
+                  "id": "159745",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261124_11.jpg",
+                  "subtitle": "20261125~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "HP 16吋AI筆記型電腦 16-BV0029AU",
+                  "id": "162977",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261124_12.jpg",
+                  "subtitle": "20261125~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "SAMSUNG 65吋MINILED顯示器 UA65M70HAXXZW",
+                  "id": "163019",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261124_13.jpg",
+                  "subtitle": "20261125~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "ROG 無線電競滑鼠 HARPE ACE MINI",
+                  "id": "163534",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261124_14.jpg",
+                  "subtitle": "20261125~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "STEELSERIES 有線電競耳機麥克風 ARCTIS NOVA PRO X",
+                  "id": "163536",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261124_15.jpg",
+                  "subtitle": "20261125~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "ASUS PROART無線滑鼠 MD301",
+                  "id": "164028",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261124_16.jpg",
+                  "subtitle": "20261125~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "AHC 溫感面膜組20入 透亮玫瑰金＋緊緻鉑金 各10片",
+                  "id": "230691",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261124_17.jpg",
+                  "subtitle": "20261125~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "BELIF 紫芹潤澤炸彈霜 每條31毫升 2條入",
+                  "id": "254032",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261124_18.jpg",
+                  "subtitle": "20261125~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "MORISHITA 單人舒適支撐床墊 尺寸約91×190×8公分",
+                  "id": "661888",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261124_19.jpg",
+                  "subtitle": "20261125~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；商品實際款式及尺寸以賣場陳列為準。"
+                },
+                {
+                  "title": "MARISTEIGER 雙面砧板",
+                  "id": "676043",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261124_20.jpg",
+                  "subtitle": "20261125~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；商品實際顏色以賣場陳列為準。"
+                },
+                {
+                  "title": "TRUE INNOVATION 主管辦公椅 尺寸約寬73×深74×高104-114公分",
+                  "id": "1782761",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261124_21.jpg",
+                  "subtitle": "20261125~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；商品實際尺寸以賣場陳列為準。"
+                },
+                {
+                  "title": "SPACEMADE 多功能摺疊推車 尺寸約43×39×104公分",
+                  "id": "1937904",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261124_22.jpg",
+                  "subtitle": "20261125~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；商品實際尺寸以賣場陳列為準。"
+                }
+              ]
+            }
+          },
           {
             "title": "20261124~20261206",
             "subtitle": "20261124~20261206",
