@@ -1,5 +1,5 @@
 {
-  "version": "20260420",
+  "version": "20260421",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -14,6 +14,246 @@
       "extra": {
         "display": "passport",
         "extra": [
+          {
+            "title": "20261126~20261127",
+            "subtitle": "20261126~20261127",
+            "type": "sub|textonly",
+            "thumbnail": "/black2026/20261125_1001.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "RED DRAGON 紅龍 冷凍雞塊 3公斤",
+                  "id": "18382",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261125_1001.jpg",
+                  "subtitle": "20261126~20261127",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；2026/11/26～11/27 省下金額100元；活動數量有限，售完為止。"
+                }
+              ]
+            }
+          },
+          {
+            "title": "20261126~20261206",
+            "subtitle": "20261126~20261206",
+            "type": "sub|textonly",
+            "thumbnail": "/black2026/20261125_01.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "CUISINART 美膳雅 全自動義式咖啡機 EM-550TW",
+                  "id": "162338",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261125_01.jpg",
+                  "subtitle": "20261126~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "LE CREUSET 鑄鐵圓形燉鍋含蓋 24公分／3.4公升",
+                  "id": "161973",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261125_02.jpg",
+                  "subtitle": "20261126~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；商品實際顏色以賣場陳列為準。"
+                },
+                {
+                  "title": "RED COW 紅牛聰勁 濃縮乳清蛋白烏龍奶茶 2.27公斤",
+                  "id": "161377",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261125_03.jpg",
+                  "subtitle": "20261126~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "SOFY 蘇菲 超熟睡夜用安心褲 M-L號／XL號 40片入",
+                  "id": "160907/160908",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261125_04.jpg",
+                  "subtitle": "20261126~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "SHL BY SAHOLEA 森歐黎漾 山茶花洗髮露 1200毫升",
+                  "id": "160698",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261125_05.jpg",
+                  "subtitle": "20261126~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "CATERPILLAR 棒球帽 單一尺寸",
+                  "id": "159689",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261125_06.jpg",
+                  "subtitle": "20261126~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；商品實際款式及尺寸以賣場陳列為準。"
+                },
+                {
+                  "title": "SHARP 夏普 清淨除濕機 12公升 DW-CA12FT-S",
+                  "id": "158448",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261125_07.jpg",
+                  "subtitle": "20261126~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "I-MEI MACROBIOTICS 義美生機 甜心草莓 160公克",
+                  "id": "144658",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261125_08.jpg",
+                  "subtitle": "20261126~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "CHATEAU LYNCH BAGES 法國波爾多紅葡萄酒 2022年 750毫升",
+                  "id": "142095",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261125_09.jpg",
+                  "subtitle": "20261126~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；禁止酒駕，未滿十八歲禁止飲酒。"
+                },
+                {
+                  "title": "ACUVUE 安視優 歐舒適每日拋棄式隱形眼鏡 90片入",
+                  "id": "",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261125_10.jpg",
+                  "subtitle": "20261126~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；買4盒省下金額1600元。"
+                },
+                {
+                  "title": "KIRKLAND SIGNATURE 科克蘭 蒜辣薄皮脆雞桶 6入",
+                  "id": "376688",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261125_11.jpg",
+                  "subtitle": "20261126~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "1.0克拉圓形鑽石耳環 14K白K金 VS2/I",
+                  "id": "2070151",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261125_12.jpg",
+                  "subtitle": "20261126~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "KIRKLAND SIGNATURE 科克蘭 蒜辣薄皮脆雞桶 6入",
+                  "id": "376688",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261125_13.jpg",
+                  "subtitle": "20261126~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "1.0克拉圓形鑽石耳環 14K白K金 VS2/I",
+                  "id": "2070151",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261125_14.jpg",
+                  "subtitle": "20261126~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "32 DEGREES 女羽絨背心 美國尺寸S-XL",
+                  "id": "2010332",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261125_15.jpg",
+                  "subtitle": "20261126~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；商品實際款式及尺寸以賣場陳列為準。"
+                },
+                {
+                  "title": "RASTAR 1:8收藏積木模型 92410賽車 靜態版",
+                  "id": "165220",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261125_16.jpg",
+                  "subtitle": "20261126~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "ACER 14吋 AI筆記型電腦 ASP14-51N-52RQ",
+                  "id": "163471",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261125_17.jpg",
+                  "subtitle": "20261126~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "SAMSUNG 55吋 NEO QLED 顯示器 QA55QN70HAXXZW",
+                  "id": "163018",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261125_18.jpg",
+                  "subtitle": "20261126~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "ELIZABETH ARDEN 白茶香氛組香水及沐浴膠 白茶香水100毫升＋白茶粉紅蒼蘭香水50毫升＋白茶香水沐浴膠390毫升",
+                  "id": "159478",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261125_19.jpg",
+                  "subtitle": "20261126~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "ADIDAS 遮陽帽 單一尺寸",
+                  "id": "1307681",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261125_20.jpg",
+                  "subtitle": "20261126~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；商品實際款式及尺寸以賣場陳列為準。"
+                },
+                {
+                  "title": "1.0克拉圓形鑽石耳環 14K白K金 VS2/I",
+                  "id": "1342638",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261125_21.jpg",
+                  "subtitle": "20261126~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                }
+              ]
+            }
+          },
           {
             "title": "20261125~20261125",
             "subtitle": "20261125~20261125",
