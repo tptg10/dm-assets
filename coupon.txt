@@ -1,5 +1,5 @@
 {
-  "version": "20260421",
+  "version": "20260422",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -14,6 +14,246 @@
       "extra": {
         "display": "passport",
         "extra": [
+          {
+            "title": "20261127~20261129",
+            "subtitle": "20261127~20261129",
+            "type": "sub|textonly",
+            "thumbnail": "/black2026/20261126_1001.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "產銷履歷椪柑 2.4公斤",
+                  "id": "79533",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261126_1001.jpg",
+                  "subtitle": "20261127~20261129",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；商品實際內容以賣場實物為準。"
+                }
+              ]
+            }
+          },
+          {
+            "title": "20261127~20261206",
+            "subtitle": "20261127~20261206",
+            "type": "sub|textonly",
+            "thumbnail": "/black2026/20261126_01.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "QUAKER 桂格 黃金麩片燕麥片 1.7公斤",
+                  "id": "108128",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261126_01.jpg",
+                  "subtitle": "20261127~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "LG PURICARE 360度空氣清淨機 AS651DWH0",
+                  "id": "136662",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261126_02.jpg",
+                  "subtitle": "20261127~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "BOSE 兩件式家庭劇院組 SOUNDBAR550+BASS MODULE500",
+                  "id": "142073",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261126_03.jpg",
+                  "subtitle": "20261127~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "TANGYUE RESORT 湯悅溫泉會館 雙人一泊三食住宿券 含兩客早餐晚餐及下午茶、兩人浴衣體驗一小時",
+                  "id": "145693",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261126_04.jpg",
+                  "subtitle": "20261127~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；住宿券內容及使用條件以商品說明為準。"
+                },
+                {
+                  "title": "ORANGE HOUSE 橘子工坊 天然制菌除臭酵素洗衣膠囊 每袋48顆 2袋入",
+                  "id": "149481",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261126_05.jpg",
+                  "subtitle": "20261127~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "KOH 純椰子水 每瓶250毫升 24瓶入",
+                  "id": "154461",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261126_06.jpg",
+                  "subtitle": "20261127~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "EUFY 三合一掃地機器人 E20 T2070",
+                  "id": "157135",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261126_07.jpg",
+                  "subtitle": "20261127~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "ROBOROCK 石頭 掃拖機器人 QREVO S C",
+                  "id": "157314",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261126_08.jpg",
+                  "subtitle": "20261127~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "JBL 便攜式派對藍芽喇叭麥克風 PARTYBOX ESSENTIAL 2 PBM100",
+                  "id": "159705",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261126_09.jpg",
+                  "subtitle": "20261127~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "NEW BALANCE 996經典復古運動鞋 男鞋／女鞋 美國尺寸男8-11、女6-8.5",
+                  "id": "160660/160661",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261126_10.jpg",
+                  "subtitle": "20261127~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；商品實際款式及尺寸以賣場陳列為準。"
+                },
+                {
+                  "title": "HAAGEN-DAZS 哈根達斯 濃醇雙享雪酥 每盒62.3公克 10入",
+                  "id": "160877",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261126_11.jpg",
+                  "subtitle": "20261127~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "LG 65吋 QNED顯示器 65QNED70BTA",
+                  "id": "162870",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261126_12.jpg",
+                  "subtitle": "20261127~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "ASUS 16吋筆記型電腦 X1652DA-0021S3501U",
+                  "id": "162982",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261126_13.jpg",
+                  "subtitle": "20261127~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "TCL 75吋 QD-MINILED 顯示器 75A400M",
+                  "id": "163105",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261126_14.jpg",
+                  "subtitle": "20261127~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "KUNDAL 塔羅香氛擴香組 每瓶320毫升 3瓶入",
+                  "id": "163115",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261126_15.jpg",
+                  "subtitle": "20261127~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "WANCHAI FERRY 灣仔碼頭 冷凍脆皮爆汁煎餃 高麗菜豬肉口味 每包400公克 4包入",
+                  "id": "163357",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261126_16.jpg",
+                  "subtitle": "20261127~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "MSI 17.3吋電競筆記型電腦 B2RWFKG-426TW",
+                  "id": "163468",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261126_17.jpg",
+                  "subtitle": "20261127~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "SILCOT 絲花 美顏洗臉巾 每包40張 8包入",
+                  "id": "158787",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261126_18.jpg",
+                  "subtitle": "20261127~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "DREAME 追覓 洗地機 H14 PRO",
+                  "id": "164629",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261126_19.jpg",
+                  "subtitle": "20261127~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "0.8克拉圓形鑽石項鍊 18K白K金 VS2/I",
+                  "id": "2105439",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261126_20.jpg",
+                  "subtitle": "20261127~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "AIRIA LIVING 旅行記憶棉頸枕 尺寸約23×22×12.5公分",
+                  "id": "696648",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261126_21.jpg",
+                  "subtitle": "20261127~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；活動數量有限，售完為止。；商品實際款式及尺寸以賣場陳列為準。"
+                }
+              ]
+            }
+          },
           {
             "title": "20261126~20261127",
             "subtitle": "20261126~20261127",
