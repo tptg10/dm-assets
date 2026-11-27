@@ -1,5 +1,5 @@
 {
-  "version": "20260422",
+  "version": "20260423",
   "TA_NATIVE": "false",
   "AD2_NATIVE": "true",
   "ADBERT_NATIVE": "true",
@@ -14,6 +14,206 @@
       "extra": {
         "display": "passport",
         "extra": [
+          {
+            "title": "20261128~20261206",
+            "subtitle": "20261128~20261206",
+            "type": "sub|textonly",
+            "thumbnail": "/black2026/20261127_02.jpg",
+            "extra": {
+              "extra": [
+                {
+                  "title": "聖沛黎洛 氣泡礦泉水 寶特瓶裝",
+                  "id": "56570",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261127_01.jpg",
+                  "subtitle": "20261128~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；省下金額150元；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "GODIVA 牛奶巧克力冰淇淋 1.32公斤",
+                  "id": "160965",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261127_02.jpg",
+                  "subtitle": "20261128~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；省下金額150元；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "ZWILLING BBQ+ 二合一止滑竹製砧板附托盤",
+                  "id": "160927",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261127_03.jpg",
+                  "subtitle": "20261128~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；省下金額250元；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "DYSON 戴森 強效極靜空氣清淨機 BP02",
+                  "id": "154675",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261127_04.jpg",
+                  "subtitle": "20261128~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；省下金額1700元；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "24K黃金項鍊 花飛蝶舞 1485厘／55.6875克",
+                  "id": "149284",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261127_05.jpg",
+                  "subtitle": "20261128~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；省下金額18100元；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "LG UV抑菌雙變頻除濕機 16公升 MD161QBEO",
+                  "id": "146161",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261127_06.jpg",
+                  "subtitle": "20261128~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；省下金額3400元；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "999.9財富女金條 500克",
+                  "id": "145248",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261127_07.jpg",
+                  "subtitle": "20261128~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；省下金額30000元；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "TEFAL 法國特福 綠生活系列陶瓷不沾鍋具含蓋 3件組",
+                  "id": "142941",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261127_08.jpg",
+                  "subtitle": "20261128~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；省下金額880元；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "FEIT 7.5W LED可調色溫球泡燈 5入",
+                  "id": "142186",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261127_09.jpg",
+                  "subtitle": "20261128~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；省下金額150元；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "CHATEAU SMITH HAUT LAFITTE 法國波爾多紅葡萄酒 2022年 750毫升",
+                  "id": "142118",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261127_10.jpg",
+                  "subtitle": "20261128~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；省下金額1140元；禁止酒駕，未滿十八歲禁止飲酒；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "TCL 65吋 QD-MINILED顯示器 65A400M",
+                  "id": "163127",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261127_11.jpg",
+                  "subtitle": "20261128~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；省下金額5800元；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "DYSON 戴森 手提無線吸塵器 V8 SV25 FLUFFY",
+                  "id": "163491",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261127_12.jpg",
+                  "subtitle": "20261128~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；省下金額800元；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "YOSHIKAWA 日本製不鏽鋼木把湯鍋 18／20公分 2件組",
+                  "id": "168190",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261127_13.jpg",
+                  "subtitle": "20261128~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；省下金額216元；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "TOMMY HILFIGER 男刷毛長袖上衣 美國尺寸S-XL",
+                  "id": "2010534",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261127_14.jpg",
+                  "subtitle": "20261128~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；省下金額200元；商品實際款式及尺寸以賣場陳列為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "TRUE NORTH 男100%美麗諾羊毛上衣 亞洲尺寸S-XL",
+                  "id": "2025450",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261127_15.jpg",
+                  "subtitle": "20261128~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；省下金額160元；商品實際款式及尺寸以賣場陳列為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "SAN PELLEGRINO 聖沛黎洛 氣泡礦泉水寶特瓶裝 每瓶1公升 12瓶入",
+                  "id": "56570",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261127_16.jpg",
+                  "subtitle": "20261128~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；省下金額100元；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "OCEAN SPRAY 全果蔓越莓乾 1.36公斤",
+                  "id": "620856",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261127_17.jpg",
+                  "subtitle": "20261128~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；省下金額90元；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "刻花魷魚 700公克",
+                  "id": "701333",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261127_18.jpg",
+                  "subtitle": "20261128~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；省下金額86元；商品實際內容以賣場實物為準；活動數量有限，售完為止。"
+                },
+                {
+                  "title": "COLONA 香辣甜洋蔥醬 每瓶865公克 2瓶入",
+                  "id": "8588657",
+                  "price": [],
+                  "discount": [],
+                  "type": "product",
+                  "thumbnail": "/black2026/20261127_19.jpg",
+                  "subtitle": "20261128~20261206",
+                  "extra": "BLACK FRIDAY 黑色星期五優惠；省下金額80元；活動數量有限，售完為止。"
+                }
+              ]
+            }
+          },
           {
             "title": "20261127~20261129",
             "subtitle": "20261127~20261129",
